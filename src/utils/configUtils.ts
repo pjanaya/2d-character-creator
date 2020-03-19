@@ -1,0 +1,12 @@
+import ConfigUtils from "../interfaces/ConfigUtils";
+import config from "../config";
+
+const configUtils: ConfigUtils = {
+  partType: {
+    usesSkinTone: (partTypeId: number) =>
+      config.partTypes.find(partType => partType.id === partTypeId)
+        ?.useSkinColor || false
+  }
+};
+
+export default configUtils;

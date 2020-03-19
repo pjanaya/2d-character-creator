@@ -1,0 +1,17 @@
+.partTypes {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.partType {
+  border: 1px solid black;
+  padding: 5px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.partTypeSelected {
+  @extend .partType;
+
+  border: 2px solid red;
+}
