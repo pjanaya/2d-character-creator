@@ -1,20 +1,22 @@
 import React from "react";
 import PartLayer from "../components/PartLayer";
-import PartInfo from "../interfaces/PartInfo";
 
 import classes from "./Character.module.scss";
+import { ConfigImage, ConfigPart } from "../interfaces/Config";
 
 interface CharacterProps {
-  partInfoArray: PartInfo[];
+  partsArray: ConfigPart[];
 }
 
 const Character = (props: CharacterProps) => {
   return (
     <React.Fragment>
       <div className={classes.Character}>
-        {props.partInfoArray.map((partInfo: PartInfo) => (
-          <PartLayer partInfo={partInfo}></PartLayer>
-        ))}
+        {props.partsArray.map((part: ConfigPart) =>
+          part.images.map((image: ConfigImage, index: number) => (
+            <PartLayer key={index} image={image}></PartLayer>
+          ))
+        )}
       </div>
     </React.Fragment>
   );

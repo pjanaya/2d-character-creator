@@ -16,9 +16,10 @@ export const SkinTones = (props: SkinTonesProps) => {
       <div className={classes.skinTones}>
         {props.colors
           .filter(color => color.isSkinTone)
-          .map(color =>
+          .map((color, index) =>
             Array.isArray(color.hex) ? (
               <div
+                key={index}
                 className={
                   color.id === props.skinTone
                     ? classes.skinToneMultipleSelected
@@ -34,6 +35,7 @@ export const SkinTones = (props: SkinTonesProps) => {
               </div>
             ) : (
               <div
+                key={index}
                 className={
                   color.id === props.skinTone
                     ? classes.skinToneSelected

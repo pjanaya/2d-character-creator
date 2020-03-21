@@ -14,8 +14,9 @@ export const PartTypes = (props: PartTypesProps) => {
     <div>
       <div>Part Types:</div>
       <div className={classes.partTypes}>
-        {props.partTypes.map(partType => (
+        {props.partTypes.map((partType, index) => (
           <div
+            key={index}
             className={
               partType.id === props.partType
                 ? classes.partTypeSelected

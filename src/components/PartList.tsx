@@ -2,12 +2,11 @@ import React from "react";
 import { ConfigPart } from "../interfaces/Config";
 
 import classes from "./PartList.module.scss";
-import PartInfo from "../interfaces/PartInfo";
 import configUtils from "../utils/configUtils";
 
 interface PartListProps {
   parts: ConfigPart[];
-  addPart: (newPart: PartInfo[]) => void;
+  addPart: (newPart: ConfigPart) => void;
   partType: number;
   skinTone: number;
 }
@@ -24,11 +23,12 @@ export const PartList = (props: PartListProps) => {
               ? part.colorId === props.skinTone
               : true
           )
-          .map(part => (
+          .map((part, index) => (
             <div
+              key={index}
               className={classes.partItem}
               onClick={() => {
-                props.addPart(part.images);
+                props.addPart(part);
               }}
             >
               {part.name}

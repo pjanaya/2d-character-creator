@@ -5,7 +5,7 @@ const configUtils: ConfigUtils = {
   partType: {
     usesSkinTone: (partTypeId: number) =>
       config.partTypes.find(partType => partType.id === partTypeId)
-        ?.useSkinColor || false
+        ?.useSkinTone || false
   }
 };
 

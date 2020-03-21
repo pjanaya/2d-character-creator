@@ -1,13 +1,13 @@
 import React from "react";
-import PartInfo from "../interfaces/PartInfo";
 import config from "../config";
 
 import { SkinTones } from "../components/SkinTones";
 import { PartTypes } from "../components/PartTypes";
 import { PartList } from "../components/PartList";
+import { ConfigPart } from "../interfaces/Config";
 
 interface SelectorProps {
-  addPart: (newPart: PartInfo[]) => void;
+  addPart: (newPart: ConfigPart) => void;
   changeSkinTone: (newSkinTone: number) => void;
   skinTone: number;
 }

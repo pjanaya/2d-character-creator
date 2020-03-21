@@ -1,20 +1,20 @@
 import React from "react";
 
 import classes from "./PartLayer.module.scss";
-import PartInfo from "../interfaces/PartInfo";
+import { ConfigImage } from "../interfaces/Config";
 
 interface PartLayerProps {
-  partInfo: PartInfo;
+  image: ConfigImage;
 }
 
 const PartLayer = (props: PartLayerProps) => {
   const urlPrefix = process.env.PUBLIC_URL + "/character_parts";
   return (
-    <div
-      className={classes.Layer}
-      style={{ zIndex: props.partInfo.zIndex || 1 }}
-    >
-      <img src={urlPrefix + "/" + props.partInfo.filename + ".png"} />
+    <div className={classes.Layer} style={{ zIndex: props.image.zIndex }}>
+      <img
+        src={urlPrefix + "/" + props.image.filename + ".png"}
+        alt={props.image.filename}
+      />
     </div>
   );
 };
