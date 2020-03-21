@@ -8,15 +8,20 @@ export interface ConfigColor {
 export interface ConfigPartType {
   id: number;
   name: string;
-  useSkinColor?: boolean;
+  useSkinTone?: boolean;
+}
+
+export interface ConfigImage {
+  filename: string;
+  zIndex: number;
 }
 
 export interface ConfigPart {
   id: number;
   name: string;
   partTypeId: number;
-  images: { filename: string; zIndex: number }[];
-  bodyTypeId?: number;
+  images: ConfigImage[];
+  groupId?: number;
   colorId?: number;
 }
 
