@@ -9,6 +9,7 @@ export interface ConfigColor {
 export interface ConfigPartType {
   id: number;
   name: string;
+  iconFilename: string;
   useSkinTone?: boolean;
   useHairColor?: boolean;
   boundToBodyShape?: boolean;

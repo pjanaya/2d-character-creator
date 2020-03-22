@@ -1,15 +1,37 @@
 import ConfigUtils from "../interfaces/ConfigUtils";
 import config from "../config";
-import Config, { ConfigPart } from "../interfaces/Config";
+import Config, { ConfigPart, ConfigPartType } from "../interfaces/Config";
 
 const configUtils: ConfigUtils = {
+  filter: {
+    byPartType: (part: ConfigPart, partType: number) =>
+      part.partTypeId === partType,
+    bySkinTone: (part: ConfigPart, skinTone: number) =>
+      configUtils.partType.usesSkinTone(part.partTypeId)
+        ? part.colorId === skinTone
+        : true,
+    byBodyShape: (part: ConfigPart, partsArray: ConfigPart[]) =>
+      configUtils.partType.boundToBodyShape(part.partTypeId)
+        ? part.bodyShapeId === configUtils.part.selectedBodyShape(partsArray)
+        : true
+  },
+  reduce: {
+    byPartName: (accumulator: ConfigPart[], currentValue: ConfigPart) =>
+      accumulator.some(part => part.name === currentValue.name)
+        ? [...accumulator]
+        : [...accumulator, currentValue]
+  },
   partType: {
     usesSkinTone: (partTypeId: number) =>
       config.partTypes.find(partType => partType.id === partTypeId)
         ?.useSkinTone || false,
     boundToBodyShape: (partTypeId: number) =>
       config.partTypes.find(partType => partType.id === partTypeId)
-        ?.boundToBodyShape || false
+        ?.boundToBodyShape || false,
+    getPartIcon: (partTypeId: number) =>
+      (config.partTypes.find(
+        partType => partType.id === partTypeId
+      ) as ConfigPartType).iconFilename
   },
   part: {
     replacePart: (oldPart: ConfigPart, newPart: ConfigPart) => {

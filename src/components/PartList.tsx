@@ -1,5 +1,5 @@
 import React from "react";
-import { ConfigPart } from "../interfaces/Config";
+import { ConfigPart, ConfigImage } from "../interfaces/Config";
 
 import classes from "./PartList.module.scss";
 import configUtils from "../utils/configUtils";
@@ -14,23 +14,17 @@ interface PartListProps {
 }
 
 export const PartList = (props: PartListProps) => {
+  const { filter, reduce } = configUtils;
+
   return (
     <div>
       <div>Variants:</div>
       <div className={classes.partList}>
         {props.parts
-          .filter(part => part.partTypeId === props.partType)
-          .filter(part =>
-            configUtils.partType.usesSkinTone(part.partTypeId)
-              ? part.colorId === props.skinTone
-              : true
-          )
-          .filter(part =>
-            configUtils.partType.boundToBodyShape(part.partTypeId)
-              ? part.bodyShapeId ===
-                configUtils.part.selectedBodyShape(props.partsArray)
-              : true
-          )
+          .filter(part => filter.byPartType(part, props.partType))
+          .filter(part => filter.bySkinTone(part, props.skinTone))
+          .filter(part => filter.byBodyShape(part, props.partsArray))
+          .reduce(reduce.byPartName, [])
           .map((part, index) => (
             <div
               key={index}

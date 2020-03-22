@@ -219,81 +219,98 @@ const config: Config = {
     {
       id: 0,
       name: "Body",
-      useSkinTone: true
+      useSkinTone: true,
+      iconFilename: "icon_body"
     },
     {
       id: 1,
       name: "Head",
-      useSkinTone: true
+      useSkinTone: true,
+      iconFilename: "icon_head"
     },
     {
       id: 7,
-      name: "Eyes"
+      name: "Eyes",
+      iconFilename: "icon_eyes"
     },
     {
       id: 14,
       name: "Eyebrows",
-      useHairColor: true
+      useHairColor: true,
+      iconFilename: "icon_eyebrows"
     },
     {
       id: 8,
       name: "Nose",
-      useSkinTone: true
+      useSkinTone: true,
+      iconFilename: "icon_nose"
     },
     {
       id: 9,
-      name: "Mouth"
+      name: "Mouth",
+      iconFilename: "icon_mouth"
     },
     {
       id: 5,
       name: "Hair",
-      useHairColor: true
+      useHairColor: true,
+      iconFilename: "icon_hair"
     },
     {
       id: 6,
       name: "Facial Hair",
-      useHairColor: true
+      useHairColor: true,
+      iconFilename: "icon_facialhair"
     },
     {
       id: 13,
-      name: "Marks"
+      name: "Marks",
+      iconFilename: "icon_marks"
     },
     {
       id: 15,
-      name: "Piercings"
+      name: "Piercings",
+      iconFilename: "icon_piercings"
     },
     {
       id: 2,
       name: "Inner layer",
-      boundToBodyShape: true
+      boundToBodyShape: true,
+      iconFilename: "icon_innerlayer"
     },
     {
       id: 3,
       name: "Second Layer",
-      boundToBodyShape: true
+      boundToBodyShape: true,
+      iconFilename: "icon_secondlayer"
     },
     {
       id: 4,
       name: "Third Layer",
-      boundToBodyShape: true
+      boundToBodyShape: true,
+      iconFilename: "icon_thirdlayer"
     },
     {
       id: 16,
       name: "Pants",
-      boundToBodyShape: true
+      boundToBodyShape: true,
+      iconFilename: "icon_pants"
     },
     {
       id: 10,
-      name: "Accesories"
+      name: "Accesories",
+      iconFilename: "icon_accesories"
     },
     {
       id: 11,
-      name: "Glasses"
+      name: "Glasses",
+      iconFilename: "icon_glasses"
     },
     {
       id: 12,
       name: "Back Hair",
-      useHairColor: true
+      useHairColor: true,
+      iconFilename: "icon_backhair"
     }
   ],
   parts: [

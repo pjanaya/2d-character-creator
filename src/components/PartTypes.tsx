@@ -10,6 +10,8 @@ interface PartTypesProps {
 }
 
 export const PartTypes = (props: PartTypesProps) => {
+  const urlPrefix = process.env.PUBLIC_URL + "/parts_icons";
+
   return (
     <div>
       <div>Part Types:</div>
@@ -26,7 +28,12 @@ export const PartTypes = (props: PartTypesProps) => {
               props.setPartType(partType.id);
             }}
           >
-            {partType.name}
+            <img
+              src={urlPrefix + "/" + partType.iconFilename + ".png"}
+              alt={partType.iconFilename}
+              className={classes.partTypeIcon}
+            />
+            {/* {partType.name} */}
           </div>
         ))}
       </div>
