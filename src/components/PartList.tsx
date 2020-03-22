@@ -7,6 +7,7 @@ import configUtils from "../utils/configUtils";
 interface PartListProps {
   parts: ConfigPart[];
   addPart: (newPart: ConfigPart) => void;
+  removePart: (removedPart: ConfigPart) => void;
   partType: number;
   skinTone: number;
   partsArray: ConfigPart[];
@@ -39,7 +40,11 @@ export const PartList = (props: PartListProps) => {
                   : classes.partItem
               }
               onClick={() => {
-                props.addPart(part);
+                if (props.partsArray.some(layer => layer.id === part.id)) {
+                  props.removePart(part);
+                } else {
+                  props.addPart(part);
+                }
               }}
             >
               {part.name}

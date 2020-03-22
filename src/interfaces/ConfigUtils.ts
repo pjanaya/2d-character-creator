@@ -13,5 +13,6 @@ export default interface ConfigUtils {
       oldPart: ConfigPart,
       bodyShapeId: number
     ) => ConfigPart | undefined;
+    isBodyPart: (part: ConfigPart) => boolean;
   };
 }

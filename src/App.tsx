@@ -17,11 +17,24 @@ function App() {
     .id;
   const [hairColor, setHairColor] = React.useState<number>(firstHairColorId);
 
+  const removePart = (removedPart: ConfigPart) => {
+    setPartInfoArray(prevState => {
+      const newState = [...prevState];
+
+      if (!configUtils.part.isBodyPart(removedPart)) {
+        const index = newState.findIndex(part => part.id === removedPart.id);
+        if (index !== -1) newState.splice(index, 1);
+      }
+
+      return [...newState];
+    });
+  };
+
   const addPart = (newPart: ConfigPart) => {
     setPartInfoArray(prevState => {
       const newState = [...prevState];
       let shouldAdd = true;
-      const bodyShapeHasChanged = newPart.partTypeId === 0;
+      const bodyShapeHasChanged = configUtils.part.isBodyPart(newPart);
 
       prevState.forEach(part => {
         if (part.partTypeId === newPart.partTypeId) {
@@ -93,6 +106,7 @@ function App() {
       <Character partsArray={partInfoArray}></Character>
       <Selector
         addPart={addPart}
+        removePart={removePart}
         changeSkinTone={changeSkinTone}
         skinTone={skinTone}
         partsArray={partInfoArray}

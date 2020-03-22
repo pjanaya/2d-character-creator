@@ -21,7 +21,8 @@ const configUtils: ConfigUtils = {
       oldPart.colorId = newPart.colorId;
     },
     selectedBodyShape: (selectedParts: ConfigPart[]) =>
-      selectedParts.find(part => part.partTypeId === 0)?.bodyShapeId,
+      selectedParts.find(part => configUtils.part.isBodyPart(part))
+        ?.bodyShapeId,
     findPartBoundToBodyShape: (
       config: Config,
       oldPart: ConfigPart,
@@ -32,7 +33,8 @@ const configUtils: ConfigUtils = {
           part.partTypeId === oldPart.partTypeId &&
           part.bodyShapeId === bodyGroupId &&
           part.colorId === oldPart.colorId
-      )
+      ),
+    isBodyPart: (part: ConfigPart) => part.partTypeId === 0
   }
 };
 

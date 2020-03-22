@@ -8,6 +8,7 @@ import { ConfigPart } from "../interfaces/Config";
 
 interface SelectorProps {
   addPart: (newPart: ConfigPart) => void;
+  removePart: (removedPart: ConfigPart) => void;
   changeSkinTone: (newSkinTone: number) => void;
   skinTone: number;
   partsArray: ConfigPart[];
@@ -33,6 +34,7 @@ const Selector = (props: SelectorProps) => {
           parts={config.parts}
           partType={partType}
           addPart={props.addPart}
+          removePart={props.removePart}
           skinTone={props.skinTone}
           partsArray={props.partsArray}
         ></PartList>
