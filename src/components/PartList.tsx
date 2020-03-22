@@ -24,6 +24,12 @@ export const PartList = (props: PartListProps) => {
               ? part.colorId === props.skinTone
               : true
           )
+          .filter(part =>
+            configUtils.partType.boundToBodyShape(part.partTypeId)
+              ? part.groupId ===
+                configUtils.part.selectedBodyShape(props.partsArray)
+              : true
+          )
           .map((part, index) => (
             <div
               key={index}

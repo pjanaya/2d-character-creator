@@ -11,6 +11,7 @@ export interface ConfigPartType {
   name: string;
   useSkinTone?: boolean;
   useHairColor?: boolean;
+  boundToBodyShape?: boolean;
 }
 
 export interface ConfigImage {
