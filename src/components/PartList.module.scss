@@ -9,3 +9,9 @@
   margin: 5px;
   cursor: pointer;
 }
+
+.partItemSelected {
+  @extend .partItem;
+
+  border: 2px solid red;
+}

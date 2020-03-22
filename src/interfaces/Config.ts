@@ -1,7 +1,8 @@
 export interface ConfigColor {
   id: number;
   name: string;
-  isSkinTone: boolean;
+  isSkinTone?: boolean;
+  isHairColor?: boolean;
   hex: string | string[];
 }
 
@@ -9,6 +10,7 @@ export interface ConfigPartType {
   id: number;
   name: string;
   useSkinTone?: boolean;
+  useHairColor?: boolean;
 }
 
 export interface ConfigImage {

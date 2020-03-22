@@ -9,12 +9,31 @@ import configUtils from "./utils/configUtils";
 
 function App() {
   const [partInfoArray, setPartInfoArray] = React.useState<ConfigPart[]>([]);
+
   const firstSkinToneId = config.colors.filter(color => color.isSkinTone)[0].id;
   const [skinTone, setSkinTone] = React.useState<number>(firstSkinToneId);
 
+  const firstHairColorId = config.colors.filter(color => color.isHairColor)[0]
+    .id;
+  const [hairColor, setHairColor] = React.useState<number>(firstHairColorId);
+
   const addPart = (newPart: ConfigPart) => {
     setPartInfoArray(prevState => {
-      return [{ ...newPart }, ...prevState];
+      const newState = [...prevState];
+      let shouldAdd = true;
+
+      prevState.forEach(part => {
+        if (part.partTypeId === newPart.partTypeId) {
+          configUtils.part.replacePart(part, newPart);
+          shouldAdd = false;
+        }
+      });
+
+      if (shouldAdd) {
+        newState.push({ ...newPart });
+      }
+
+      return [...newState];
     });
   };
 
@@ -31,7 +50,6 @@ function App() {
         const usesSkinTone = configUtils.partType.usesSkinTone(part.partTypeId);
         console.log("usesSkinTone?", usesSkinTone);
         if (usesSkinTone) {
-          console.log("Found part that uses global skin:", part);
           const relatedPart = config.parts.find(
             newPart =>
               newPart.id !== part.id &&
@@ -42,8 +60,7 @@ function App() {
 
           if (!!relatedPart) {
             console.log("relatedPart:", relatedPart);
-            part.id = relatedPart.id;
-            part.images = relatedPart.images;
+            configUtils.part.replacePart(part, relatedPart);
           } else {
             console.log(
               "relatedPart not found:",
@@ -65,6 +82,7 @@ function App() {
         addPart={addPart}
         changeSkinTone={changeSkinTone}
         skinTone={skinTone}
+        partsArray={partInfoArray}
       ></Selector>
     </div>
   );

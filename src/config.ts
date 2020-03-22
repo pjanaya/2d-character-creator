@@ -35,121 +35,113 @@ const config: Config = {
     {
       id: 5,
       name: "Clothing Black",
-      isSkinTone: false,
       hex: "#EFF1F2"
     },
     {
       id: 6,
       name: "Clothing White",
-      isSkinTone: false,
       hex: "#616161"
     },
     {
       id: 7,
       name: "Clothing Red",
-      isSkinTone: false,
       hex: "#D55D53"
     },
     {
       id: 8,
       name: "Clothing Yellow",
-      isSkinTone: false,
       hex: "#E4C069"
     },
     {
       id: 9,
       name: "Clothing Pink",
-      isSkinTone: false,
       hex: "#DEEB6E0"
     },
     {
       id: 10,
       name: "Clothing Blue",
-      isSkinTone: false,
       hex: "#8FB3B3"
     },
     {
       id: 11,
       name: "Clothing Green",
-      isSkinTone: false,
       hex: "#91C27F"
     },
     {
       id: 12,
       name: "Clothing Orange",
-      isSkinTone: false,
       hex: "#d97d57"
     },
     {
       id: 13,
       name: "Hair Black",
-      isSkinTone: false,
+      isHairColor: true,
       hex: "#2E2E2E"
     },
     {
       id: 14,
       name: "Hair Brown",
-      isSkinTone: false,
+      isHairColor: true,
       hex: "#ab7d4d"
     },
     {
       id: 15,
       name: "Hair Yellow",
-      isSkinTone: false,
+      isHairColor: true,
       hex: "#EDC879"
     },
     {
       id: 16,
       name: "Hair Orange",
-      isSkinTone: false,
+      isHairColor: true,
       hex: "#EAA05F"
     },
     {
       id: 17,
       name: "Hair Dark Orange",
-      isSkinTone: false,
+      isHairColor: true,
       hex: "#D97D57"
     },
     {
       id: 18,
       name: "Hair Grey",
-      isSkinTone: false,
+      isHairColor: true,
       hex: "#868686"
     },
     {
       id: 19,
       name: "Hair White",
-      isSkinTone: false,
+      isHairColor: true,
       hex: "#E4E4E4"
     },
     {
       id: 20,
       name: "Hair Pink",
-      isSkinTone: false,
+      isHairColor: true,
       hex: "#E48888"
     },
     {
       id: 21,
       name: "Hair Red",
-      isSkinTone: false,
+      isHairColor: true,
       hex: "#E95353"
     },
     {
       id: 22,
       name: "Hair Light Blue",
-      isSkinTone: false,
+      isHairColor: true,
       hex: "#8AB2D7"
     },
     {
       id: 23,
       name: "Hair Blue",
-      isSkinTone: false,
+      isHairColor: true,
       hex: "#1FB2FF"
     },
     {
       id: 24,
       name: "Hair Green",
-      isSkinTone: false,
+      isHairColor: true,
       hex: "#91C27F"
     },
     {
@@ -258,7 +250,8 @@ const config: Config = {
     },
     {
       id: 8,
-      name: "Nose"
+      name: "Nose",
+      useSkinTone: true
     },
     {
       id: 9,

@@ -9,6 +9,7 @@ interface PartListProps {
   addPart: (newPart: ConfigPart) => void;
   partType: number;
   skinTone: number;
+  partsArray: ConfigPart[];
 }
 
 export const PartList = (props: PartListProps) => {
@@ -26,7 +27,11 @@ export const PartList = (props: PartListProps) => {
           .map((part, index) => (
             <div
               key={index}
-              className={classes.partItem}
+              className={
+                props.partsArray.some(layer => layer.id === part.id)
+                  ? classes.partItemSelected
+                  : classes.partItem
+              }
               onClick={() => {
                 props.addPart(part);
               }}
