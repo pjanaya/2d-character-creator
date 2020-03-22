@@ -300,7 +300,7 @@ const config: Config = {
     {
       id: 0,
       name: "Body 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 0,
       colorId: 0,
       images: [
@@ -325,7 +325,7 @@ const config: Config = {
     {
       id: 1,
       name: "Body 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 0,
       colorId: 0,
       images: [
@@ -350,7 +350,7 @@ const config: Config = {
     {
       id: 2,
       name: "Body 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 0,
       colorId: 0,
       images: [
@@ -375,7 +375,7 @@ const config: Config = {
     {
       id: 3,
       name: "Body 4",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 0,
       colorId: 0,
       images: [
@@ -400,7 +400,7 @@ const config: Config = {
     {
       id: 4,
       name: "Body 5",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 0,
       colorId: 0,
       images: [
@@ -425,7 +425,7 @@ const config: Config = {
     {
       id: 5,
       name: "Body 6",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 0,
       colorId: 0,
       images: [
@@ -450,7 +450,7 @@ const config: Config = {
     {
       id: 6,
       name: "Body 7",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 0,
       colorId: 0,
       images: [
@@ -475,7 +475,7 @@ const config: Config = {
     {
       id: 7,
       name: "Body 8",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 0,
       colorId: 0,
       images: [
@@ -500,7 +500,7 @@ const config: Config = {
     {
       id: 8,
       name: "Body 9",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 0,
       colorId: 0,
       images: [
@@ -525,7 +525,7 @@ const config: Config = {
     {
       id: 9,
       name: "Body 10",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 0,
       colorId: 0,
       images: [
@@ -550,7 +550,7 @@ const config: Config = {
     {
       id: 10,
       name: "Body 11",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 0,
       colorId: 0,
       images: [
@@ -575,7 +575,7 @@ const config: Config = {
     {
       id: 11,
       name: "Body 12",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 0,
       colorId: 0,
       images: [
@@ -600,7 +600,7 @@ const config: Config = {
     {
       id: 12,
       name: "Body 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 0,
       colorId: 1,
       images: [
@@ -625,7 +625,7 @@ const config: Config = {
     {
       id: 13,
       name: "Body 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 0,
       colorId: 1,
       images: [
@@ -650,7 +650,7 @@ const config: Config = {
     {
       id: 14,
       name: "Body 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 0,
       colorId: 1,
       images: [
@@ -675,7 +675,7 @@ const config: Config = {
     {
       id: 15,
       name: "Body 4",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 0,
       colorId: 1,
       images: [
@@ -700,7 +700,7 @@ const config: Config = {
     {
       id: 16,
       name: "Body 5",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 0,
       colorId: 1,
       images: [
@@ -725,7 +725,7 @@ const config: Config = {
     {
       id: 17,
       name: "Body 6",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 0,
       colorId: 1,
       images: [
@@ -750,7 +750,7 @@ const config: Config = {
     {
       id: 18,
       name: "Body 7",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 0,
       colorId: 1,
       images: [
@@ -775,7 +775,7 @@ const config: Config = {
     {
       id: 19,
       name: "Body 8",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 0,
       colorId: 1,
       images: [
@@ -800,7 +800,7 @@ const config: Config = {
     {
       id: 20,
       name: "Body 9",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 0,
       colorId: 1,
       images: [
@@ -825,7 +825,7 @@ const config: Config = {
     {
       id: 21,
       name: "Body 10",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 0,
       colorId: 1,
       images: [
@@ -850,7 +850,7 @@ const config: Config = {
     {
       id: 22,
       name: "Body 11",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 0,
       colorId: 1,
       images: [
@@ -875,7 +875,7 @@ const config: Config = {
     {
       id: 23,
       name: "Body 12",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 0,
       colorId: 1,
       images: [
@@ -900,7 +900,7 @@ const config: Config = {
     {
       id: 24,
       name: "Body 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 0,
       colorId: 2,
       images: [
@@ -925,7 +925,7 @@ const config: Config = {
     {
       id: 25,
       name: "Body 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 0,
       colorId: 2,
       images: [
@@ -950,7 +950,7 @@ const config: Config = {
     {
       id: 26,
       name: "Body 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 0,
       colorId: 2,
       images: [
@@ -975,7 +975,7 @@ const config: Config = {
     {
       id: 27,
       name: "Body 4",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 0,
       colorId: 2,
       images: [
@@ -1000,7 +1000,7 @@ const config: Config = {
     {
       id: 28,
       name: "Body 5",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 0,
       colorId: 2,
       images: [
@@ -1025,7 +1025,7 @@ const config: Config = {
     {
       id: 29,
       name: "Body 6",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 0,
       colorId: 2,
       images: [
@@ -1050,7 +1050,7 @@ const config: Config = {
     {
       id: 30,
       name: "Body 7",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 0,
       colorId: 2,
       images: [
@@ -1075,7 +1075,7 @@ const config: Config = {
     {
       id: 31,
       name: "Body 8",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 0,
       colorId: 2,
       images: [
@@ -1100,7 +1100,7 @@ const config: Config = {
     {
       id: 32,
       name: "Body 9",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 0,
       colorId: 2,
       images: [
@@ -1125,7 +1125,7 @@ const config: Config = {
     {
       id: 33,
       name: "Body 10",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 0,
       colorId: 2,
       images: [
@@ -1150,7 +1150,7 @@ const config: Config = {
     {
       id: 34,
       name: "Body 11",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 0,
       colorId: 2,
       images: [
@@ -1175,7 +1175,7 @@ const config: Config = {
     {
       id: 35,
       name: "Body 12",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 0,
       colorId: 2,
       images: [
@@ -1200,7 +1200,7 @@ const config: Config = {
     {
       id: 36,
       name: "Body 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 0,
       colorId: 3,
       images: [
@@ -1225,7 +1225,7 @@ const config: Config = {
     {
       id: 37,
       name: "Body 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 0,
       colorId: 3,
       images: [
@@ -1250,7 +1250,7 @@ const config: Config = {
     {
       id: 38,
       name: "Body 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 0,
       colorId: 3,
       images: [
@@ -1275,7 +1275,7 @@ const config: Config = {
     {
       id: 39,
       name: "Body 4",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 0,
       colorId: 3,
       images: [
@@ -1300,7 +1300,7 @@ const config: Config = {
     {
       id: 40,
       name: "Body 5",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 0,
       colorId: 3,
       images: [
@@ -1325,7 +1325,7 @@ const config: Config = {
     {
       id: 41,
       name: "Body 6",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 0,
       colorId: 3,
       images: [
@@ -1350,7 +1350,7 @@ const config: Config = {
     {
       id: 42,
       name: "Body 7",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 0,
       colorId: 3,
       images: [
@@ -1375,7 +1375,7 @@ const config: Config = {
     {
       id: 43,
       name: "Body 8",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 0,
       colorId: 3,
       images: [
@@ -1400,7 +1400,7 @@ const config: Config = {
     {
       id: 44,
       name: "Body 9",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 0,
       colorId: 3,
       images: [
@@ -1425,7 +1425,7 @@ const config: Config = {
     {
       id: 45,
       name: "Body 10",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 0,
       colorId: 3,
       images: [
@@ -1450,7 +1450,7 @@ const config: Config = {
     {
       id: 46,
       name: "Body 11",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 0,
       colorId: 3,
       images: [
@@ -1475,7 +1475,7 @@ const config: Config = {
     {
       id: 47,
       name: "Body 12",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 0,
       colorId: 3,
       images: [
@@ -1500,7 +1500,7 @@ const config: Config = {
     {
       id: 48,
       name: "Body 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 0,
       colorId: 4,
       images: [
@@ -1525,7 +1525,7 @@ const config: Config = {
     {
       id: 49,
       name: "Body 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 0,
       colorId: 4,
       images: [
@@ -1550,7 +1550,7 @@ const config: Config = {
     {
       id: 51,
       name: "Body 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 0,
       colorId: 4,
       images: [
@@ -1575,7 +1575,7 @@ const config: Config = {
     {
       id: 52,
       name: "Body 4",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 0,
       colorId: 4,
       images: [
@@ -1600,7 +1600,7 @@ const config: Config = {
     {
       id: 53,
       name: "Body 5",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 0,
       colorId: 4,
       images: [
@@ -1625,7 +1625,7 @@ const config: Config = {
     {
       id: 54,
       name: "Body 6",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 0,
       colorId: 4,
       images: [
@@ -1650,7 +1650,7 @@ const config: Config = {
     {
       id: 55,
       name: "Body 7",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 0,
       colorId: 4,
       images: [
@@ -1675,7 +1675,7 @@ const config: Config = {
     {
       id: 56,
       name: "Body 8",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 0,
       colorId: 4,
       images: [
@@ -1700,7 +1700,7 @@ const config: Config = {
     {
       id: 57,
       name: "Body 9",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 0,
       colorId: 4,
       images: [
@@ -1725,7 +1725,7 @@ const config: Config = {
     {
       id: 58,
       name: "Body 10",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 0,
       colorId: 4,
       images: [
@@ -1750,7 +1750,7 @@ const config: Config = {
     {
       id: 59,
       name: "Body 11",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 0,
       colorId: 4,
       images: [
@@ -1775,7 +1775,7 @@ const config: Config = {
     {
       id: 60,
       name: "Body 12",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 0,
       colorId: 4,
       images: [
@@ -10452,7 +10452,7 @@ const config: Config = {
     {
       id: 768,
       name: "Inner Shirt 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 2,
       colorId: 5,
       images: [
@@ -10465,7 +10465,7 @@ const config: Config = {
     {
       id: 769,
       name: "Inner Shirt 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 2,
       colorId: 6,
       images: [
@@ -10478,7 +10478,7 @@ const config: Config = {
     {
       id: 770,
       name: "Inner Shirt 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 2,
       colorId: 7,
       images: [
@@ -10491,7 +10491,7 @@ const config: Config = {
     {
       id: 771,
       name: "Inner Shirt 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 2,
       colorId: 8,
       images: [
@@ -10504,7 +10504,7 @@ const config: Config = {
     {
       id: 772,
       name: "Inner Shirt 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 2,
       colorId: 9,
       images: [
@@ -10517,7 +10517,7 @@ const config: Config = {
     {
       id: 773,
       name: "Inner Shirt 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 2,
       colorId: 10,
       images: [
@@ -10530,7 +10530,7 @@ const config: Config = {
     {
       id: 774,
       name: "Inner Shirt 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 2,
       colorId: 11,
       images: [
@@ -10543,7 +10543,7 @@ const config: Config = {
     {
       id: 775,
       name: "Inner Shirt 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 2,
       colorId: 12,
       images: [
@@ -10556,7 +10556,7 @@ const config: Config = {
     {
       id: 776,
       name: "Inner Shirt 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 2,
       colorId: 5,
       images: [
@@ -10569,7 +10569,7 @@ const config: Config = {
     {
       id: 777,
       name: "Inner Shirt 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 2,
       colorId: 6,
       images: [
@@ -10582,7 +10582,7 @@ const config: Config = {
     {
       id: 778,
       name: "Inner Shirt 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 2,
       colorId: 7,
       images: [
@@ -10595,7 +10595,7 @@ const config: Config = {
     {
       id: 779,
       name: "Inner Shirt 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 2,
       colorId: 8,
       images: [
@@ -10608,7 +10608,7 @@ const config: Config = {
     {
       id: 780,
       name: "Inner Shirt 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 2,
       colorId: 9,
       images: [
@@ -10621,7 +10621,7 @@ const config: Config = {
     {
       id: 781,
       name: "Inner Shirt 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 2,
       colorId: 10,
       images: [
@@ -10634,7 +10634,7 @@ const config: Config = {
     {
       id: 782,
       name: "Inner Shirt 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 2,
       colorId: 11,
       images: [
@@ -10647,7 +10647,7 @@ const config: Config = {
     {
       id: 783,
       name: "Inner Shirt 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 2,
       colorId: 12,
       images: [
@@ -10660,7 +10660,7 @@ const config: Config = {
     {
       id: 784,
       name: "Inner Shirt 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 2,
       colorId: 5,
       images: [
@@ -10673,7 +10673,7 @@ const config: Config = {
     {
       id: 785,
       name: "Inner Shirt 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 2,
       colorId: 6,
       images: [
@@ -10686,7 +10686,7 @@ const config: Config = {
     {
       id: 786,
       name: "Inner Shirt 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 2,
       colorId: 7,
       images: [
@@ -10699,7 +10699,7 @@ const config: Config = {
     {
       id: 787,
       name: "Inner Shirt 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 2,
       colorId: 8,
       images: [
@@ -10712,7 +10712,7 @@ const config: Config = {
     {
       id: 788,
       name: "Inner Shirt 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 2,
       colorId: 9,
       images: [
@@ -10725,7 +10725,7 @@ const config: Config = {
     {
       id: 789,
       name: "Inner Shirt 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 2,
       colorId: 10,
       images: [
@@ -10738,7 +10738,7 @@ const config: Config = {
     {
       id: 790,
       name: "Inner Shirt 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 2,
       colorId: 11,
       images: [
@@ -10751,7 +10751,7 @@ const config: Config = {
     {
       id: 791,
       name: "Inner Shirt 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 2,
       colorId: 12,
       images: [
@@ -10764,7 +10764,7 @@ const config: Config = {
     {
       id: 792,
       name: "Inner Shirt 4",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 2,
       colorId: 5,
       images: [
@@ -10777,7 +10777,7 @@ const config: Config = {
     {
       id: 793,
       name: "Inner Shirt 4",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 2,
       colorId: 6,
       images: [
@@ -10790,7 +10790,7 @@ const config: Config = {
     {
       id: 794,
       name: "Inner Shirt 4",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 2,
       colorId: 7,
       images: [
@@ -10803,7 +10803,7 @@ const config: Config = {
     {
       id: 795,
       name: "Inner Shirt 4",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 2,
       colorId: 8,
       images: [
@@ -10816,7 +10816,7 @@ const config: Config = {
     {
       id: 796,
       name: "Inner Shirt 4",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 2,
       colorId: 9,
       images: [
@@ -10829,7 +10829,7 @@ const config: Config = {
     {
       id: 797,
       name: "Inner Shirt 4",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 2,
       colorId: 10,
       images: [
@@ -10842,7 +10842,7 @@ const config: Config = {
     {
       id: 798,
       name: "Inner Shirt 4",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 2,
       colorId: 11,
       images: [
@@ -10855,7 +10855,7 @@ const config: Config = {
     {
       id: 799,
       name: "Inner Shirt 4",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 2,
       colorId: 12,
       images: [
@@ -10868,7 +10868,7 @@ const config: Config = {
     {
       id: 800,
       name: "Inner Shirt 5",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 2,
       colorId: 5,
       images: [
@@ -10881,7 +10881,7 @@ const config: Config = {
     {
       id: 801,
       name: "Inner Shirt 5",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 2,
       colorId: 6,
       images: [
@@ -10894,7 +10894,7 @@ const config: Config = {
     {
       id: 802,
       name: "Inner Shirt 5",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 2,
       colorId: 7,
       images: [
@@ -10907,7 +10907,7 @@ const config: Config = {
     {
       id: 803,
       name: "Inner Shirt 5",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 2,
       colorId: 8,
       images: [
@@ -10920,7 +10920,7 @@ const config: Config = {
     {
       id: 804,
       name: "Inner Shirt 5",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 2,
       colorId: 9,
       images: [
@@ -10933,7 +10933,7 @@ const config: Config = {
     {
       id: 805,
       name: "Inner Shirt 5",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 2,
       colorId: 10,
       images: [
@@ -10946,7 +10946,7 @@ const config: Config = {
     {
       id: 806,
       name: "Inner Shirt 5",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 2,
       colorId: 11,
       images: [
@@ -10959,7 +10959,7 @@ const config: Config = {
     {
       id: 807,
       name: "Inner Shirt 5",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 2,
       colorId: 12,
       images: [
@@ -10972,7 +10972,7 @@ const config: Config = {
     {
       id: 808,
       name: "Inner Shirt 6",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 2,
       colorId: 5,
       images: [
@@ -10985,7 +10985,7 @@ const config: Config = {
     {
       id: 809,
       name: "Inner Shirt 6",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 2,
       colorId: 6,
       images: [
@@ -10998,7 +10998,7 @@ const config: Config = {
     {
       id: 810,
       name: "Inner Shirt 6",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 2,
       colorId: 7,
       images: [
@@ -11011,7 +11011,7 @@ const config: Config = {
     {
       id: 811,
       name: "Inner Shirt 6",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 2,
       colorId: 8,
       images: [
@@ -11024,7 +11024,7 @@ const config: Config = {
     {
       id: 812,
       name: "Inner Shirt 6",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 2,
       colorId: 9,
       images: [
@@ -11037,7 +11037,7 @@ const config: Config = {
     {
       id: 813,
       name: "Inner Shirt 6",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 2,
       colorId: 10,
       images: [
@@ -11050,7 +11050,7 @@ const config: Config = {
     {
       id: 814,
       name: "Inner Shirt 6",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 2,
       colorId: 11,
       images: [
@@ -11063,7 +11063,7 @@ const config: Config = {
     {
       id: 815,
       name: "Inner Shirt 6",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 2,
       colorId: 12,
       images: [
@@ -11076,7 +11076,7 @@ const config: Config = {
     {
       id: 816,
       name: "Inner Shirt 7",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 2,
       colorId: 5,
       images: [
@@ -11089,7 +11089,7 @@ const config: Config = {
     {
       id: 817,
       name: "Inner Shirt 7",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 2,
       colorId: 6,
       images: [
@@ -11102,7 +11102,7 @@ const config: Config = {
     {
       id: 818,
       name: "Inner Shirt 7",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 2,
       colorId: 7,
       images: [
@@ -11115,7 +11115,7 @@ const config: Config = {
     {
       id: 819,
       name: "Inner Shirt 7",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 2,
       colorId: 8,
       images: [
@@ -11128,7 +11128,7 @@ const config: Config = {
     {
       id: 820,
       name: "Inner Shirt 7",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 2,
       colorId: 9,
       images: [
@@ -11141,7 +11141,7 @@ const config: Config = {
     {
       id: 821,
       name: "Inner Shirt 7",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 2,
       colorId: 10,
       images: [
@@ -11154,7 +11154,7 @@ const config: Config = {
     {
       id: 822,
       name: "Inner Shirt 7",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 2,
       colorId: 11,
       images: [
@@ -11167,7 +11167,7 @@ const config: Config = {
     {
       id: 823,
       name: "Inner Shirt 7",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 2,
       colorId: 12,
       images: [
@@ -11180,7 +11180,7 @@ const config: Config = {
     {
       id: 824,
       name: "Inner Shirt 8",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 2,
       colorId: 5,
       images: [
@@ -11193,7 +11193,7 @@ const config: Config = {
     {
       id: 825,
       name: "Inner Shirt 8",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 2,
       colorId: 6,
       images: [
@@ -11206,7 +11206,7 @@ const config: Config = {
     {
       id: 826,
       name: "Inner Shirt 8",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 2,
       colorId: 7,
       images: [
@@ -11219,7 +11219,7 @@ const config: Config = {
     {
       id: 827,
       name: "Inner Shirt 8",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 2,
       colorId: 8,
       images: [
@@ -11232,7 +11232,7 @@ const config: Config = {
     {
       id: 828,
       name: "Inner Shirt 8",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 2,
       colorId: 9,
       images: [
@@ -11245,7 +11245,7 @@ const config: Config = {
     {
       id: 829,
       name: "Inner Shirt 8",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 2,
       colorId: 10,
       images: [
@@ -11258,7 +11258,7 @@ const config: Config = {
     {
       id: 830,
       name: "Inner Shirt 8",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 2,
       colorId: 11,
       images: [
@@ -11271,7 +11271,7 @@ const config: Config = {
     {
       id: 831,
       name: "Inner Shirt 8",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 2,
       colorId: 12,
       images: [
@@ -11284,7 +11284,7 @@ const config: Config = {
     {
       id: 832,
       name: "Inner Shirt 9",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 2,
       colorId: 5,
       images: [
@@ -11297,7 +11297,7 @@ const config: Config = {
     {
       id: 833,
       name: "Inner Shirt 9",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 2,
       colorId: 6,
       images: [
@@ -11310,7 +11310,7 @@ const config: Config = {
     {
       id: 834,
       name: "Inner Shirt 9",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 2,
       colorId: 7,
       images: [
@@ -11323,7 +11323,7 @@ const config: Config = {
     {
       id: 835,
       name: "Inner Shirt 9",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 2,
       colorId: 8,
       images: [
@@ -11336,7 +11336,7 @@ const config: Config = {
     {
       id: 836,
       name: "Inner Shirt 9",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 2,
       colorId: 9,
       images: [
@@ -11349,7 +11349,7 @@ const config: Config = {
     {
       id: 837,
       name: "Inner Shirt 9",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 2,
       colorId: 10,
       images: [
@@ -11362,7 +11362,7 @@ const config: Config = {
     {
       id: 838,
       name: "Inner Shirt 9",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 2,
       colorId: 11,
       images: [
@@ -11375,7 +11375,7 @@ const config: Config = {
     {
       id: 839,
       name: "Inner Shirt 9",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 2,
       colorId: 12,
       images: [
@@ -11388,7 +11388,7 @@ const config: Config = {
     {
       id: 840,
       name: "Inner Shirt 10",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 2,
       colorId: 5,
       images: [
@@ -11401,7 +11401,7 @@ const config: Config = {
     {
       id: 841,
       name: "Inner Shirt 10",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 2,
       colorId: 6,
       images: [
@@ -11414,7 +11414,7 @@ const config: Config = {
     {
       id: 842,
       name: "Inner Shirt 10",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 2,
       colorId: 7,
       images: [
@@ -11427,7 +11427,7 @@ const config: Config = {
     {
       id: 843,
       name: "Inner Shirt 10",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 2,
       colorId: 8,
       images: [
@@ -11440,7 +11440,7 @@ const config: Config = {
     {
       id: 844,
       name: "Inner Shirt 10",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 2,
       colorId: 9,
       images: [
@@ -11453,7 +11453,7 @@ const config: Config = {
     {
       id: 845,
       name: "Inner Shirt 10",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 2,
       colorId: 10,
       images: [
@@ -11466,7 +11466,7 @@ const config: Config = {
     {
       id: 846,
       name: "Inner Shirt 10",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 2,
       colorId: 11,
       images: [
@@ -11479,7 +11479,7 @@ const config: Config = {
     {
       id: 847,
       name: "Inner Shirt 10",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 2,
       colorId: 12,
       images: [
@@ -11492,7 +11492,7 @@ const config: Config = {
     {
       id: 848,
       name: "Inner Shirt 11",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 2,
       colorId: 5,
       images: [
@@ -11505,7 +11505,7 @@ const config: Config = {
     {
       id: 849,
       name: "Inner Shirt 11",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 2,
       colorId: 6,
       images: [
@@ -11518,7 +11518,7 @@ const config: Config = {
     {
       id: 850,
       name: "Inner Shirt 11",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 2,
       colorId: 7,
       images: [
@@ -11531,7 +11531,7 @@ const config: Config = {
     {
       id: 851,
       name: "Inner Shirt 11",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 2,
       colorId: 8,
       images: [
@@ -11544,7 +11544,7 @@ const config: Config = {
     {
       id: 852,
       name: "Inner Shirt 11",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 2,
       colorId: 9,
       images: [
@@ -11557,7 +11557,7 @@ const config: Config = {
     {
       id: 853,
       name: "Inner Shirt 11",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 2,
       colorId: 10,
       images: [
@@ -11570,7 +11570,7 @@ const config: Config = {
     {
       id: 854,
       name: "Inner Shirt 11",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 2,
       colorId: 11,
       images: [
@@ -11583,7 +11583,7 @@ const config: Config = {
     {
       id: 855,
       name: "Inner Shirt 11",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 2,
       colorId: 12,
       images: [
@@ -11596,7 +11596,7 @@ const config: Config = {
     {
       id: 856,
       name: "Inner Shirt 12",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 2,
       colorId: 5,
       images: [
@@ -11609,7 +11609,7 @@ const config: Config = {
     {
       id: 857,
       name: "Inner Shirt 12",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 2,
       colorId: 6,
       images: [
@@ -11622,7 +11622,7 @@ const config: Config = {
     {
       id: 858,
       name: "Inner Shirt 12",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 2,
       colorId: 7,
       images: [
@@ -11635,7 +11635,7 @@ const config: Config = {
     {
       id: 859,
       name: "Inner Shirt 12",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 2,
       colorId: 8,
       images: [
@@ -11648,7 +11648,7 @@ const config: Config = {
     {
       id: 860,
       name: "Inner Shirt 12",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 2,
       colorId: 9,
       images: [
@@ -11661,7 +11661,7 @@ const config: Config = {
     {
       id: 861,
       name: "Inner Shirt 12",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 2,
       colorId: 10,
       images: [
@@ -11674,7 +11674,7 @@ const config: Config = {
     {
       id: 862,
       name: "Inner Shirt 12",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 2,
       colorId: 11,
       images: [
@@ -11687,7 +11687,7 @@ const config: Config = {
     {
       id: 863,
       name: "Inner Shirt 12",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 2,
       colorId: 12,
       images: [
@@ -11700,7 +11700,7 @@ const config: Config = {
     {
       id: 864,
       name: "Shirt Buttoned 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -11721,7 +11721,7 @@ const config: Config = {
     {
       id: 865,
       name: "Shirt Buttoned 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -11742,7 +11742,7 @@ const config: Config = {
     {
       id: 866,
       name: "Shirt Buttoned 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -11763,7 +11763,7 @@ const config: Config = {
     {
       id: 867,
       name: "Shirt Buttoned 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -11784,7 +11784,7 @@ const config: Config = {
     {
       id: 868,
       name: "Shirt Buttoned 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -11805,7 +11805,7 @@ const config: Config = {
     {
       id: 869,
       name: "Shirt Buttoned 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -11826,7 +11826,7 @@ const config: Config = {
     {
       id: 870,
       name: "Shirt Buttoned 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -11847,7 +11847,7 @@ const config: Config = {
     {
       id: 871,
       name: "Shirt Buttoned 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -11868,7 +11868,7 @@ const config: Config = {
     {
       id: 872,
       name: "Shirt buttoned 1",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -11889,7 +11889,7 @@ const config: Config = {
     {
       id: 873,
       name: "Shirt buttoned 1",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -11910,7 +11910,7 @@ const config: Config = {
     {
       id: 874,
       name: "Shirt buttoned 1",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -11931,7 +11931,7 @@ const config: Config = {
     {
       id: 875,
       name: "Shirt buttoned 1",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -11952,7 +11952,7 @@ const config: Config = {
     {
       id: 876,
       name: "Shirt buttoned 1",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -11973,7 +11973,7 @@ const config: Config = {
     {
       id: 877,
       name: "Shirt buttoned 1",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -11994,7 +11994,7 @@ const config: Config = {
     {
       id: 878,
       name: "Shirt Buttoned 1",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -12015,7 +12015,7 @@ const config: Config = {
     {
       id: 879,
       name: "Shirt Buttoned 1",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -12036,7 +12036,7 @@ const config: Config = {
     {
       id: 880,
       name: "Shirt Buttoned 1",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -12057,7 +12057,7 @@ const config: Config = {
     {
       id: 881,
       name: "Shirt Buttoned 1",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -12078,7 +12078,7 @@ const config: Config = {
     {
       id: 882,
       name: "Shirt Buttoned 1",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -12099,7 +12099,7 @@ const config: Config = {
     {
       id: 883,
       name: "Shirt Buttoned 1",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -12120,7 +12120,7 @@ const config: Config = {
     {
       id: 884,
       name: "Shirt Buttoned 1",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -12141,7 +12141,7 @@ const config: Config = {
     {
       id: 885,
       name: "Shirt Buttoned 1",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -12162,7 +12162,7 @@ const config: Config = {
     {
       id: 886,
       name: "Shirt Buttoned 1",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -12183,7 +12183,7 @@ const config: Config = {
     {
       id: 887,
       name: "Shirt Buttoned 1",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -12204,7 +12204,7 @@ const config: Config = {
     {
       id: 888,
       name: "Shirt Buttoned 1",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -12225,7 +12225,7 @@ const config: Config = {
     {
       id: 889,
       name: "Shirt Buttoned 1",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -12246,7 +12246,7 @@ const config: Config = {
     {
       id: 890,
       name: "Shirt Buttoned 1",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -12267,7 +12267,7 @@ const config: Config = {
     {
       id: 891,
       name: "Shirt Buttoned 1",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -12288,7 +12288,7 @@ const config: Config = {
     {
       id: 892,
       name: "Shirt Buttoned 1",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -12309,7 +12309,7 @@ const config: Config = {
     {
       id: 893,
       name: "Shirt Buttoned 1",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -12330,7 +12330,7 @@ const config: Config = {
     {
       id: 894,
       name: "Shirt Buttoned 1",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -12351,7 +12351,7 @@ const config: Config = {
     {
       id: 895,
       name: "Shirt Buttoned 1",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -12372,7 +12372,7 @@ const config: Config = {
     {
       id: 896,
       name: "Shirt Buttoned 1",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -12393,7 +12393,7 @@ const config: Config = {
     {
       id: 897,
       name: "Shirt Buttoned 1",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -12414,7 +12414,7 @@ const config: Config = {
     {
       id: 898,
       name: "Shirt Buttoned 1",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -12435,7 +12435,7 @@ const config: Config = {
     {
       id: 899,
       name: "Shirt Buttoned 1",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -12456,7 +12456,7 @@ const config: Config = {
     {
       id: 900,
       name: "Shirt Buttoned 1",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -12477,7 +12477,7 @@ const config: Config = {
     {
       id: 901,
       name: "Shirt Buttoned 1",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -12498,7 +12498,7 @@ const config: Config = {
     {
       id: 902,
       name: "Shirt Buttoned 1",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -12519,7 +12519,7 @@ const config: Config = {
     {
       id: 903,
       name: "Shirt Buttoned 1",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -12540,7 +12540,7 @@ const config: Config = {
     {
       id: 904,
       name: "Shirt Buttoned 1",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -12561,7 +12561,7 @@ const config: Config = {
     {
       id: 905,
       name: "Shirt Buttoned 1",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -12582,7 +12582,7 @@ const config: Config = {
     {
       id: 906,
       name: "Shirt Buttoned 1",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -12603,7 +12603,7 @@ const config: Config = {
     {
       id: 907,
       name: "Shirt Buttoned 1",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -12624,7 +12624,7 @@ const config: Config = {
     {
       id: 908,
       name: "Shirt Buttoned 1",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -12645,7 +12645,7 @@ const config: Config = {
     {
       id: 909,
       name: "Shirt Buttoned 1",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -12666,7 +12666,7 @@ const config: Config = {
     {
       id: 910,
       name: "Shirt Buttoned 1",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -12687,7 +12687,7 @@ const config: Config = {
     {
       id: 911,
       name: "Shirt Buttoned 1",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -12708,7 +12708,7 @@ const config: Config = {
     {
       id: 912,
       name: "Shirt Buttoned 1",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -12729,7 +12729,7 @@ const config: Config = {
     {
       id: 913,
       name: "Shirt Buttoned 1",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -12750,7 +12750,7 @@ const config: Config = {
     {
       id: 914,
       name: "Shirt Buttoned 1",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -12771,7 +12771,7 @@ const config: Config = {
     {
       id: 915,
       name: "Shirt Buttoned 1",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -12792,7 +12792,7 @@ const config: Config = {
     {
       id: 916,
       name: "Shirt Buttoned 1",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -12813,7 +12813,7 @@ const config: Config = {
     {
       id: 917,
       name: "Shirt Buttoned 1",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -12834,7 +12834,7 @@ const config: Config = {
     {
       id: 918,
       name: "Shirt Buttoned 1",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -12855,7 +12855,7 @@ const config: Config = {
     {
       id: 919,
       name: "Shirt Buttoned 1",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -12876,7 +12876,7 @@ const config: Config = {
     {
       id: 920,
       name: "Shirt Buttoned 1",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -12897,7 +12897,7 @@ const config: Config = {
     {
       id: 921,
       name: "Shirt Buttoned 1",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -12918,7 +12918,7 @@ const config: Config = {
     {
       id: 922,
       name: "Shirt Buttoned 1",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -12939,7 +12939,7 @@ const config: Config = {
     {
       id: 923,
       name: "Shirt Buttoned 1",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -12960,7 +12960,7 @@ const config: Config = {
     {
       id: 924,
       name: "Shirt Buttoned 1",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -12981,7 +12981,7 @@ const config: Config = {
     {
       id: 925,
       name: "Shirt Buttoned 1",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -13002,7 +13002,7 @@ const config: Config = {
     {
       id: 926,
       name: "Shirt Buttoned 1",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -13023,7 +13023,7 @@ const config: Config = {
     {
       id: 927,
       name: "Shirt Buttoned 1",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -13044,7 +13044,7 @@ const config: Config = {
     {
       id: 928,
       name: "Shirt Buttoned 1",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -13065,7 +13065,7 @@ const config: Config = {
     {
       id: 929,
       name: "Shirt Buttoned 1",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -13086,7 +13086,7 @@ const config: Config = {
     {
       id: 930,
       name: "Shirt Buttoned 1",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -13107,7 +13107,7 @@ const config: Config = {
     {
       id: 931,
       name: "Shirt Buttoned 1",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -13128,7 +13128,7 @@ const config: Config = {
     {
       id: 932,
       name: "Shirt Buttoned 1",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -13149,7 +13149,7 @@ const config: Config = {
     {
       id: 933,
       name: "Shirt Buttoned 1",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -13170,7 +13170,7 @@ const config: Config = {
     {
       id: 934,
       name: "Shirt Buttoned 1",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -13191,7 +13191,7 @@ const config: Config = {
     {
       id: 935,
       name: "Shirt Buttoned 1",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -13212,7 +13212,7 @@ const config: Config = {
     {
       id: 936,
       name: "Shirt Buttoned 1",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -13233,7 +13233,7 @@ const config: Config = {
     {
       id: 937,
       name: "Shirt Buttoned 1",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -13254,7 +13254,7 @@ const config: Config = {
     {
       id: 938,
       name: "Shirt Buttoned 1",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -13275,7 +13275,7 @@ const config: Config = {
     {
       id: 939,
       name: "Shirt Buttoned 1",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -13296,7 +13296,7 @@ const config: Config = {
     {
       id: 940,
       name: "Shirt Buttoned 1",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -13317,7 +13317,7 @@ const config: Config = {
     {
       id: 941,
       name: "Shirt Buttoned 1",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -13338,7 +13338,7 @@ const config: Config = {
     {
       id: 942,
       name: "Shirt Buttoned 1",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -13359,7 +13359,7 @@ const config: Config = {
     {
       id: 943,
       name: "Shirt Buttoned 1",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -13380,7 +13380,7 @@ const config: Config = {
     {
       id: 944,
       name: "Shirt Buttoned 1",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -13401,7 +13401,7 @@ const config: Config = {
     {
       id: 945,
       name: "Shirt Buttoned 1",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -13422,7 +13422,7 @@ const config: Config = {
     {
       id: 946,
       name: "Shirt Buttoned 1",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -13443,7 +13443,7 @@ const config: Config = {
     {
       id: 947,
       name: "Shirt Buttoned 1",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -13464,7 +13464,7 @@ const config: Config = {
     {
       id: 948,
       name: "Shirt Buttoned 1",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -13485,7 +13485,7 @@ const config: Config = {
     {
       id: 949,
       name: "Shirt Buttoned 1",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -13506,7 +13506,7 @@ const config: Config = {
     {
       id: 950,
       name: "Shirt Buttoned 1",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -13527,7 +13527,7 @@ const config: Config = {
     {
       id: 951,
       name: "Shirt Buttoned 1",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -13548,7 +13548,7 @@ const config: Config = {
     {
       id: 952,
       name: "Shirt Buttoned 1",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -13569,7 +13569,7 @@ const config: Config = {
     {
       id: 953,
       name: "Shirt Buttoned 1",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -13590,7 +13590,7 @@ const config: Config = {
     {
       id: 954,
       name: "Shirt Buttoned 1",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -13611,7 +13611,7 @@ const config: Config = {
     {
       id: 955,
       name: "Shirt Buttoned 1",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -13632,7 +13632,7 @@ const config: Config = {
     {
       id: 956,
       name: "Shirt Buttoned 1",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -13653,7 +13653,7 @@ const config: Config = {
     {
       id: 957,
       name: "Shirt Buttoned 1",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -13674,7 +13674,7 @@ const config: Config = {
     {
       id: 958,
       name: "Shirt Buttoned 1",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -13695,7 +13695,7 @@ const config: Config = {
     {
       id: 959,
       name: "Shirt Buttoned 1",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -13716,7 +13716,7 @@ const config: Config = {
     {
       id: 960,
       name: "Shirt Buttoned 2",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -13737,7 +13737,7 @@ const config: Config = {
     {
       id: 961,
       name: "Shirt Buttoned 2",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -13758,7 +13758,7 @@ const config: Config = {
     {
       id: 962,
       name: "Shirt Buttoned 2",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -13779,7 +13779,7 @@ const config: Config = {
     {
       id: 963,
       name: "Shirt Buttoned 2",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -13800,7 +13800,7 @@ const config: Config = {
     {
       id: 964,
       name: "Shirt Buttoned 2",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -13821,7 +13821,7 @@ const config: Config = {
     {
       id: 965,
       name: "Shirt Buttoned 2",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -13842,7 +13842,7 @@ const config: Config = {
     {
       id: 966,
       name: "Shirt Buttoned 2",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -13863,7 +13863,7 @@ const config: Config = {
     {
       id: 967,
       name: "Shirt Buttoned 2",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -13884,7 +13884,7 @@ const config: Config = {
     {
       id: 968,
       name: "Shirt Buttoned 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -13905,7 +13905,7 @@ const config: Config = {
     {
       id: 969,
       name: "Shirt Buttoned 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -13926,7 +13926,7 @@ const config: Config = {
     {
       id: 970,
       name: "Shirt Buttoned 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -13947,7 +13947,7 @@ const config: Config = {
     {
       id: 971,
       name: "Shirt Buttoned 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -13968,7 +13968,7 @@ const config: Config = {
     {
       id: 972,
       name: "Shirt Buttoned 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -13989,7 +13989,7 @@ const config: Config = {
     {
       id: 973,
       name: "Shirt Buttoned 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -14010,7 +14010,7 @@ const config: Config = {
     {
       id: 974,
       name: "Shirt Buttoned 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -14031,7 +14031,7 @@ const config: Config = {
     {
       id: 975,
       name: "Shirt Buttoned 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -14052,7 +14052,7 @@ const config: Config = {
     {
       id: 976,
       name: "Shirt Buttoned 2",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -14073,7 +14073,7 @@ const config: Config = {
     {
       id: 977,
       name: "Shirt Buttoned 2",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -14094,7 +14094,7 @@ const config: Config = {
     {
       id: 978,
       name: "Shirt Buttoned 2",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -14115,7 +14115,7 @@ const config: Config = {
     {
       id: 979,
       name: "Shirt Buttoned 2",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -14136,7 +14136,7 @@ const config: Config = {
     {
       id: 980,
       name: "Shirt Buttoned 2",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -14157,7 +14157,7 @@ const config: Config = {
     {
       id: 981,
       name: "Shirt Buttoned 2",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -14178,7 +14178,7 @@ const config: Config = {
     {
       id: 982,
       name: "Shirt Buttoned 2",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -14199,7 +14199,7 @@ const config: Config = {
     {
       id: 983,
       name: "Shirt Buttoned 2",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -14220,7 +14220,7 @@ const config: Config = {
     {
       id: 984,
       name: "Shirt Buttoned 2",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -14241,7 +14241,7 @@ const config: Config = {
     {
       id: 985,
       name: "Shirt Buttoned 2",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -14262,7 +14262,7 @@ const config: Config = {
     {
       id: 986,
       name: "Shirt Buttoned 2",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -14283,7 +14283,7 @@ const config: Config = {
     {
       id: 987,
       name: "Shirt Buttoned 2",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -14304,7 +14304,7 @@ const config: Config = {
     {
       id: 988,
       name: "Shirt Buttoned 2",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -14325,7 +14325,7 @@ const config: Config = {
     {
       id: 989,
       name: "Shirt Buttoned 2",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -14346,7 +14346,7 @@ const config: Config = {
     {
       id: 990,
       name: "Shirt Buttoned 2",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -14367,7 +14367,7 @@ const config: Config = {
     {
       id: 991,
       name: "Shirt Buttoned 2",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -14388,7 +14388,7 @@ const config: Config = {
     {
       id: 992,
       name: "Shirt Buttoned 2",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -14409,7 +14409,7 @@ const config: Config = {
     {
       id: 993,
       name: "Shirt Buttoned 2",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -14430,7 +14430,7 @@ const config: Config = {
     {
       id: 994,
       name: "Shirt Buttoned 2",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -14451,7 +14451,7 @@ const config: Config = {
     {
       id: 995,
       name: "Shirt Buttoned 2",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -14472,7 +14472,7 @@ const config: Config = {
     {
       id: 996,
       name: "Shirt Buttoned 2",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -14493,7 +14493,7 @@ const config: Config = {
     {
       id: 997,
       name: "Shirt Buttoned 2",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -14514,7 +14514,7 @@ const config: Config = {
     {
       id: 998,
       name: "Shirt Buttoned 2",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -14535,7 +14535,7 @@ const config: Config = {
     {
       id: 999,
       name: "Shirt Buttoned 2",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -14556,7 +14556,7 @@ const config: Config = {
     {
       id: 1000,
       name: "Shirt Buttoned 2",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -14577,7 +14577,7 @@ const config: Config = {
     {
       id: 1001,
       name: "Shirt Buttoned 2",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -14598,7 +14598,7 @@ const config: Config = {
     {
       id: 1002,
       name: "Shirt Buttoned 2",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -14619,7 +14619,7 @@ const config: Config = {
     {
       id: 1003,
       name: "Shirt Buttoned 2",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -14640,7 +14640,7 @@ const config: Config = {
     {
       id: 1004,
       name: "Shirt Buttoned 2",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -14661,7 +14661,7 @@ const config: Config = {
     {
       id: 1005,
       name: "Shirt Buttoned 2",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -14682,7 +14682,7 @@ const config: Config = {
     {
       id: 1006,
       name: "Shirt Buttoned 2",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -14703,7 +14703,7 @@ const config: Config = {
     {
       id: 1007,
       name: "Shirt Buttoned 2",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -14724,7 +14724,7 @@ const config: Config = {
     {
       id: 1008,
       name: "Shirt Buttoned 2",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -14745,7 +14745,7 @@ const config: Config = {
     {
       id: 1009,
       name: "Shirt Buttoned 2",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -14766,7 +14766,7 @@ const config: Config = {
     {
       id: 1010,
       name: "Shirt Buttoned 2",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -14787,7 +14787,7 @@ const config: Config = {
     {
       id: 1011,
       name: "Shirt Buttoned 2",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -14808,7 +14808,7 @@ const config: Config = {
     {
       id: 1012,
       name: "Shirt Buttoned 2",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -14829,7 +14829,7 @@ const config: Config = {
     {
       id: 1013,
       name: "Shirt Buttoned 2",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -14850,7 +14850,7 @@ const config: Config = {
     {
       id: 1014,
       name: "Shirt Buttoned 2",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -14871,7 +14871,7 @@ const config: Config = {
     {
       id: 1015,
       name: "Shirt Buttoned 2",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -14892,7 +14892,7 @@ const config: Config = {
     {
       id: 1016,
       name: "Shirt Buttoned 2",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -14913,7 +14913,7 @@ const config: Config = {
     {
       id: 1017,
       name: "Shirt Buttoned 2",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -14934,7 +14934,7 @@ const config: Config = {
     {
       id: 1018,
       name: "Shirt Buttoned 2",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -14955,7 +14955,7 @@ const config: Config = {
     {
       id: 1019,
       name: "Shirt Buttoned 2",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -14976,7 +14976,7 @@ const config: Config = {
     {
       id: 1020,
       name: "Shirt Buttoned 2",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -14997,7 +14997,7 @@ const config: Config = {
     {
       id: 1021,
       name: "Shirt Buttoned 2",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -15018,7 +15018,7 @@ const config: Config = {
     {
       id: 1022,
       name: "Shirt Buttoned 2",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -15039,7 +15039,7 @@ const config: Config = {
     {
       id: 1023,
       name: "Shirt Buttoned 2",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -15060,7 +15060,7 @@ const config: Config = {
     {
       id: 1024,
       name: "Shirt Buttoned 2",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -15081,7 +15081,7 @@ const config: Config = {
     {
       id: 1025,
       name: "Shirt Buttoned 2",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -15102,7 +15102,7 @@ const config: Config = {
     {
       id: 1026,
       name: "Shirt Buttoned 2",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -15123,7 +15123,7 @@ const config: Config = {
     {
       id: 1027,
       name: "Shirt Buttoned 2",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -15144,7 +15144,7 @@ const config: Config = {
     {
       id: 1028,
       name: "Shirt Buttoned 2",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -15165,7 +15165,7 @@ const config: Config = {
     {
       id: 1029,
       name: "Shirt Buttoned 2",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -15186,7 +15186,7 @@ const config: Config = {
     {
       id: 1030,
       name: "Shirt Buttoned 2",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -15207,7 +15207,7 @@ const config: Config = {
     {
       id: 1031,
       name: "Shirt Buttoned 2",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -15228,7 +15228,7 @@ const config: Config = {
     {
       id: 1032,
       name: "Shirt Buttoned 2",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -15249,7 +15249,7 @@ const config: Config = {
     {
       id: 1033,
       name: "Shirt Buttoned 2",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -15270,7 +15270,7 @@ const config: Config = {
     {
       id: 1034,
       name: "Shirt Buttoned 2",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -15291,7 +15291,7 @@ const config: Config = {
     {
       id: 1035,
       name: "Shirt Buttoned 2",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -15312,7 +15312,7 @@ const config: Config = {
     {
       id: 1036,
       name: "Shirt Buttoned 2",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -15333,7 +15333,7 @@ const config: Config = {
     {
       id: 1037,
       name: "Shirt Buttoned 2",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -15354,7 +15354,7 @@ const config: Config = {
     {
       id: 1038,
       name: "Shirt Buttoned 2",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -15375,7 +15375,7 @@ const config: Config = {
     {
       id: 1039,
       name: "Shirt Buttoned 2",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -15396,7 +15396,7 @@ const config: Config = {
     {
       id: 1040,
       name: "Shirt Buttoned 2",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -15417,7 +15417,7 @@ const config: Config = {
     {
       id: 1041,
       name: "Shirt Buttoned 2",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -15438,7 +15438,7 @@ const config: Config = {
     {
       id: 1042,
       name: "Shirt Buttoned 2",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -15459,7 +15459,7 @@ const config: Config = {
     {
       id: 1043,
       name: "Shirt Buttoned 2",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -15480,7 +15480,7 @@ const config: Config = {
     {
       id: 1044,
       name: "Shirt Buttoned 2",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -15501,7 +15501,7 @@ const config: Config = {
     {
       id: 1045,
       name: "Shirt Buttoned 2",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -15522,7 +15522,7 @@ const config: Config = {
     {
       id: 1046,
       name: "Shirt Buttoned 2",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -15543,7 +15543,7 @@ const config: Config = {
     {
       id: 1047,
       name: "Shirt Buttoned 2",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -15564,7 +15564,7 @@ const config: Config = {
     {
       id: 1048,
       name: "Shirt Buttoned 2",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -15585,7 +15585,7 @@ const config: Config = {
     {
       id: 1049,
       name: "Shirt Buttoned 2",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -15606,7 +15606,7 @@ const config: Config = {
     {
       id: 1050,
       name: "Shirt Buttoned 2",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -15627,7 +15627,7 @@ const config: Config = {
     {
       id: 1051,
       name: "Shirt Buttoned 2",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -15648,7 +15648,7 @@ const config: Config = {
     {
       id: 1052,
       name: "Shirt Buttoned 2",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -15669,7 +15669,7 @@ const config: Config = {
     {
       id: 1053,
       name: "Shirt Buttoned 2",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -15690,7 +15690,7 @@ const config: Config = {
     {
       id: 1054,
       name: "Shirt Buttoned 2",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -15711,7 +15711,7 @@ const config: Config = {
     {
       id: 1055,
       name: "Shirt Buttoned 2",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -15732,7 +15732,7 @@ const config: Config = {
     {
       id: 1056,
       name: "Shirt Buttoned 3",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -15753,7 +15753,7 @@ const config: Config = {
     {
       id: 1057,
       name: "Shirt Buttoned 3",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -15774,7 +15774,7 @@ const config: Config = {
     {
       id: 1058,
       name: "Shirt Buttoned 3",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -15795,7 +15795,7 @@ const config: Config = {
     {
       id: 1059,
       name: "Shirt Buttoned 3",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -15816,7 +15816,7 @@ const config: Config = {
     {
       id: 1060,
       name: "Shirt Buttoned 3",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -15837,7 +15837,7 @@ const config: Config = {
     {
       id: 1061,
       name: "Shirt Buttoned 3",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -15858,7 +15858,7 @@ const config: Config = {
     {
       id: 1062,
       name: "Shirt Buttoned 3",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -15879,7 +15879,7 @@ const config: Config = {
     {
       id: 1063,
       name: "Shirt Buttoned 3",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -15900,7 +15900,7 @@ const config: Config = {
     {
       id: 1064,
       name: "Shirt Buttoned 3",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -15921,7 +15921,7 @@ const config: Config = {
     {
       id: 1065,
       name: "Shirt Buttoned 3",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -15942,7 +15942,7 @@ const config: Config = {
     {
       id: 1066,
       name: "Shirt Buttoned 3",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -15963,7 +15963,7 @@ const config: Config = {
     {
       id: 1067,
       name: "Shirt Buttoned 3",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -15984,7 +15984,7 @@ const config: Config = {
     {
       id: 1068,
       name: "Shirt Buttoned 3",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -16005,7 +16005,7 @@ const config: Config = {
     {
       id: 1069,
       name: "Shirt Buttoned 3",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -16026,7 +16026,7 @@ const config: Config = {
     {
       id: 1070,
       name: "Shirt Buttoned 3",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -16047,7 +16047,7 @@ const config: Config = {
     {
       id: 1071,
       name: "Shirt Buttoned 3",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -16068,7 +16068,7 @@ const config: Config = {
     {
       id: 1072,
       name: "Shirt Buttoned 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -16089,7 +16089,7 @@ const config: Config = {
     {
       id: 1073,
       name: "Shirt Buttoned 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -16110,7 +16110,7 @@ const config: Config = {
     {
       id: 1074,
       name: "Shirt Buttoned 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -16131,7 +16131,7 @@ const config: Config = {
     {
       id: 1075,
       name: "Shirt Buttoned 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -16152,7 +16152,7 @@ const config: Config = {
     {
       id: 1076,
       name: "Shirt Buttoned 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -16173,7 +16173,7 @@ const config: Config = {
     {
       id: 1077,
       name: "Shirt Buttoned 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -16194,7 +16194,7 @@ const config: Config = {
     {
       id: 1078,
       name: "Shirt Buttoned 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -16215,7 +16215,7 @@ const config: Config = {
     {
       id: 1079,
       name: "Shirt Buttoned 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -16236,7 +16236,7 @@ const config: Config = {
     {
       id: 1080,
       name: "Shirt Buttoned 3",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -16257,7 +16257,7 @@ const config: Config = {
     {
       id: 1081,
       name: "Shirt Buttoned 3",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -16278,7 +16278,7 @@ const config: Config = {
     {
       id: 1082,
       name: "Shirt Buttoned 3",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -16299,7 +16299,7 @@ const config: Config = {
     {
       id: 1083,
       name: "Shirt Buttoned 3",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -16320,7 +16320,7 @@ const config: Config = {
     {
       id: 1084,
       name: "Shirt Buttoned 3",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -16341,7 +16341,7 @@ const config: Config = {
     {
       id: 1085,
       name: "Shirt Buttoned 3",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -16362,7 +16362,7 @@ const config: Config = {
     {
       id: 1086,
       name: "Shirt Buttoned 3",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -16383,7 +16383,7 @@ const config: Config = {
     {
       id: 1087,
       name: "Shirt Buttoned 3",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -16404,7 +16404,7 @@ const config: Config = {
     {
       id: 1088,
       name: "Shirt Buttoned 3",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -16425,7 +16425,7 @@ const config: Config = {
     {
       id: 1089,
       name: "Shirt Buttoned 3",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -16446,7 +16446,7 @@ const config: Config = {
     {
       id: 1090,
       name: "Shirt Buttoned 3",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -16467,7 +16467,7 @@ const config: Config = {
     {
       id: 1091,
       name: "Shirt Buttoned 3",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -16488,7 +16488,7 @@ const config: Config = {
     {
       id: 1092,
       name: "Shirt Buttoned 3",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -16509,7 +16509,7 @@ const config: Config = {
     {
       id: 1093,
       name: "Shirt Buttoned 3",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -16530,7 +16530,7 @@ const config: Config = {
     {
       id: 1094,
       name: "Shirt Buttoned 3",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -16551,7 +16551,7 @@ const config: Config = {
     {
       id: 1095,
       name: "Shirt Buttoned 3",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -16572,7 +16572,7 @@ const config: Config = {
     {
       id: 1096,
       name: "Shirt Buttoned 3",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -16593,7 +16593,7 @@ const config: Config = {
     {
       id: 1097,
       name: "Shirt Buttoned 3",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -16614,7 +16614,7 @@ const config: Config = {
     {
       id: 1098,
       name: "Shirt Buttoned 3",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -16635,7 +16635,7 @@ const config: Config = {
     {
       id: 1099,
       name: "Shirt Buttoned 3",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -16656,7 +16656,7 @@ const config: Config = {
     {
       id: 1100,
       name: "Shirt Buttoned 3",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -16677,7 +16677,7 @@ const config: Config = {
     {
       id: 1101,
       name: "Shirt Buttoned 3",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -16698,7 +16698,7 @@ const config: Config = {
     {
       id: 1102,
       name: "Shirt Buttoned 3",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -16719,7 +16719,7 @@ const config: Config = {
     {
       id: 1103,
       name: "Shirt Buttoned 3",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -16740,7 +16740,7 @@ const config: Config = {
     {
       id: 1104,
       name: "Shirt Buttoned 3",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -16761,7 +16761,7 @@ const config: Config = {
     {
       id: 1105,
       name: "Shirt Buttoned 3",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -16782,7 +16782,7 @@ const config: Config = {
     {
       id: 1106,
       name: "Shirt Buttoned 3",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -16803,7 +16803,7 @@ const config: Config = {
     {
       id: 1107,
       name: "Shirt Buttoned 3",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -16824,7 +16824,7 @@ const config: Config = {
     {
       id: 1108,
       name: "Shirt Buttoned 3",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -16845,7 +16845,7 @@ const config: Config = {
     {
       id: 1109,
       name: "Shirt Buttoned 3",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -16866,7 +16866,7 @@ const config: Config = {
     {
       id: 1110,
       name: "Shirt Buttoned 3",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -16887,7 +16887,7 @@ const config: Config = {
     {
       id: 1111,
       name: "Shirt Buttoned 3",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -16908,7 +16908,7 @@ const config: Config = {
     {
       id: 1112,
       name: "Shirt Buttoned 3",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -16929,7 +16929,7 @@ const config: Config = {
     {
       id: 1113,
       name: "Shirt Buttoned 3",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -16950,7 +16950,7 @@ const config: Config = {
     {
       id: 1114,
       name: "Shirt Buttoned 3",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -16971,7 +16971,7 @@ const config: Config = {
     {
       id: 1115,
       name: "Shirt Buttoned 3",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -16992,7 +16992,7 @@ const config: Config = {
     {
       id: 1116,
       name: "Shirt Buttoned 3",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -17013,7 +17013,7 @@ const config: Config = {
     {
       id: 1117,
       name: "Shirt Buttoned 3",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -17034,7 +17034,7 @@ const config: Config = {
     {
       id: 1118,
       name: "Shirt Buttoned 3",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -17055,7 +17055,7 @@ const config: Config = {
     {
       id: 1119,
       name: "Shirt Buttoned 3",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -17076,7 +17076,7 @@ const config: Config = {
     {
       id: 1120,
       name: "Shirt Buttoned 3",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -17097,7 +17097,7 @@ const config: Config = {
     {
       id: 1121,
       name: "Shirt Buttoned 3",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -17118,7 +17118,7 @@ const config: Config = {
     {
       id: 1122,
       name: "Shirt Buttoned 3",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -17139,7 +17139,7 @@ const config: Config = {
     {
       id: 1123,
       name: "Shirt Buttoned 3",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -17160,7 +17160,7 @@ const config: Config = {
     {
       id: 1124,
       name: "Shirt Buttoned 3",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -17181,7 +17181,7 @@ const config: Config = {
     {
       id: 1125,
       name: "Shirt Buttoned 3",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -17202,7 +17202,7 @@ const config: Config = {
     {
       id: 1126,
       name: "Shirt Buttoned 3",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -17223,7 +17223,7 @@ const config: Config = {
     {
       id: 1127,
       name: "Shirt Buttoned 3",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -17244,7 +17244,7 @@ const config: Config = {
     {
       id: 1128,
       name: "Shirt Buttoned 3",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -17265,7 +17265,7 @@ const config: Config = {
     {
       id: 1129,
       name: "Shirt Buttoned 3",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -17286,7 +17286,7 @@ const config: Config = {
     {
       id: 1130,
       name: "Shirt Buttoned 3",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -17307,7 +17307,7 @@ const config: Config = {
     {
       id: 1131,
       name: "Shirt Buttoned 3",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -17328,7 +17328,7 @@ const config: Config = {
     {
       id: 1132,
       name: "Shirt Buttoned 3",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -17349,7 +17349,7 @@ const config: Config = {
     {
       id: 1133,
       name: "Shirt Buttoned 3",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -17370,7 +17370,7 @@ const config: Config = {
     {
       id: 1134,
       name: "Shirt Buttoned 3",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -17391,7 +17391,7 @@ const config: Config = {
     {
       id: 1135,
       name: "Shirt Buttoned 3",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -17412,7 +17412,7 @@ const config: Config = {
     {
       id: 1136,
       name: "Shirt Buttoned 3",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -17433,7 +17433,7 @@ const config: Config = {
     {
       id: 1137,
       name: "Shirt Buttoned 3",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -17454,7 +17454,7 @@ const config: Config = {
     {
       id: 1138,
       name: "Shirt Buttoned 3",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -17475,7 +17475,7 @@ const config: Config = {
     {
       id: 1139,
       name: "Shirt Buttoned 3",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -17496,7 +17496,7 @@ const config: Config = {
     {
       id: 1140,
       name: "Shirt Buttoned 3",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -17517,7 +17517,7 @@ const config: Config = {
     {
       id: 1141,
       name: "Shirt Buttoned 3",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -17538,7 +17538,7 @@ const config: Config = {
     {
       id: 1142,
       name: "Shirt Buttoned 3",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -17559,7 +17559,7 @@ const config: Config = {
     {
       id: 1143,
       name: "Shirt Buttoned 3",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -17580,7 +17580,7 @@ const config: Config = {
     {
       id: 1144,
       name: "Shirt Buttoned 3",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -17601,7 +17601,7 @@ const config: Config = {
     {
       id: 1145,
       name: "Shirt Buttoned 3",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -17622,7 +17622,7 @@ const config: Config = {
     {
       id: 1146,
       name: "Shirt Buttoned 3",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -17643,7 +17643,7 @@ const config: Config = {
     {
       id: 1147,
       name: "Shirt Buttoned 3",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -17664,7 +17664,7 @@ const config: Config = {
     {
       id: 1148,
       name: "Shirt Buttoned 3",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -17685,7 +17685,7 @@ const config: Config = {
     {
       id: 1149,
       name: "Shirt Buttoned 3",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -17706,7 +17706,7 @@ const config: Config = {
     {
       id: 1150,
       name: "Shirt Buttoned 3",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -17727,7 +17727,7 @@ const config: Config = {
     {
       id: 1151,
       name: "Shirt Buttoned 3",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -17748,7 +17748,7 @@ const config: Config = {
     {
       id: 1152,
       name: "Shirt Unbuttoned 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -17769,7 +17769,7 @@ const config: Config = {
     {
       id: 1153,
       name: "Shirt Unbuttoned 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -17790,7 +17790,7 @@ const config: Config = {
     {
       id: 1154,
       name: "Shirt Unbuttoned 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -17811,7 +17811,7 @@ const config: Config = {
     {
       id: 1155,
       name: "Shirt Unbuttoned 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -17832,7 +17832,7 @@ const config: Config = {
     {
       id: 1156,
       name: "Shirt Unbuttoned 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -17853,7 +17853,7 @@ const config: Config = {
     {
       id: 1157,
       name: "Shirt Unbuttoned 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -17874,7 +17874,7 @@ const config: Config = {
     {
       id: 1158,
       name: "Shirt Unbuttoned 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -17895,7 +17895,7 @@ const config: Config = {
     {
       id: 1159,
       name: "Shirt Unbuttoned 1",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -17916,7 +17916,7 @@ const config: Config = {
     {
       id: 1160,
       name: "Shirt Unbuttoned 1",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -17937,7 +17937,7 @@ const config: Config = {
     {
       id: 1161,
       name: "Shirt Unbuttoned 1",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -17958,7 +17958,7 @@ const config: Config = {
     {
       id: 1162,
       name: "Shirt Unbuttoned 1",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -17979,7 +17979,7 @@ const config: Config = {
     {
       id: 1163,
       name: "Shirt Unbuttoned 1",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -18000,7 +18000,7 @@ const config: Config = {
     {
       id: 1164,
       name: "Shirt Unbuttoned 1",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -18021,7 +18021,7 @@ const config: Config = {
     {
       id: 1165,
       name: "Shirt Unbuttoned 1",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -18042,7 +18042,7 @@ const config: Config = {
     {
       id: 1166,
       name: "Shirt Unbuttoned 1",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -18063,7 +18063,7 @@ const config: Config = {
     {
       id: 1167,
       name: "Shirt Unbuttoned 1",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -18084,7 +18084,7 @@ const config: Config = {
     {
       id: 1168,
       name: "Shirt Unbuttoned 1",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -18105,7 +18105,7 @@ const config: Config = {
     {
       id: 1169,
       name: "Shirt Unbuttoned 1",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -18126,7 +18126,7 @@ const config: Config = {
     {
       id: 1170,
       name: "Shirt Unbuttoned 1",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -18147,7 +18147,7 @@ const config: Config = {
     {
       id: 1171,
       name: "Shirt Unbuttoned 1",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -18168,7 +18168,7 @@ const config: Config = {
     {
       id: 1172,
       name: "Shirt Unbuttoned 1",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -18189,7 +18189,7 @@ const config: Config = {
     {
       id: 1173,
       name: "Shirt Unbuttoned 1",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -18210,7 +18210,7 @@ const config: Config = {
     {
       id: 1174,
       name: "Shirt Unbuttoned 1",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -18231,7 +18231,7 @@ const config: Config = {
     {
       id: 1175,
       name: "Shirt Unbuttoned 1",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -18252,7 +18252,7 @@ const config: Config = {
     {
       id: 1176,
       name: "Shirt Unbuttoned 1",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -18273,7 +18273,7 @@ const config: Config = {
     {
       id: 1177,
       name: "Shirt Unbuttoned 1",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -18294,7 +18294,7 @@ const config: Config = {
     {
       id: 1178,
       name: "Shirt Unbuttoned 1",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -18315,7 +18315,7 @@ const config: Config = {
     {
       id: 1179,
       name: "Shirt Unbuttoned 1",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -18336,7 +18336,7 @@ const config: Config = {
     {
       id: 1180,
       name: "Shirt Unbuttoned 1",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -18357,7 +18357,7 @@ const config: Config = {
     {
       id: 1181,
       name: "Shirt Unbuttoned 1",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -18378,7 +18378,7 @@ const config: Config = {
     {
       id: 1182,
       name: "Shirt Unbuttoned 1",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -18399,7 +18399,7 @@ const config: Config = {
     {
       id: 1183,
       name: "Shirt Unbuttoned 1",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -18420,7 +18420,7 @@ const config: Config = {
     {
       id: 1184,
       name: "Shirt Unbuttoned 1",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -18441,7 +18441,7 @@ const config: Config = {
     {
       id: 1185,
       name: "Shirt Unbuttoned 1",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -18462,7 +18462,7 @@ const config: Config = {
     {
       id: 1186,
       name: "Shirt Unbuttoned 1",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -18483,7 +18483,7 @@ const config: Config = {
     {
       id: 1187,
       name: "Shirt Unbuttoned 1",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -18504,7 +18504,7 @@ const config: Config = {
     {
       id: 1188,
       name: "Shirt Unbuttoned 1",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -18525,7 +18525,7 @@ const config: Config = {
     {
       id: 1189,
       name: "Shirt Unbuttoned 1",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -18546,7 +18546,7 @@ const config: Config = {
     {
       id: 1190,
       name: "Shirt Unbuttoned 1",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -18567,7 +18567,7 @@ const config: Config = {
     {
       id: 1191,
       name: "Shirt Unbuttoned 1",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -18588,7 +18588,7 @@ const config: Config = {
     {
       id: 1192,
       name: "Shirt Unbuttoned 1",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -18609,7 +18609,7 @@ const config: Config = {
     {
       id: 1193,
       name: "Shirt Unbuttoned 1",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -18630,7 +18630,7 @@ const config: Config = {
     {
       id: 1194,
       name: "Shirt Unbuttoned 1",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -18651,7 +18651,7 @@ const config: Config = {
     {
       id: 1195,
       name: "Shirt Unbuttoned 1",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -18672,7 +18672,7 @@ const config: Config = {
     {
       id: 1196,
       name: "Shirt Unbuttoned 1",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -18693,7 +18693,7 @@ const config: Config = {
     {
       id: 1197,
       name: "Shirt Unbuttoned 1",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -18714,7 +18714,7 @@ const config: Config = {
     {
       id: 1198,
       name: "Shirt Unbuttoned 1",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -18735,7 +18735,7 @@ const config: Config = {
     {
       id: 1199,
       name: "Shirt Unbuttoned 1",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -18756,7 +18756,7 @@ const config: Config = {
     {
       id: 1200,
       name: "Shirt Unbuttoned 1",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -18777,7 +18777,7 @@ const config: Config = {
     {
       id: 1201,
       name: "Shirt Unbuttoned 1",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -18798,7 +18798,7 @@ const config: Config = {
     {
       id: 1202,
       name: "Shirt Unbuttoned 1",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -18819,7 +18819,7 @@ const config: Config = {
     {
       id: 1203,
       name: "Shirt Unbuttoned 1",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -18840,7 +18840,7 @@ const config: Config = {
     {
       id: 1204,
       name: "Shirt Unbuttoned 1",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -18861,7 +18861,7 @@ const config: Config = {
     {
       id: 1205,
       name: "Shirt Unbuttoned 1",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -18882,7 +18882,7 @@ const config: Config = {
     {
       id: 1206,
       name: "Shirt Unbuttoned 1",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -18903,7 +18903,7 @@ const config: Config = {
     {
       id: 1207,
       name: "Shirt Unbuttoned 1",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -18924,7 +18924,7 @@ const config: Config = {
     {
       id: 1208,
       name: "Shirt Unbuttoned 1",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -18945,7 +18945,7 @@ const config: Config = {
     {
       id: 1209,
       name: "Shirt Unbuttoned 1",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -18966,7 +18966,7 @@ const config: Config = {
     {
       id: 1210,
       name: "Shirt Unbuttoned 1",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -18987,7 +18987,7 @@ const config: Config = {
     {
       id: 1211,
       name: "Shirt Unbuttoned 1",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -19008,7 +19008,7 @@ const config: Config = {
     {
       id: 1212,
       name: "Shirt Unbuttoned 1",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -19029,7 +19029,7 @@ const config: Config = {
     {
       id: 1213,
       name: "Shirt Unbuttoned 1",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -19050,7 +19050,7 @@ const config: Config = {
     {
       id: 1214,
       name: "Shirt Unbuttoned 1",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -19071,7 +19071,7 @@ const config: Config = {
     {
       id: 1215,
       name: "Shirt Unbuttoned 1",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -19092,7 +19092,7 @@ const config: Config = {
     {
       id: 1216,
       name: "Shirt Unbuttoned 1",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -19113,7 +19113,7 @@ const config: Config = {
     {
       id: 1217,
       name: "Shirt Unbuttoned 1",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -19134,7 +19134,7 @@ const config: Config = {
     {
       id: 1218,
       name: "Shirt Unbuttoned 1",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -19155,7 +19155,7 @@ const config: Config = {
     {
       id: 1219,
       name: "Shirt Unbuttoned 1",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -19176,7 +19176,7 @@ const config: Config = {
     {
       id: 1220,
       name: "Shirt Unbuttoned 1",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -19197,7 +19197,7 @@ const config: Config = {
     {
       id: 1221,
       name: "Shirt Unbuttoned 1",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -19218,7 +19218,7 @@ const config: Config = {
     {
       id: 1222,
       name: "Shirt Unbuttoned 1",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -19239,7 +19239,7 @@ const config: Config = {
     {
       id: 1223,
       name: "Shirt Unbuttoned 1",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -19260,7 +19260,7 @@ const config: Config = {
     {
       id: 1224,
       name: "Shirt Unbuttoned 1",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -19281,7 +19281,7 @@ const config: Config = {
     {
       id: 1225,
       name: "Shirt Unbuttoned 1",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -19302,7 +19302,7 @@ const config: Config = {
     {
       id: 1226,
       name: "Shirt Unbuttoned 1",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -19323,7 +19323,7 @@ const config: Config = {
     {
       id: 1227,
       name: "Shirt Unbuttoned 1",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -19344,7 +19344,7 @@ const config: Config = {
     {
       id: 1228,
       name: "Shirt Unbuttoned 1",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -19365,7 +19365,7 @@ const config: Config = {
     {
       id: 1229,
       name: "Shirt Unbuttoned 1",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -19386,7 +19386,7 @@ const config: Config = {
     {
       id: 1230,
       name: "Shirt Unbuttoned 1",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -19407,7 +19407,7 @@ const config: Config = {
     {
       id: 1231,
       name: "Shirt Unbuttoned 1",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -19428,7 +19428,7 @@ const config: Config = {
     {
       id: 1232,
       name: "Shirt Unbuttoned 1",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -19449,7 +19449,7 @@ const config: Config = {
     {
       id: 1233,
       name: "Shirt Unbuttoned 1",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -19470,7 +19470,7 @@ const config: Config = {
     {
       id: 1234,
       name: "Shirt Unbuttoned 1",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -19491,7 +19491,7 @@ const config: Config = {
     {
       id: 1235,
       name: "Shirt Unbuttoned 1",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -19512,7 +19512,7 @@ const config: Config = {
     {
       id: 1236,
       name: "Shirt Unbuttoned 1",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -19533,7 +19533,7 @@ const config: Config = {
     {
       id: 1237,
       name: "Shirt Unbuttoned 1",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -19554,7 +19554,7 @@ const config: Config = {
     {
       id: 1238,
       name: "Shirt Unbuttoned 1",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -19575,7 +19575,7 @@ const config: Config = {
     {
       id: 1239,
       name: "Shirt Unbuttoned 1",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -19596,7 +19596,7 @@ const config: Config = {
     {
       id: 1240,
       name: "Shirt Unbuttoned 1",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -19617,7 +19617,7 @@ const config: Config = {
     {
       id: 1241,
       name: "Shirt Unbuttoned 1",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -19638,7 +19638,7 @@ const config: Config = {
     {
       id: 1242,
       name: "Shirt Unbuttoned 1",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -19659,7 +19659,7 @@ const config: Config = {
     {
       id: 1243,
       name: "Shirt Unbuttoned 1",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -19680,7 +19680,7 @@ const config: Config = {
     {
       id: 1244,
       name: "Shirt Unbuttoned 1",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -19701,7 +19701,7 @@ const config: Config = {
     {
       id: 1245,
       name: "Shirt Unbuttoned 1",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -19722,7 +19722,7 @@ const config: Config = {
     {
       id: 1246,
       name: "Shirt Unbuttoned 1",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -19743,7 +19743,7 @@ const config: Config = {
     {
       id: 1247,
       name: "Shirt Unbuttoned 1",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -19764,7 +19764,7 @@ const config: Config = {
     {
       id: 1248,
       name: "Shirt Unbuttoned 2",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -19785,7 +19785,7 @@ const config: Config = {
     {
       id: 1249,
       name: "Shirt Unbuttoned 2",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -19806,7 +19806,7 @@ const config: Config = {
     {
       id: 1250,
       name: "Shirt Unbuttoned 2",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -19827,7 +19827,7 @@ const config: Config = {
     {
       id: 1251,
       name: "Shirt Unbuttoned 2",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -19848,7 +19848,7 @@ const config: Config = {
     {
       id: 1252,
       name: "Shirt Unbuttoned 2",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -19869,7 +19869,7 @@ const config: Config = {
     {
       id: 1253,
       name: "Shirt Unbuttoned 2",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -19890,7 +19890,7 @@ const config: Config = {
     {
       id: 1254,
       name: "Shirt Unbuttoned 2",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -19911,7 +19911,7 @@ const config: Config = {
     {
       id: 1255,
       name: "Shirt Unbuttoned 2",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -19932,7 +19932,7 @@ const config: Config = {
     {
       id: 1256,
       name: "Shirt Unbuttoned 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -19953,7 +19953,7 @@ const config: Config = {
     {
       id: 1257,
       name: "Shirt Unbuttoned 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -19974,7 +19974,7 @@ const config: Config = {
     {
       id: 1258,
       name: "Shirt Unbuttoned 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -19995,7 +19995,7 @@ const config: Config = {
     {
       id: 1259,
       name: "Shirt Unbuttoned 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -20016,7 +20016,7 @@ const config: Config = {
     {
       id: 1260,
       name: "Shirt Unbuttoned 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -20037,7 +20037,7 @@ const config: Config = {
     {
       id: 1261,
       name: "Shirt Unbuttoned 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -20058,7 +20058,7 @@ const config: Config = {
     {
       id: 1262,
       name: "Shirt Unbuttoned 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -20079,7 +20079,7 @@ const config: Config = {
     {
       id: 1263,
       name: "Shirt Unbuttoned 2",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -20100,7 +20100,7 @@ const config: Config = {
     {
       id: 1264,
       name: "Shirt Unbuttoned 2",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -20121,7 +20121,7 @@ const config: Config = {
     {
       id: 1265,
       name: "Shirt Unbuttoned 2",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -20142,7 +20142,7 @@ const config: Config = {
     {
       id: 1266,
       name: "Shirt Unbuttoned 2",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -20163,7 +20163,7 @@ const config: Config = {
     {
       id: 1267,
       name: "Shirt Unbuttoned 2",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -20184,7 +20184,7 @@ const config: Config = {
     {
       id: 1268,
       name: "Shirt Unbuttoned 2",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -20205,7 +20205,7 @@ const config: Config = {
     {
       id: 1269,
       name: "Shirt Unbuttoned 2",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -20226,7 +20226,7 @@ const config: Config = {
     {
       id: 1270,
       name: "Shirt Unbuttoned 2",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -20247,7 +20247,7 @@ const config: Config = {
     {
       id: 1271,
       name: "Shirt Unbuttoned 2",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -20268,7 +20268,7 @@ const config: Config = {
     {
       id: 1272,
       name: "Shirt Unbuttoned 2",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -20289,7 +20289,7 @@ const config: Config = {
     {
       id: 1273,
       name: "Shirt Unbuttoned 2",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -20310,7 +20310,7 @@ const config: Config = {
     {
       id: 1274,
       name: "Shirt Unbuttoned 2",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -20331,7 +20331,7 @@ const config: Config = {
     {
       id: 1275,
       name: "Shirt Unbuttoned 2",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -20352,7 +20352,7 @@ const config: Config = {
     {
       id: 1276,
       name: "Shirt Unbuttoned 2",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -20373,7 +20373,7 @@ const config: Config = {
     {
       id: 1277,
       name: "Shirt Unbuttoned 2",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -20394,7 +20394,7 @@ const config: Config = {
     {
       id: 1278,
       name: "Shirt Unbuttoned 2",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -20415,7 +20415,7 @@ const config: Config = {
     {
       id: 1279,
       name: "Shirt Unbuttoned 2",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -20436,7 +20436,7 @@ const config: Config = {
     {
       id: 1280,
       name: "Shirt Unbuttoned 2",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -20457,7 +20457,7 @@ const config: Config = {
     {
       id: 1281,
       name: "Shirt Unbuttoned 2",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -20478,7 +20478,7 @@ const config: Config = {
     {
       id: 1282,
       name: "Shirt Unbuttoned 2",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -20499,7 +20499,7 @@ const config: Config = {
     {
       id: 1283,
       name: "Shirt Unbuttoned 2",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -20520,7 +20520,7 @@ const config: Config = {
     {
       id: 1284,
       name: "Shirt Unbuttoned 2",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -20541,7 +20541,7 @@ const config: Config = {
     {
       id: 1285,
       name: "Shirt Unbuttoned 2",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -20562,7 +20562,7 @@ const config: Config = {
     {
       id: 1286,
       name: "Shirt Unbuttoned 2",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -20583,7 +20583,7 @@ const config: Config = {
     {
       id: 1287,
       name: "Shirt Unbuttoned 2",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -20604,7 +20604,7 @@ const config: Config = {
     {
       id: 1288,
       name: "Shirt Unbuttoned 2",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -20625,7 +20625,7 @@ const config: Config = {
     {
       id: 1289,
       name: "Shirt Unbuttoned 2",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -20646,7 +20646,7 @@ const config: Config = {
     {
       id: 1290,
       name: "Shirt Unbuttoned 2",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -20667,7 +20667,7 @@ const config: Config = {
     {
       id: 1291,
       name: "Shirt Unbuttoned 2",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -20688,7 +20688,7 @@ const config: Config = {
     {
       id: 1292,
       name: "Shirt Unbuttoned 2",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -20709,7 +20709,7 @@ const config: Config = {
     {
       id: 1293,
       name: "Shirt Unbuttoned 2",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -20730,7 +20730,7 @@ const config: Config = {
     {
       id: 1294,
       name: "Shirt Unbuttoned 2",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -20751,7 +20751,7 @@ const config: Config = {
     {
       id: 1295,
       name: "Shirt Unbuttoned 2",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -20772,7 +20772,7 @@ const config: Config = {
     {
       id: 1296,
       name: "Shirt Unbuttoned 2",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -20793,7 +20793,7 @@ const config: Config = {
     {
       id: 1297,
       name: "Shirt Unbuttoned 2",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -20814,7 +20814,7 @@ const config: Config = {
     {
       id: 1298,
       name: "Shirt Unbuttoned 2",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -20835,7 +20835,7 @@ const config: Config = {
     {
       id: 1299,
       name: "Shirt Unbuttoned 2",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -20856,7 +20856,7 @@ const config: Config = {
     {
       id: 1300,
       name: "Shirt Unbuttoned 2",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -20877,7 +20877,7 @@ const config: Config = {
     {
       id: 1301,
       name: "Shirt Unbuttoned 2",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -20898,7 +20898,7 @@ const config: Config = {
     {
       id: 1302,
       name: "Shirt Unbuttoned 2",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -20919,7 +20919,7 @@ const config: Config = {
     {
       id: 1303,
       name: "Shirt Unbuttoned 2",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -20940,7 +20940,7 @@ const config: Config = {
     {
       id: 1304,
       name: "Shirt Unbuttoned 2",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -20961,7 +20961,7 @@ const config: Config = {
     {
       id: 1305,
       name: "Shirt Unbuttoned 2",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -20982,7 +20982,7 @@ const config: Config = {
     {
       id: 1306,
       name: "Shirt Unbuttoned 2",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -21003,7 +21003,7 @@ const config: Config = {
     {
       id: 1307,
       name: "Shirt Unbuttoned 2",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -21024,7 +21024,7 @@ const config: Config = {
     {
       id: 1308,
       name: "Shirt Unbuttoned 2",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -21045,7 +21045,7 @@ const config: Config = {
     {
       id: 1309,
       name: "Shirt Unbuttoned 2",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -21066,7 +21066,7 @@ const config: Config = {
     {
       id: 1310,
       name: "Shirt Unbuttoned 2",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -21087,7 +21087,7 @@ const config: Config = {
     {
       id: 1311,
       name: "Shirt Unbuttoned 2",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -21108,7 +21108,7 @@ const config: Config = {
     {
       id: 1312,
       name: "Shirt Unbuttoned 2",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -21129,7 +21129,7 @@ const config: Config = {
     {
       id: 1313,
       name: "Shirt Unbuttoned 2",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -21150,7 +21150,7 @@ const config: Config = {
     {
       id: 1314,
       name: "Shirt Unbuttoned 2",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -21171,7 +21171,7 @@ const config: Config = {
     {
       id: 1315,
       name: "Shirt Unbuttoned 2",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -21192,7 +21192,7 @@ const config: Config = {
     {
       id: 1316,
       name: "Shirt Unbuttoned 2",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -21213,7 +21213,7 @@ const config: Config = {
     {
       id: 1317,
       name: "Shirt Unbuttoned 2",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -21234,7 +21234,7 @@ const config: Config = {
     {
       id: 1318,
       name: "Shirt Unbuttoned 2",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -21255,7 +21255,7 @@ const config: Config = {
     {
       id: 1319,
       name: "Shirt Unbuttoned 2",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -21276,7 +21276,7 @@ const config: Config = {
     {
       id: 1320,
       name: "Shirt Unbuttoned 2",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -21297,7 +21297,7 @@ const config: Config = {
     {
       id: 1321,
       name: "Shirt Unbuttoned 2",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -21318,7 +21318,7 @@ const config: Config = {
     {
       id: 1322,
       name: "Shirt Unbuttoned 2",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -21339,7 +21339,7 @@ const config: Config = {
     {
       id: 1323,
       name: "Shirt Unbuttoned 2",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -21360,7 +21360,7 @@ const config: Config = {
     {
       id: 1324,
       name: "Shirt Unbuttoned 2",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -21381,7 +21381,7 @@ const config: Config = {
     {
       id: 1325,
       name: "Shirt Unbuttoned 2",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -21402,7 +21402,7 @@ const config: Config = {
     {
       id: 1326,
       name: "Shirt Unbuttoned 2",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -21423,7 +21423,7 @@ const config: Config = {
     {
       id: 1327,
       name: "Shirt Unbuttoned 2",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -21444,7 +21444,7 @@ const config: Config = {
     {
       id: 1328,
       name: "Shirt Unbuttoned 2",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -21465,7 +21465,7 @@ const config: Config = {
     {
       id: 1329,
       name: "Shirt Unbuttoned 2",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -21486,7 +21486,7 @@ const config: Config = {
     {
       id: 1330,
       name: "Shirt Unbuttoned 2",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -21507,7 +21507,7 @@ const config: Config = {
     {
       id: 1331,
       name: "Shirt Unbuttoned 2",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -21528,7 +21528,7 @@ const config: Config = {
     {
       id: 1332,
       name: "Shirt Unbuttoned 2",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -21549,7 +21549,7 @@ const config: Config = {
     {
       id: 1333,
       name: "Shirt Unbuttoned 2",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -21570,7 +21570,7 @@ const config: Config = {
     {
       id: 1334,
       name: "Shirt Unbuttoned 2",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -21591,7 +21591,7 @@ const config: Config = {
     {
       id: 1335,
       name: "Shirt Unbuttoned 2",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -21612,7 +21612,7 @@ const config: Config = {
     {
       id: 1336,
       name: "Shirt Unbuttoned 2",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -21633,7 +21633,7 @@ const config: Config = {
     {
       id: 1337,
       name: "Shirt Unbuttoned 2",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -21654,7 +21654,7 @@ const config: Config = {
     {
       id: 1338,
       name: "Shirt Unbuttoned 2",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -21675,7 +21675,7 @@ const config: Config = {
     {
       id: 1339,
       name: "Shirt Unbuttoned 2",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -21696,7 +21696,7 @@ const config: Config = {
     {
       id: 1340,
       name: "Shirt Unbuttoned 2",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -21717,7 +21717,7 @@ const config: Config = {
     {
       id: 1341,
       name: "Shirt Unbuttoned 2",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -21738,7 +21738,7 @@ const config: Config = {
     {
       id: 1342,
       name: "Shirt Unbuttoned 2",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -21759,7 +21759,7 @@ const config: Config = {
     {
       id: 1343,
       name: "Shirt Unbuttoned 2",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -21780,7 +21780,7 @@ const config: Config = {
     {
       id: 1344,
       name: "Shirt Unbuttoned 3",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -21801,7 +21801,7 @@ const config: Config = {
     {
       id: 1345,
       name: "Shirt Unbuttoned 3",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -21822,7 +21822,7 @@ const config: Config = {
     {
       id: 1346,
       name: "Shirt Unbuttoned 3",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -21843,7 +21843,7 @@ const config: Config = {
     {
       id: 1347,
       name: "Shirt Unbuttoned 3",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -21864,7 +21864,7 @@ const config: Config = {
     {
       id: 1348,
       name: "Shirt Unbuttoned 3",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -21885,7 +21885,7 @@ const config: Config = {
     {
       id: 1349,
       name: "Shirt Unbuttoned 3",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -21906,7 +21906,7 @@ const config: Config = {
     {
       id: 1350,
       name: "Shirt Unbuttoned 3",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -21927,7 +21927,7 @@ const config: Config = {
     {
       id: 1351,
       name: "Shirt Unbuttoned 3",
-      groupId: 1,
+      bodyShapeId: 1,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -21948,7 +21948,7 @@ const config: Config = {
     {
       id: 1352,
       name: "Shirt Unbuttoned 3",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -21969,7 +21969,7 @@ const config: Config = {
     {
       id: 1353,
       name: "Shirt Unbuttoned 3",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -21990,7 +21990,7 @@ const config: Config = {
     {
       id: 1354,
       name: "Shirt Unbuttoned 3",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -22011,7 +22011,7 @@ const config: Config = {
     {
       id: 1355,
       name: "Shirt Unbuttoned 3",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -22032,7 +22032,7 @@ const config: Config = {
     {
       id: 1356,
       name: "Shirt Unbuttoned 3",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -22053,7 +22053,7 @@ const config: Config = {
     {
       id: 1357,
       name: "Shirt Unbuttoned 3",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -22074,7 +22074,7 @@ const config: Config = {
     {
       id: 1358,
       name: "Shirt Unbuttoned 3",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -22095,7 +22095,7 @@ const config: Config = {
     {
       id: 1359,
       name: "Shirt Unbuttoned 3",
-      groupId: 2,
+      bodyShapeId: 2,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -22116,7 +22116,7 @@ const config: Config = {
     {
       id: 1360,
       name: "Shirt Unbuttoned 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -22137,7 +22137,7 @@ const config: Config = {
     {
       id: 1361,
       name: "Shirt Unbuttoned 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -22158,7 +22158,7 @@ const config: Config = {
     {
       id: 1362,
       name: "Shirt Unbuttoned 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -22179,7 +22179,7 @@ const config: Config = {
     {
       id: 1363,
       name: "Shirt Unbuttoned 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -22200,7 +22200,7 @@ const config: Config = {
     {
       id: 1364,
       name: "Shirt Unbuttoned 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -22221,7 +22221,7 @@ const config: Config = {
     {
       id: 1365,
       name: "Shirt Unbuttoned 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -22242,7 +22242,7 @@ const config: Config = {
     {
       id: 1366,
       name: "Shirt Unbuttoned 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -22263,7 +22263,7 @@ const config: Config = {
     {
       id: 1367,
       name: "Shirt Unbuttoned 3",
-      groupId: 3,
+      bodyShapeId: 3,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -22284,7 +22284,7 @@ const config: Config = {
     {
       id: 1368,
       name: "Shirt Unbuttoned 3",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -22305,7 +22305,7 @@ const config: Config = {
     {
       id: 1369,
       name: "Shirt Unbuttoned 3",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -22326,7 +22326,7 @@ const config: Config = {
     {
       id: 1370,
       name: "Shirt Unbuttoned 3",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -22347,7 +22347,7 @@ const config: Config = {
     {
       id: 1371,
       name: "Shirt Unbuttoned 3",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -22368,7 +22368,7 @@ const config: Config = {
     {
       id: 1372,
       name: "Shirt Unbuttoned 3",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -22389,7 +22389,7 @@ const config: Config = {
     {
       id: 1373,
       name: "Shirt Unbuttoned 3",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -22410,7 +22410,7 @@ const config: Config = {
     {
       id: 1374,
       name: "Shirt Unbuttoned 3",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -22431,7 +22431,7 @@ const config: Config = {
     {
       id: 1375,
       name: "Shirt Unbuttoned 3",
-      groupId: 4,
+      bodyShapeId: 4,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -22452,7 +22452,7 @@ const config: Config = {
     {
       id: 1376,
       name: "Shirt Unbuttoned 3",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -22473,7 +22473,7 @@ const config: Config = {
     {
       id: 1377,
       name: "Shirt Unbuttoned 3",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -22494,7 +22494,7 @@ const config: Config = {
     {
       id: 1378,
       name: "Shirt Unbuttoned 3",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -22515,7 +22515,7 @@ const config: Config = {
     {
       id: 1379,
       name: "Shirt Unbuttoned 3",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -22536,7 +22536,7 @@ const config: Config = {
     {
       id: 1380,
       name: "Shirt Unbuttoned 3",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -22557,7 +22557,7 @@ const config: Config = {
     {
       id: 1381,
       name: "Shirt Unbuttoned 3",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -22578,7 +22578,7 @@ const config: Config = {
     {
       id: 1382,
       name: "Shirt Unbuttoned 3",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -22599,7 +22599,7 @@ const config: Config = {
     {
       id: 1383,
       name: "Shirt Unbuttoned 3",
-      groupId: 5,
+      bodyShapeId: 5,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -22620,7 +22620,7 @@ const config: Config = {
     {
       id: 1384,
       name: "Shirt Unbuttoned 3",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -22641,7 +22641,7 @@ const config: Config = {
     {
       id: 1385,
       name: "Shirt Unbuttoned 3",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -22662,7 +22662,7 @@ const config: Config = {
     {
       id: 1386,
       name: "Shirt Unbuttoned 3",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -22683,7 +22683,7 @@ const config: Config = {
     {
       id: 1387,
       name: "Shirt Unbuttoned 3",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -22704,7 +22704,7 @@ const config: Config = {
     {
       id: 1388,
       name: "Shirt Unbuttoned 3",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -22725,7 +22725,7 @@ const config: Config = {
     {
       id: 1389,
       name: "Shirt Unbuttoned 3",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -22746,7 +22746,7 @@ const config: Config = {
     {
       id: 1390,
       name: "Shirt Unbuttoned 3",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -22767,7 +22767,7 @@ const config: Config = {
     {
       id: 1391,
       name: "Shirt Unbuttoned 3",
-      groupId: 6,
+      bodyShapeId: 6,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -22788,7 +22788,7 @@ const config: Config = {
     {
       id: 1392,
       name: "Shirt Unbuttoned 3",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -22809,7 +22809,7 @@ const config: Config = {
     {
       id: 1393,
       name: "Shirt Unbuttoned 3",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -22830,7 +22830,7 @@ const config: Config = {
     {
       id: 1394,
       name: "Shirt Unbuttoned 3",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -22851,7 +22851,7 @@ const config: Config = {
     {
       id: 1395,
       name: "Shirt Unbuttoned 3",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -22872,7 +22872,7 @@ const config: Config = {
     {
       id: 1396,
       name: "Shirt Unbuttoned 3",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -22893,7 +22893,7 @@ const config: Config = {
     {
       id: 1397,
       name: "Shirt Unbuttoned 3",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -22914,7 +22914,7 @@ const config: Config = {
     {
       id: 1398,
       name: "Shirt Unbuttoned 3",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -22935,7 +22935,7 @@ const config: Config = {
     {
       id: 1399,
       name: "Shirt Unbuttoned 3",
-      groupId: 7,
+      bodyShapeId: 7,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -22956,7 +22956,7 @@ const config: Config = {
     {
       id: 1400,
       name: "Shirt Unbuttoned 3",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -22977,7 +22977,7 @@ const config: Config = {
     {
       id: 1401,
       name: "Shirt Unbuttoned 3",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -22998,7 +22998,7 @@ const config: Config = {
     {
       id: 1402,
       name: "Shirt Unbuttoned 3",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -23019,7 +23019,7 @@ const config: Config = {
     {
       id: 1403,
       name: "Shirt Unbuttoned 3",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -23040,7 +23040,7 @@ const config: Config = {
     {
       id: 1404,
       name: "Shirt Unbuttoned 3",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -23061,7 +23061,7 @@ const config: Config = {
     {
       id: 1405,
       name: "Shirt Unbuttoned 3",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -23082,7 +23082,7 @@ const config: Config = {
     {
       id: 1406,
       name: "Shirt Unbuttoned 3",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -23103,7 +23103,7 @@ const config: Config = {
     {
       id: 1407,
       name: "Shirt Unbuttoned 3",
-      groupId: 8,
+      bodyShapeId: 8,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -23124,7 +23124,7 @@ const config: Config = {
     {
       id: 1408,
       name: "Shirt Unbuttoned 3",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -23145,7 +23145,7 @@ const config: Config = {
     {
       id: 1409,
       name: "Shirt Unbuttoned 3",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -23166,7 +23166,7 @@ const config: Config = {
     {
       id: 1410,
       name: "Shirt Unbuttoned 3",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -23187,7 +23187,7 @@ const config: Config = {
     {
       id: 1411,
       name: "Shirt Unbuttoned 3",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -23208,7 +23208,7 @@ const config: Config = {
     {
       id: 1412,
       name: "Shirt Unbuttoned 3",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -23229,7 +23229,7 @@ const config: Config = {
     {
       id: 1413,
       name: "Shirt Unbuttoned 3",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -23250,7 +23250,7 @@ const config: Config = {
     {
       id: 1414,
       name: "Shirt Unbuttoned 3",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -23271,7 +23271,7 @@ const config: Config = {
     {
       id: 1415,
       name: "Shirt Unbuttoned 3",
-      groupId: 9,
+      bodyShapeId: 9,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -23292,7 +23292,7 @@ const config: Config = {
     {
       id: 1416,
       name: "Shirt Unbuttoned 3",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -23313,7 +23313,7 @@ const config: Config = {
     {
       id: 1417,
       name: "Shirt Unbuttoned 3",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -23334,7 +23334,7 @@ const config: Config = {
     {
       id: 1418,
       name: "Shirt Unbuttoned 3",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -23355,7 +23355,7 @@ const config: Config = {
     {
       id: 1419,
       name: "Shirt Unbuttoned 3",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -23376,7 +23376,7 @@ const config: Config = {
     {
       id: 1420,
       name: "Shirt Unbuttoned 3",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -23397,7 +23397,7 @@ const config: Config = {
     {
       id: 1421,
       name: "Shirt Unbuttoned 3",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -23418,7 +23418,7 @@ const config: Config = {
     {
       id: 1422,
       name: "Shirt Unbuttoned 3",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -23439,7 +23439,7 @@ const config: Config = {
     {
       id: 1423,
       name: "Shirt Unbuttoned 3",
-      groupId: 10,
+      bodyShapeId: 10,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -23460,7 +23460,7 @@ const config: Config = {
     {
       id: 1424,
       name: "Shirt Unbuttoned 3",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -23481,7 +23481,7 @@ const config: Config = {
     {
       id: 1425,
       name: "Shirt Unbuttoned 3",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -23502,7 +23502,7 @@ const config: Config = {
     {
       id: 1426,
       name: "Shirt Unbuttoned 3",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -23523,7 +23523,7 @@ const config: Config = {
     {
       id: 1427,
       name: "Shirt Unbuttoned 3",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -23544,7 +23544,7 @@ const config: Config = {
     {
       id: 1428,
       name: "Shirt Unbuttoned 3",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -23565,7 +23565,7 @@ const config: Config = {
     {
       id: 1429,
       name: "Shirt Unbuttoned 3",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -23586,7 +23586,7 @@ const config: Config = {
     {
       id: 1430,
       name: "Shirt Unbuttoned 3",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -23607,7 +23607,7 @@ const config: Config = {
     {
       id: 1431,
       name: "Shirt Unbuttoned 3",
-      groupId: 11,
+      bodyShapeId: 11,
       partTypeId: 3,
       colorId: 12,
       images: [
@@ -23628,7 +23628,7 @@ const config: Config = {
     {
       id: 1432,
       name: "Shirt Unbuttoned 3",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 5,
       images: [
@@ -23649,7 +23649,7 @@ const config: Config = {
     {
       id: 1433,
       name: "Shirt Unbuttoned 3",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 6,
       images: [
@@ -23670,7 +23670,7 @@ const config: Config = {
     {
       id: 1434,
       name: "Shirt Unbuttoned 3",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 7,
       images: [
@@ -23691,7 +23691,7 @@ const config: Config = {
     {
       id: 1435,
       name: "Shirt Unbuttoned 3",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 8,
       images: [
@@ -23712,7 +23712,7 @@ const config: Config = {
     {
       id: 1436,
       name: "Shirt Unbuttoned 3",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 9,
       images: [
@@ -23733,7 +23733,7 @@ const config: Config = {
     {
       id: 1437,
       name: "Shirt Unbuttoned 3",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 10,
       images: [
@@ -23754,7 +23754,7 @@ const config: Config = {
     {
       id: 1438,
       name: "Shirt Unbuttoned 3",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 11,
       images: [
@@ -23775,7 +23775,7 @@ const config: Config = {
     {
       id: 1439,
       name: "Shirt Unbuttoned 3",
-      groupId: 12,
+      bodyShapeId: 12,
       partTypeId: 3,
       colorId: 12,
       images: [

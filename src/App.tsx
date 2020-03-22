@@ -21,11 +21,24 @@ function App() {
     setPartInfoArray(prevState => {
       const newState = [...prevState];
       let shouldAdd = true;
+      const bodyShapeHasChanged = newPart.partTypeId === 0;
 
       prevState.forEach(part => {
         if (part.partTypeId === newPart.partTypeId) {
           configUtils.part.replacePart(part, newPart);
           shouldAdd = false;
+        } else if (
+          bodyShapeHasChanged &&
+          configUtils.partType.boundToBodyShape(part.partTypeId)
+        ) {
+          const partForNewBody = configUtils.part.findPartBoundToBodyShape(
+            config,
+            part,
+            newPart.bodyShapeId as number
+          );
+          if (partForNewBody) {
+            configUtils.part.replacePart(part, partForNewBody);
+          }
         }
       });
 

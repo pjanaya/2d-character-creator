@@ -1,6 +1,6 @@
 import ConfigUtils from "../interfaces/ConfigUtils";
 import config from "../config";
-import { ConfigPart } from "../interfaces/Config";
+import Config, { ConfigPart } from "../interfaces/Config";
 
 const configUtils: ConfigUtils = {
   partType: {
@@ -17,11 +17,22 @@ const configUtils: ConfigUtils = {
       oldPart.images = newPart.images;
       oldPart.name = newPart.name;
       oldPart.partTypeId = newPart.partTypeId;
-      oldPart.groupId = newPart.groupId;
+      oldPart.bodyShapeId = newPart.bodyShapeId;
       oldPart.colorId = newPart.colorId;
     },
     selectedBodyShape: (selectedParts: ConfigPart[]) =>
-      selectedParts.find(part => part.partTypeId === 0)?.groupId
+      selectedParts.find(part => part.partTypeId === 0)?.bodyShapeId,
+    findPartBoundToBodyShape: (
+      config: Config,
+      oldPart: ConfigPart,
+      bodyGroupId: number
+    ) =>
+      config.parts.find(
+        part =>
+          part.partTypeId === oldPart.partTypeId &&
+          part.bodyShapeId === bodyGroupId &&
+          part.colorId === oldPart.colorId
+      )
   }
 };
 

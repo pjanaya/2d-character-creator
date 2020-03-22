@@ -26,7 +26,7 @@ export const PartList = (props: PartListProps) => {
           )
           .filter(part =>
             configUtils.partType.boundToBodyShape(part.partTypeId)
-              ? part.groupId ===
+              ? part.bodyShapeId ===
                 configUtils.part.selectedBodyShape(props.partsArray)
               : true
           )

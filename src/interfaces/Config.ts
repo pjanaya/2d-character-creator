@@ -24,7 +24,7 @@ export interface ConfigPart {
   name: string;
   partTypeId: number;
   images: ConfigImage[];
-  groupId?: number;
+  bodyShapeId?: number;
   colorId?: number;
 }
 
