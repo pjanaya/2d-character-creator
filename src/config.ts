@@ -55,7 +55,7 @@ const config: Config = {
     {
       id: 9,
       name: "Clothing Pink",
-      hex: "#DEEB6E0"
+      hex: "#E6B4E3"
     },
     {
       id: 10,

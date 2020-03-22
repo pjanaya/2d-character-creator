@@ -1,6 +1,10 @@
 import ConfigUtils from "../interfaces/ConfigUtils";
 import config from "../config";
-import Config, { ConfigPart, ConfigPartType } from "../interfaces/Config";
+import Config, {
+  ConfigPart,
+  ConfigPartType,
+  ConfigColor
+} from "../interfaces/Config";
 
 const configUtils: ConfigUtils = {
   filter: {
@@ -20,6 +24,10 @@ const configUtils: ConfigUtils = {
       accumulator.some(part => part.name === currentValue.name)
         ? [...accumulator]
         : [...accumulator, currentValue]
+  },
+  color: {
+    getColor: (colorId: number) =>
+      config.colors.find(color => color.id === colorId)
   },
   partType: {
     usesSkinTone: (partTypeId: number) =>

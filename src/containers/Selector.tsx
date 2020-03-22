@@ -5,6 +5,7 @@ import { SkinTones } from "../components/SkinTones";
 import { PartTypes } from "../components/PartTypes";
 import { PartList } from "../components/PartList";
 import { ConfigPart } from "../interfaces/Config";
+import { PartColorSelector } from "../components/PartColorSelector";
 
 interface SelectorProps {
   addPart: (newPart: ConfigPart) => void;
@@ -30,14 +31,23 @@ const Selector = (props: SelectorProps) => {
         partType={partType}
       ></PartTypes>
       {partType !== undefined && (
-        <PartList
-          parts={config.parts}
-          partType={partType}
-          addPart={props.addPart}
-          removePart={props.removePart}
-          skinTone={props.skinTone}
-          partsArray={props.partsArray}
-        ></PartList>
+        <React.Fragment>
+          <PartList
+            parts={config.parts}
+            partType={partType}
+            addPart={props.addPart}
+            removePart={props.removePart}
+            skinTone={props.skinTone}
+            partsArray={props.partsArray}
+          ></PartList>
+          <PartColorSelector
+            parts={config.parts}
+            partType={partType}
+            addPart={props.addPart}
+            skinTone={props.skinTone}
+            partsArray={props.partsArray}
+          ></PartColorSelector>
+        </React.Fragment>
       )}
     </div>
   );

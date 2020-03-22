@@ -1,4 +1,4 @@
-import Config, { ConfigPart } from "./Config";
+import Config, { ConfigPart, ConfigColor } from "./Config";
 
 export default interface ConfigUtils {
   filter: {
@@ -11,6 +11,9 @@ export default interface ConfigUtils {
       accumulator: ConfigPart[],
       currentValue: ConfigPart
     ) => ConfigPart[];
+  };
+  color: {
+    getColor: (colorId: number) => ConfigColor | undefined;
   };
   partType: {
     usesSkinTone: (partTypeId: number) => boolean;

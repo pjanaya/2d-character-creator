@@ -41,7 +41,7 @@ export const PartList = (props: PartListProps) => {
                 }
               }}
             >
-              {part.name}
+              {index + 1}
             </div>
           ))}
       </div>

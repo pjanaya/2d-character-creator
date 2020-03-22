@@ -17,7 +17,7 @@ export const PartTypes = (props: PartTypesProps) => {
       <div>Part Types:</div>
       <div className={classes.partTypes}>
         {props.partTypes.map((partType, index) => (
-          <div
+          /*  <div
             key={index}
             className={
               partType.id === props.partType
@@ -27,14 +27,21 @@ export const PartTypes = (props: PartTypesProps) => {
             onClick={() => {
               props.setPartType(partType.id);
             }}
-          >
-            <img
-              src={urlPrefix + "/" + partType.iconFilename + ".png"}
-              alt={partType.iconFilename}
-              className={classes.partTypeIcon}
-            />
-            {/* {partType.name} */}
-          </div>
+          > */
+          <img
+            key={index}
+            src={urlPrefix + "/" + partType.iconFilename + ".png"}
+            alt={partType.iconFilename}
+            className={
+              partType.id === props.partType
+                ? classes.partTypeSelected
+                : classes.partType
+            }
+            onClick={() => {
+              props.setPartType(partType.id);
+            }}
+          />
+          /* </div> */
         ))}
       </div>
     </div>

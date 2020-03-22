@@ -1,16 +1,11 @@
 .partTypes {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(7, 1fr);
+  justify-items: center;
 }
 
 .partType {
-  border: 1px solid black;
-  padding: 5px;
-  margin: 5px;
   cursor: pointer;
-}
-
-.partTypeIcon {
 }
 
 .partTypeSelected {
