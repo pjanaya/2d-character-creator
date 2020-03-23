@@ -1,13 +1,18 @@
 .partList {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
+  margin-top: 25px;
+  text-align: center;
 }
 
 .partItem {
-  border: 1px solid black;
+  border: 2px solid #eaeaea;
   padding: 5px;
   margin: 5px;
   cursor: pointer;
+  padding: 15px;
+  border-radius: 25px;
+  background: #eaeaea;
 }
 
 .partItemSelected {

@@ -1,7 +1,6 @@
 import React from "react";
 import config from "../config";
 
-import { SkinTones } from "../components/SkinTones";
 import { PartTypes } from "../components/PartTypes";
 import { PartList } from "../components/PartList";
 import { ConfigPart } from "../interfaces/Config";
@@ -16,15 +15,10 @@ interface SelectorProps {
 }
 
 const Selector = (props: SelectorProps) => {
-  const [partType, setPartType] = React.useState<number>();
+  const [partType, setPartType] = React.useState<number>(0);
 
   return (
     <div>
-      <SkinTones
-        colors={config.colors}
-        setSkinTone={props.changeSkinTone}
-        skinTone={props.skinTone}
-      ></SkinTones>
       <PartTypes
         partTypes={config.partTypes}
         setPartType={setPartType}
@@ -46,6 +40,7 @@ const Selector = (props: SelectorProps) => {
             addPart={props.addPart}
             skinTone={props.skinTone}
             partsArray={props.partsArray}
+            setSkinTone={props.changeSkinTone}
           ></PartColorSelector>
         </React.Fragment>
       )}

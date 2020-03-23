@@ -29,5 +29,6 @@ export default interface ConfigUtils {
       bodyShapeId: number
     ) => ConfigPart | undefined;
     isBodyPart: (part: ConfigPart) => boolean;
+    getDefaultSelection: (skinToneId: number) => ConfigPart[];
   };
 }

@@ -18,7 +18,6 @@ export const PartList = (props: PartListProps) => {
 
   return (
     <div>
-      <div>Variants:</div>
       <div className={classes.partList}>
         {props.parts
           .filter(part => filter.byPartType(part, props.partType))

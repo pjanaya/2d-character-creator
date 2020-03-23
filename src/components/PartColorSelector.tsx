@@ -9,6 +9,7 @@ interface PartColorSelectorProps {
   partType: number;
   skinTone: number;
   partsArray: ConfigPart[];
+  setSkinTone: (newSkinTone: number) => void;
 }
 
 export const PartColorSelector = (props: PartColorSelectorProps) => {
@@ -18,49 +19,78 @@ export const PartColorSelector = (props: PartColorSelectorProps) => {
         .filter(part => part.partTypeId === props.partType)
         .map(part => (
           <div className={classes.PartColorSelectorPart}>
-            <div>{part.name}</div>
-            {props.parts
-              .filter(
-                other =>
-                  other.bodyShapeId === part.bodyShapeId &&
-                  other.partTypeId === part.partTypeId &&
-                  other.name === part.name
-              )
-              .map((other: ConfigPart, index: number) => {
-                const color = configUtils.color.getColor(
-                  other.colorId as number
-                ) as ConfigColor;
-                return Array.isArray(color.hex) ? (
-                  <div
-                    key={index}
-                    className={
-                      color.id === part.colorId
-                        ? classes.colorMultipleSelected
-                        : classes.colorMultiple
-                    }
-                    onClick={() => {
-                      props.addPart(other);
-                    }}
-                  >
-                    {color.hex.map(color => (
-                      <div style={{ backgroundColor: color }}></div>
-                    ))}
-                  </div>
-                ) : (
-                  <div
-                    key={index}
-                    className={
-                      color.id === part.colorId
-                        ? classes.colorSelected
-                        : classes.color
-                    }
-                    onClick={() => {
-                      props.addPart(other);
-                    }}
-                    style={{ backgroundColor: color.hex }}
-                  ></div>
-                );
-              })}
+            <div className={classes.partName}>{part.name}</div>
+            <div className={classes.PartColorSelectorColors}>
+              {props.parts
+                .filter(
+                  other =>
+                    other.bodyShapeId === part.bodyShapeId &&
+                    other.partTypeId === part.partTypeId &&
+                    other.name === part.name
+                )
+                .map((other: ConfigPart, index: number) => {
+                  const color = configUtils.color.getColor(
+                    other.colorId as number
+                  ) as ConfigColor;
+                  return Array.isArray(color.hex) ? (
+                    <div
+                      key={index}
+                      className={
+                        color.id === part.colorId
+                          ? classes.colorMultipleSelected
+                          : classes.colorMultiple
+                      }
+                      style={
+                        color.id === part.colorId
+                          ? { borderColor: color.hex[0] }
+                          : {}
+                      }
+                      onClick={() => {
+                        if (
+                          configUtils.partType.usesSkinTone(part.partTypeId)
+                        ) {
+                          props.setSkinTone(other.colorId as number);
+                        } else {
+                          props.addPart(other);
+                        }
+                      }}
+                    >
+                      {color.hex.map(color => (
+                        <div style={{ backgroundColor: color }}></div>
+                      ))}
+                    </div>
+                  ) : (
+                    <div
+                      key={index}
+                      className={
+                        color.id === part.colorId
+                          ? classes.colorSelected
+                          : classes.color
+                      }
+                      style={
+                        color.id === part.colorId
+                          ? {
+                              borderColor: color.hex,
+                              backgroundColor: color.hex
+                            }
+                          : { backgroundColor: color.hex }
+                      }
+                      onClick={() => {
+                        console.log("onClick");
+                        if (
+                          configUtils.partType.usesSkinTone(part.partTypeId)
+                        ) {
+                          console.log("usesSkinTone");
+                          props.setSkinTone(other.colorId as number);
+                        } else {
+                          console.log("addPart");
+                          props.addPart(other);
+                        }
+                      }}
+                    ></div>
+                  );
+                })}
+            </div>
           </div>
         ))}
     </div>

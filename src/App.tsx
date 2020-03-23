@@ -8,9 +8,11 @@ import { ConfigPart } from "./interfaces/Config";
 import configUtils from "./utils/configUtils";
 
 function App() {
-  const [partInfoArray, setPartInfoArray] = React.useState<ConfigPart[]>([]);
-
   const firstSkinToneId = config.colors.filter(color => color.isSkinTone)[0].id;
+
+  const [partInfoArray, setPartInfoArray] = React.useState<ConfigPart[]>(
+    configUtils.part.getDefaultSelection(firstSkinToneId)
+  );
   const [skinTone, setSkinTone] = React.useState<number>(firstSkinToneId);
 
   const firstHairColorId = config.colors.filter(color => color.isHairColor)[0]

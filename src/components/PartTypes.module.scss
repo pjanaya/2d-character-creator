@@ -1,15 +1,23 @@
 .partTypes {
   display: grid;
-  grid-template-columns: repeat(7, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   justify-items: center;
 }
 
 .partType {
   cursor: pointer;
+  border-radius: 50%;
+  border: 2px solid transparent;
+  background: #eaeaea;
+  margin: 2px;
+}
+
+.partType img {
+  border-radius: 50%;
 }
 
 .partTypeSelected {
   @extend .partType;
 
-  border: 2px solid red;
+  border: 2px solid #635d5d;
 }

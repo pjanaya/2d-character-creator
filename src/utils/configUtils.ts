@@ -5,6 +5,7 @@ import Config, {
   ConfigPartType,
   ConfigColor
 } from "../interfaces/Config";
+import { PartColorSelector } from "../components/PartColorSelector";
 
 const configUtils: ConfigUtils = {
   filter: {
@@ -64,7 +65,23 @@ const configUtils: ConfigUtils = {
           part.bodyShapeId === bodyGroupId &&
           part.colorId === oldPart.colorId
       ),
-    isBodyPart: (part: ConfigPart) => part.partTypeId === 0
+    isBodyPart: (part: ConfigPart) => part.partTypeId === 0,
+    getDefaultSelection: (skinToneId: number) => {
+      const defaultSelection: ConfigPart[] = [];
+
+      const body = config.parts.find(
+        part => configUtils.part.isBodyPart(part) && part.colorId === skinToneId
+      );
+
+      const head = config.parts.find(
+        part => part.partTypeId === 1 && part.colorId === skinToneId
+      );
+
+      if (body) defaultSelection.push({ ...body });
+      if (head) defaultSelection.push({ ...head });
+
+      return defaultSelection;
+    }
   }
 };
 

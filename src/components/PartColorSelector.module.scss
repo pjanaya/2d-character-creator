@@ -4,18 +4,31 @@
 
 .PartColorSelectorPart {
   display: flex;
+  align-items: center;
+}
+
+.PartColorSelectorColors {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.partName {
+  padding: 15px;
+  border-radius: 25px;
+  background: #eaeaea;
+  margin-right: 15px;
 }
 
 .color {
   cursor: pointer;
-  width: 50px;
-  height: 50px;
-  margin: 3px;
+  width: 25px;
+  height: 25px;
+  border: 3px solid white;
+  border-radius: 50%;
 }
 
 .colorSelected {
   @extend .colorMultiple;
-  border: 3px solid red;
 }
 
 .colorMultiple {
@@ -24,9 +37,16 @@
   cursor: pointer;
   display: grid;
   grid-auto-flow: column;
+
+  & > div:first-child {
+    border-radius: 50% 0 0 50%;
+  }
+
+  & > div:last-child {
+    border-radius: 0 50% 50% 0;
+  }
 }
 
 .colorMultipleSelected {
-  @extend .colorMultiple;
-  border: 3px solid red;
+  @extend .colorSelected;
 }
