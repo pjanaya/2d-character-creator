@@ -17,8 +17,8 @@ export const PartColorSelector = (props: PartColorSelectorProps) => {
     <div className={classes.PartColorSelector}>
       {props.partsArray
         .filter(part => part.partTypeId === props.partType)
-        .map(part => (
-          <div className={classes.PartColorSelectorPart}>
+        .map((part: ConfigPart, index: number) => (
+          <div className={classes.PartColorSelectorPart} key={index}>
             <div className={classes.partName}>{part.name}</div>
             <div className={classes.PartColorSelectorColors}>
               {props.parts
@@ -76,14 +76,11 @@ export const PartColorSelector = (props: PartColorSelectorProps) => {
                           : { backgroundColor: color.hex }
                       }
                       onClick={() => {
-                        console.log("onClick");
                         if (
                           configUtils.partType.usesSkinTone(part.partTypeId)
                         ) {
-                          console.log("usesSkinTone");
                           props.setSkinTone(other.colorId as number);
                         } else {
-                          console.log("addPart");
                           props.addPart(other);
                         }
                       }}

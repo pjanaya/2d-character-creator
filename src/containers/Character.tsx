@@ -11,7 +11,7 @@ interface CharacterProps {
 const Character = (props: CharacterProps) => {
   return (
     <React.Fragment>
-      <div className={classes.Character}>
+      <div id="character" className={classes.Character}>
         {props.partsArray.map((part: ConfigPart) =>
           part.images.map((image: ConfigImage, index: number) => (
             <PartLayer key={index} image={image}></PartLayer>

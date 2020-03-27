@@ -1,7 +1,16 @@
+.root {
+  align-self: end;
+}
+
 .partTypes {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  justify-items: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.actions {
+  @extend .partTypes;
+
+  margin-bottom: 15px;
 }
 
 .partType {
@@ -10,14 +19,35 @@
   border: 2px solid transparent;
   background: #eaeaea;
   margin: 2px;
+  position: relative;
+
+  & img {
+    border-radius: 50%;
+    height: 40px;
+  }
 }
 
-.partType img {
-  border-radius: 50%;
+.action {
+  @extend .partType;
+
+  & img {
+    border-radius: 50%;
+    padding: 5px;
+    height: 30px;
+  }
 }
 
 .partTypeSelected {
   @extend .partType;
 
-  border: 2px solid #635d5d;
+  &:before {
+    border: 2px solid #bfbcbc;
+    content: "";
+    border-radius: 50%;
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    right: -5px;
+    bottom: -5px;
+  }
 }

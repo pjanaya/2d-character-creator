@@ -6,23 +6,29 @@ import { PartList } from "../components/PartList";
 import { ConfigPart } from "../interfaces/Config";
 import { PartColorSelector } from "../components/PartColorSelector";
 
+import classes from "./Selector.module.scss";
+
 interface SelectorProps {
   addPart: (newPart: ConfigPart) => void;
   removePart: (removedPart: ConfigPart) => void;
   changeSkinTone: (newSkinTone: number) => void;
   skinTone: number;
   partsArray: ConfigPart[];
+  randomize: () => void;
+  save: () => void;
 }
 
 const Selector = (props: SelectorProps) => {
   const [partType, setPartType] = React.useState<number>(0);
 
   return (
-    <div>
+    <div className={classes.Selector}>
       <PartTypes
         partTypes={config.partTypes}
         setPartType={setPartType}
         partType={partType}
+        randomize={props.randomize}
+        save={props.save}
       ></PartTypes>
       {partType !== undefined && (
         <React.Fragment>

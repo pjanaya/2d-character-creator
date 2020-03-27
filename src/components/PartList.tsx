@@ -1,5 +1,5 @@
 import React from "react";
-import { ConfigPart, ConfigImage } from "../interfaces/Config";
+import { ConfigPart } from "../interfaces/Config";
 
 import classes from "./PartList.module.scss";
 import configUtils from "../utils/configUtils";
@@ -28,12 +28,12 @@ export const PartList = (props: PartListProps) => {
             <div
               key={index}
               className={
-                props.partsArray.some(layer => layer.id === part.id)
+                props.partsArray.some(layer => layer.name === part.name)
                   ? classes.partItemSelected
                   : classes.partItem
               }
               onClick={() => {
-                if (props.partsArray.some(layer => layer.id === part.id)) {
+                if (props.partsArray.some(layer => layer.name === part.name)) {
                   props.removePart(part);
                 } else {
                   props.addPart(part);

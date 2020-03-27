@@ -1,0 +1,7 @@
+.Selector {
+  display: grid;
+  height: 100%;
+  align-self: baseline;
+  grid-template-columns: minmax(250px, 450px);
+  grid-template-rows: 40% min-content auto;
+}

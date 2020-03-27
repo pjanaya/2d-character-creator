@@ -1,22 +1,33 @@
 .partList {
-  display: grid;
-  grid-template-columns: repeat(7, 1fr);
-  margin-top: 25px;
+  display: flex;
+  flex-wrap: wrap;
   text-align: center;
+  margin: 25px 0;
 }
 
 .partItem {
   border: 2px solid #eaeaea;
-  padding: 5px;
-  margin: 5px;
   cursor: pointer;
-  padding: 15px;
+  width: 40px;
+  height: 40px;
   border-radius: 25px;
   background: #eaeaea;
+  position: relative;
+  line-height: 40px;
+  margin: 2px;
 }
 
 .partItemSelected {
   @extend .partItem;
 
-  border: 2px solid red;
+  &:before {
+    border: 2px solid #bfbcbc;
+    content: "";
+    border-radius: 50%;
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    right: -5px;
+    bottom: -5px;
+  }
 }

@@ -1,15 +1,17 @@
 .PartColorSelector {
-  margin-top: 40px;
+  overflow: scroll;
 }
 
 .PartColorSelectorPart {
-  display: flex;
+  display: grid;
+  grid-template-columns: max-content auto;
   align-items: center;
+  margin: 5px 0;
 }
 
 .PartColorSelectorColors {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .partName {
@@ -25,10 +27,22 @@
   height: 25px;
   border: 3px solid white;
   border-radius: 50%;
+  position: relative;
 }
 
 .colorSelected {
   @extend .colorMultiple;
+
+  &:before {
+    content: "";
+    border-radius: 50%;
+    border: 1px solid white;
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+  }
 }
 
 .colorMultiple {

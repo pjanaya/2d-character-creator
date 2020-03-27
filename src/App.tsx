@@ -1,10 +1,13 @@
 import React from "react";
 
+import * as _ from "underscore";
+import html2canvas from "html2canvas";
+
 import Character from "./containers/Character";
 import Selector from "./containers/Selector";
 import classes from "./App.module.scss";
 import config from "./config";
-import { ConfigPart } from "./interfaces/Config";
+import { ConfigPart, ConfigColor } from "./interfaces/Config";
 import configUtils from "./utils/configUtils";
 
 function App() {
@@ -15,16 +18,14 @@ function App() {
   );
   const [skinTone, setSkinTone] = React.useState<number>(firstSkinToneId);
 
-  const firstHairColorId = config.colors.filter(color => color.isHairColor)[0]
-    .id;
-  const [hairColor, setHairColor] = React.useState<number>(firstHairColorId);
-
   const removePart = (removedPart: ConfigPart) => {
     setPartInfoArray(prevState => {
       const newState = [...prevState];
 
       if (!configUtils.part.isBodyPart(removedPart)) {
-        const index = newState.findIndex(part => part.id === removedPart.id);
+        const index = newState.findIndex(
+          part => part.name === removedPart.name
+        );
         if (index !== -1) newState.splice(index, 1);
       }
 
@@ -39,7 +40,11 @@ function App() {
       const bodyShapeHasChanged = configUtils.part.isBodyPart(newPart);
 
       prevState.forEach(part => {
-        if (part.partTypeId === newPart.partTypeId) {
+        if (
+          part.partTypeId === newPart.partTypeId &&
+          (!configUtils.part.allowsMultipleSelection(part) ||
+            part.name === newPart.name)
+        ) {
           configUtils.part.replacePart(part, newPart);
           shouldAdd = false;
         } else if (
@@ -69,14 +74,11 @@ function App() {
     setSkinTone(newSkinTone);
 
     setPartInfoArray(prevState => {
-      console.log("newSkinTone:", newSkinTone);
-      console.log("original state:", prevState);
       const newState = [...prevState];
 
       newState.forEach(part => {
-        console.log("Checking part:", part);
         const usesSkinTone = configUtils.partType.usesSkinTone(part.partTypeId);
-        console.log("usesSkinTone?", usesSkinTone);
+
         if (usesSkinTone) {
           const relatedPart = config.parts.find(
             newPart =>
@@ -87,20 +89,66 @@ function App() {
           );
 
           if (!!relatedPart) {
-            console.log("relatedPart:", relatedPart);
             configUtils.part.replacePart(part, relatedPart);
-          } else {
-            console.log(
-              "relatedPart not found:",
-              config.parts.filter(newPart => newPart.name === part.name)
-            );
           }
         }
       });
 
-      console.log("final state:", newState);
       return [...newState];
     });
+  };
+
+  const randomize = () => {
+    const randomSelection: ConfigPart[] = [];
+
+    const randomSkinTone: ConfigColor = _.sample(
+      config.colors.filter(color => color.isSkinTone)
+    );
+
+    const randomBodyShape: ConfigPart = _.sample(
+      config.parts
+        .filter(part => configUtils.part.isBodyPart(part))
+        .filter(part => part.colorId === randomSkinTone.id)
+    );
+    randomSelection.push({ ...randomBodyShape });
+
+    config.partTypes.forEach(partType => {
+      const randomPart: ConfigPart = _.sample(
+        config.parts
+          .filter(part => !configUtils.part.isBodyPart(part))
+          .filter(part => part.partTypeId === partType.id)
+          .filter(part =>
+            partType.useSkinTone ? part.colorId === randomSkinTone.id : true
+          )
+          .filter(part =>
+            partType.boundToBodyShape
+              ? part.bodyShapeId === randomBodyShape.bodyShapeId
+              : true
+          )
+      );
+
+      if (randomPart) randomSelection.push({ ...randomPart });
+    });
+
+    setSkinTone(randomSkinTone.id);
+    setPartInfoArray([...randomSelection]);
+  };
+
+  const save = () => {
+    console.log("save");
+    const container = document.querySelector("#character");
+    console.log(container);
+    if (container !== null) {
+      console.log("good to go");
+      html2canvas(container as any).then((canvas: HTMLCanvasElement) => {
+        document.body.appendChild(canvas);
+        const dt = canvas.toDataURL();
+        const element = document.createElement("a");
+        element.href = dt;
+        element.download = "character.png";
+        element.click();
+      });
+    }
   };
 
   return (
@@ -112,6 +160,8 @@ function App() {
         changeSkinTone={changeSkinTone}
         skinTone={skinTone}
         partsArray={partInfoArray}
+        randomize={randomize}
+        save={save}
       ></Selector>
     </div>
   );

@@ -30,5 +30,6 @@ export default interface ConfigUtils {
     ) => ConfigPart | undefined;
     isBodyPart: (part: ConfigPart) => boolean;
     getDefaultSelection: (skinToneId: number) => ConfigPart[];
+    allowsMultipleSelection: (part: ConfigPart) => boolean;
   };
 }

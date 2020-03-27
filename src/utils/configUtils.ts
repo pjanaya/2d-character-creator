@@ -1,11 +1,6 @@
 import ConfigUtils from "../interfaces/ConfigUtils";
 import config from "../config";
-import Config, {
-  ConfigPart,
-  ConfigPartType,
-  ConfigColor
-} from "../interfaces/Config";
-import { PartColorSelector } from "../components/PartColorSelector";
+import Config, { ConfigPart, ConfigPartType } from "../interfaces/Config";
 
 const configUtils: ConfigUtils = {
   filter: {
@@ -81,7 +76,10 @@ const configUtils: ConfigUtils = {
       if (head) defaultSelection.push({ ...head });
 
       return defaultSelection;
-    }
+    },
+    allowsMultipleSelection: (part: ConfigPart) =>
+      config.partTypes.find(partType => partType.id === part.partTypeId)
+        ?.allowsMultipleSelection || false
   }
 };
 
