@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d6046ef4c9d1f420ad7a0f51aa76a25",
+    "revision": "cace357ce37be9df0b373bc53d0d8845",
     "url": "/2d-character-creator/index.html"
   },
   {
