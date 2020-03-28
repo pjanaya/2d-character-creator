@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/2d-character-creator/static/css/main.f5eee0a0.chunk.css",
+    "main.js": "/2d-character-creator/static/js/main.808aa619.chunk.js",
+    "main.js.map": "/2d-character-creator/static/js/main.808aa619.chunk.js.map",
+    "runtime-main.js": "/2d-character-creator/static/js/runtime-main.3b043e8c.js",
+    "runtime-main.js.map": "/2d-character-creator/static/js/runtime-main.3b043e8c.js.map",
+    "static/js/2.e2d0c92d.chunk.js": "/2d-character-creator/static/js/2.e2d0c92d.chunk.js",
+    "static/js/2.e2d0c92d.chunk.js.map": "/2d-character-creator/static/js/2.e2d0c92d.chunk.js.map",
+    "index.html": "/2d-character-creator/index.html",
+    "precache-manifest.e35e67b5af85efa4561f95f427605db3.js": "/2d-character-creator/precache-manifest.e35e67b5af85efa4561f95f427605db3.js",
+    "service-worker.js": "/2d-character-creator/service-worker.js",
+    "static/css/main.f5eee0a0.chunk.css.map": "/2d-character-creator/static/css/main.f5eee0a0.chunk.css.map",
+    "static/js/2.e2d0c92d.chunk.js.LICENSE.txt": "/2d-character-creator/static/js/2.e2d0c92d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b043e8c.js",
+    "static/js/2.e2d0c92d.chunk.js",
+    "static/css/main.f5eee0a0.chunk.css",
+    "static/js/main.808aa619.chunk.js"
+  ]
+}
