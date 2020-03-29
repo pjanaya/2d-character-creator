@@ -10,8 +10,13 @@ interface PartLayerProps {
 const PartLayer = (props: PartLayerProps) => {
   const urlPrefix = process.env.PUBLIC_URL + "/character_parts";
   return (
-    <div className={classes.Layer} style={{ zIndex: props.image.zIndex }}>
+    <div
+      className={classes.Layer}
+      style={{ zIndex: props.image.zIndex }}
+      data-part={props.image.filename}
+    >
       <img
+        className={"characterLayer"}
         src={urlPrefix + "/" + props.image.filename + ".png"}
         alt={props.image.filename}
       />
