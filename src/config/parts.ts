@@ -1,4 +1,5 @@
 import { ConfigPart } from "../interfaces/Config";
+import { zIndex } from "./zIndex";
 
 const configParts: ConfigPart[] = [
   {
@@ -10,11 +11,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_01_01",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_01_01",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_01_01",
@@ -35,11 +36,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_02_01",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_02_01",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_02_01",
@@ -60,11 +61,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_03a_01",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_03_01",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_03_01",
@@ -85,11 +86,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_03b_01",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_03_01",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_03_01",
@@ -110,11 +111,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_04a_01",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_04_01",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_04_01",
@@ -135,11 +136,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_04b_01",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_04_01",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_04_01",
@@ -160,11 +161,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_05a_01",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_05_01",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_05_01",
@@ -185,11 +186,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_05b_01",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_05_01",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_05_01",
@@ -210,11 +211,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_06a_01",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_06_01",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_06_01",
@@ -235,11 +236,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_06b_01",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_06_01",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_06_01",
@@ -260,11 +261,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_07a_01",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_07_01",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_07_01",
@@ -285,11 +286,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_07b_01",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_07_01",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_07_01",
@@ -310,11 +311,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_01_02",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_01_02",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_01_02",
@@ -335,11 +336,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_02_02",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_02_02",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_02_02",
@@ -360,11 +361,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_03a_02",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_03_02",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_03_02",
@@ -385,11 +386,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_03b_02",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_03_02",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_03_02",
@@ -410,11 +411,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_04a_02",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_04_02",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_04_02",
@@ -435,11 +436,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_04b_02",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_04_02",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_04_02",
@@ -460,11 +461,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_05a_02",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_05_02",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_05_02",
@@ -485,11 +486,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_05b_02",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_05_02",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_05_02",
@@ -510,11 +511,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_06a_02",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_06_02",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_06_02",
@@ -535,11 +536,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_06b_02",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_06_02",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_06_02",
@@ -560,11 +561,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_07a_02",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_07_02",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_07_02",
@@ -585,11 +586,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_07b_02",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_07_02",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_07_02",
@@ -610,11 +611,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_01_03",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_01_03",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_01_03",
@@ -635,11 +636,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_02_03",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_02_03",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_02_03",
@@ -660,11 +661,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_03a_03",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_03_03",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_03_03",
@@ -685,11 +686,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_03b_03",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_03_03",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_03_03",
@@ -710,11 +711,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_04a_03",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_04_03",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_04_03",
@@ -735,11 +736,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_04b_03",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_04_03",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_04_03",
@@ -760,11 +761,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_05a_03",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_05_03",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_05_03",
@@ -785,11 +786,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_05b_03",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_05_03",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_05_03",
@@ -810,11 +811,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_06a_03",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_06_03",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_06_03",
@@ -835,11 +836,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_06b_03",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_06_03",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_06_03",
@@ -860,11 +861,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_07a_03",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_07_03",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_07_03",
@@ -885,11 +886,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_07b_03",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_07_03",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_07_03",
@@ -910,11 +911,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_01_04",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_01_04",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_01_04",
@@ -935,11 +936,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_02_04",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_02_04",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_02_04",
@@ -960,11 +961,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_03a_04",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_03_04",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_03_04",
@@ -985,11 +986,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_03b_04",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_03_04",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_03_04",
@@ -1010,11 +1011,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_04a_04",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_04_04",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_04_04",
@@ -1035,11 +1036,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_04b_04",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_04_04",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_04_04",
@@ -1060,11 +1061,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_05a_04",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_05_04",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_05_04",
@@ -1085,11 +1086,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_05b_04",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_05_04",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_05_04",
@@ -1110,11 +1111,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_06a_04",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_06_04",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_06_04",
@@ -1135,11 +1136,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_06b_04",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_06_04",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_06_04",
@@ -1160,11 +1161,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_07a_04",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_07_04",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_07_04",
@@ -1185,11 +1186,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_07b_04",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_07_04",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_07_04",
@@ -1210,11 +1211,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_01_05",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_01_05",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_01_05",
@@ -1235,11 +1236,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_02_05",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_02_05",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_02_05",
@@ -1260,11 +1261,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_03a_05",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_03_05",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_03_05",
@@ -1285,11 +1286,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_03b_05",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_03_05",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_03_05",
@@ -1310,11 +1311,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_04a_05",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_04_05",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_04_05",
@@ -1335,11 +1336,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_04b_05",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_04_05",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_04_05",
@@ -1360,11 +1361,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_05a_05",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_05_05",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_05_05",
@@ -1385,11 +1386,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_05b_05",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_05_05",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_05_05",
@@ -1410,11 +1411,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_06a_05",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_06_05",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_06_05",
@@ -1435,11 +1436,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_06b_05",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_06_05",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_06_05",
@@ -1460,11 +1461,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_07a_05",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_07_05",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_07_05",
@@ -1485,11 +1486,11 @@ const configParts: ConfigPart[] = [
     images: [
       {
         filename: "cuerpo_07b_05",
-        zIndex: 10
+        zIndex: zIndex.HEAD
       },
       {
         filename: "brazob_07_05",
-        zIndex: 5
+        zIndex: zIndex.ARM_BACK
       },
       {
         filename: "brazof_07_05",
