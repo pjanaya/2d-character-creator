@@ -13,6 +13,14 @@ interface PartColorSelectorProps {
 }
 
 export const PartColorSelector = (props: PartColorSelectorProps) => {
+  const onClickColorHandler = (part: ConfigPart) => {
+    if (configUtils.partType.usesSkinTone(part.partTypeId)) {
+      props.setSkinTone(part.colorId as number);
+    } else {
+      props.addPart(part);
+    }
+  };
+
   return (
     <div className={classes.PartColorSelector}>
       {props.partsArray
@@ -45,15 +53,7 @@ export const PartColorSelector = (props: PartColorSelectorProps) => {
                           ? { borderColor: color.hex[0] }
                           : {}
                       }
-                      onClick={() => {
-                        if (
-                          configUtils.partType.usesSkinTone(part.partTypeId)
-                        ) {
-                          props.setSkinTone(other.colorId as number);
-                        } else {
-                          props.addPart(other);
-                        }
-                      }}
+                      onClick={() => onClickColorHandler(other)}
                     >
                       {color.hex.map((color: string, index: number) => (
                         <div
@@ -78,15 +78,7 @@ export const PartColorSelector = (props: PartColorSelectorProps) => {
                             }
                           : { backgroundColor: color.hex }
                       }
-                      onClick={() => {
-                        if (
-                          configUtils.partType.usesSkinTone(part.partTypeId)
-                        ) {
-                          props.setSkinTone(other.colorId as number);
-                        } else {
-                          props.addPart(other);
-                        }
-                      }}
+                      onClick={() => onClickColorHandler(other)}
                     ></div>
                   );
                 })}
