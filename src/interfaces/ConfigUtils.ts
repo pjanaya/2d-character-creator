@@ -22,6 +22,11 @@ export default interface ConfigUtils {
   };
   part: {
     replacePart: (oldPart: ConfigPart, newPart: ConfigPart) => void;
+    isSamePart: (oldPart: ConfigPart, newPart: ConfigPart) => boolean;
+    findSameColorPart: (
+      oldPart: ConfigPart,
+      newPart: ConfigPart
+    ) => ConfigPart | undefined;
     selectedBodyShape: (selectedParts: ConfigPart[]) => number | undefined;
     findPartBoundToBodyShape: (
       config: Config,

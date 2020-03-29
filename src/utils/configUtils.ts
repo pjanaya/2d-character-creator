@@ -39,6 +39,16 @@ const configUtils: ConfigUtils = {
   },
   part: {
     replacePart: (oldPart: ConfigPart, newPart: ConfigPart) => {
+      const utils = configUtils.part;
+      if (
+        utils.isSamePart(oldPart, newPart) &&
+        oldPart.name !== newPart.name &&
+        !configUtils.partType.usesSkinTone(newPart.partTypeId)
+      ) {
+        const sameColorPart = utils.findSameColorPart(oldPart, newPart);
+        newPart = sameColorPart ? { ...sameColorPart } : newPart;
+      }
+
       oldPart.id = newPart.id;
       oldPart.images = newPart.images;
       oldPart.name = newPart.name;
@@ -46,6 +56,16 @@ const configUtils: ConfigUtils = {
       oldPart.bodyShapeId = newPart.bodyShapeId;
       oldPart.colorId = newPart.colorId;
     },
+    isSamePart: (oldPart: ConfigPart, newPart: ConfigPart) =>
+      oldPart.bodyShapeId === newPart.bodyShapeId &&
+      oldPart.partTypeId === newPart.partTypeId,
+    findSameColorPart: (oldPart: ConfigPart, newPart: ConfigPart) =>
+      config.parts.find(
+        part =>
+          configUtils.part.isSamePart(part, newPart) &&
+          part.name === newPart.name &&
+          part.colorId === oldPart.colorId
+      ),
     selectedBodyShape: (selectedParts: ConfigPart[]) =>
       selectedParts.find(part => configUtils.part.isBodyPart(part))
         ?.bodyShapeId,
