@@ -55,8 +55,11 @@ export const PartColorSelector = (props: PartColorSelectorProps) => {
                         }
                       }}
                     >
-                      {color.hex.map(color => (
-                        <div style={{ backgroundColor: color }}></div>
+                      {color.hex.map((color: string, index: number) => (
+                        <div
+                          key={index}
+                          style={{ backgroundColor: color }}
+                        ></div>
                       ))}
                     </div>
                   ) : (
