@@ -1,3 +1,5 @@
+![CI](https://github.com/pjanaya/2d-character-creator/workflows/CI/badge.svg?branch=master)
+
 # 2D Character Creator
 This project was created to provide a simple framework to configure a 2D Character Creator.
 
