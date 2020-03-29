@@ -45,12 +45,15 @@ function App() {
           (!configUtils.part.allowsMultipleSelection(part) ||
             part.name === newPart.name)
         ) {
+          // Example: Changing hair types
+          // Needs to be: same partType, with no multipleSelection, or same name
           configUtils.part.replacePart(part, newPart);
           shouldAdd = false;
         } else if (
           bodyShapeHasChanged &&
           configUtils.partType.boundToBodyShape(part.partTypeId)
         ) {
+          // Example: Changing body shape or head
           const partForNewBody = configUtils.part.findPartBoundToBodyShape(
             config,
             part,

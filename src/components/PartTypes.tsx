@@ -2,7 +2,6 @@ import React from "react";
 import { ConfigPartType } from "../interfaces/Config";
 
 import classes from "./PartTypes.module.scss";
-import { Actions } from "./Actions";
 
 interface PartTypesProps {
   partTypes: ConfigPartType[];
