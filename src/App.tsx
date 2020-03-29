@@ -135,18 +135,25 @@ function App() {
   };
 
   const save = () => {
-    console.log("save");
     const container = document.querySelector("#character");
-    console.log(container);
-    if (container !== null) {
-      console.log("good to go");
-      html2canvas(container as any).then((canvas: HTMLCanvasElement) => {
+    const image = document.querySelector(".characterLayer");
+    if (container !== null && image !== null) {
+      const xOffset = container.clientWidth - image.clientWidth;
+      const yOffset = container.clientHeight - image.clientHeight;
+
+      html2canvas(container as any, {
+        x: xOffset,
+        y: yOffset,
+        height: image.clientHeight,
+        width: image.clientWidth
+      }).then((canvas: HTMLCanvasElement) => {
         document.body.appendChild(canvas);
         const dt = canvas.toDataURL();
         const element = document.createElement("a");
         element.href = dt;
         element.download = "character.png";
         element.click();
+        canvas.remove();
       });
     }
   };
