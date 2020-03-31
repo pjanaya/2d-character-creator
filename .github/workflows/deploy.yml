@@ -20,8 +20,13 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
 
-    # Runs a set of commands using the runners shell
-    - name: Run a multi-line script
-      run: |
-        npm install
-        npm run deploy
+    - name: npm install
+      run: npm install
+      
+    - name: git credentials
+      run: git config user.email "pjanaya@gmail.com" |
+           git config user.name "Pablo Anaya"
+        
+    - name: npm run deploy
+      run: npm run deploy
+      
