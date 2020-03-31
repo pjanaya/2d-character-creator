@@ -23,10 +23,10 @@ jobs:
     - name: npm install
       run: npm install
       
-    - name: git credentials
-      run: git config user.email "pjanaya@gmail.com" |
-           git config user.name "Pablo Anaya"
-        
-    - name: npm run deploy
-      run: npm run deploy
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@releases/v3
+      with:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        BRANCH: gh-pages # The branch the action should deploy to.
+        FOLDER: build # The folder the action should deploy.
       
