@@ -49,7 +49,6 @@ const configUtils: ConfigUtils = {
         newPart = sameColorPart ? { ...sameColorPart } : newPart;
       }
 
-      oldPart.id = newPart.id;
       oldPart.images = newPart.images;
       oldPart.name = newPart.name;
       oldPart.partTypeId = newPart.partTypeId;
