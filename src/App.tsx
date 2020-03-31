@@ -85,7 +85,6 @@ function App() {
         if (usesSkinTone) {
           const relatedPart = config.parts.find(
             newPart =>
-              newPart.id !== part.id &&
               newPart.partTypeId === part.partTypeId &&
               newPart.name === part.name &&
               newPart.colorId === newSkinTone

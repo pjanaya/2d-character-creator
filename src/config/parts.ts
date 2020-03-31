@@ -3,7 +3,6 @@ import { zIndex } from "./zIndex";
 
 const configParts: ConfigPart[] = [
   {
-    id: 0,
     name: "Body 1",
     bodyShapeId: 1,
     partTypeId: 0,
@@ -28,7 +27,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1,
     name: "Body 2",
     bodyShapeId: 2,
     partTypeId: 0,
@@ -53,7 +51,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 2,
     name: "Body 3",
     bodyShapeId: 3,
     partTypeId: 0,
@@ -78,7 +75,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 3,
     name: "Body 4",
     bodyShapeId: 4,
     partTypeId: 0,
@@ -103,7 +99,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 4,
     name: "Body 5",
     bodyShapeId: 5,
     partTypeId: 0,
@@ -128,7 +123,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 5,
     name: "Body 6",
     bodyShapeId: 6,
     partTypeId: 0,
@@ -153,7 +147,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 6,
     name: "Body 7",
     bodyShapeId: 7,
     partTypeId: 0,
@@ -178,7 +171,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 7,
     name: "Body 8",
     bodyShapeId: 8,
     partTypeId: 0,
@@ -203,7 +195,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 8,
     name: "Body 9",
     bodyShapeId: 9,
     partTypeId: 0,
@@ -228,7 +219,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 9,
     name: "Body 10",
     bodyShapeId: 10,
     partTypeId: 0,
@@ -253,7 +243,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 10,
     name: "Body 11",
     bodyShapeId: 11,
     partTypeId: 0,
@@ -278,7 +267,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 11,
     name: "Body 12",
     bodyShapeId: 12,
     partTypeId: 0,
@@ -303,7 +291,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 12,
     name: "Body 1",
     bodyShapeId: 1,
     partTypeId: 0,
@@ -328,7 +315,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 13,
     name: "Body 2",
     bodyShapeId: 2,
     partTypeId: 0,
@@ -353,7 +339,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 14,
     name: "Body 3",
     bodyShapeId: 3,
     partTypeId: 0,
@@ -378,7 +363,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 15,
     name: "Body 4",
     bodyShapeId: 4,
     partTypeId: 0,
@@ -403,7 +387,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 16,
     name: "Body 5",
     bodyShapeId: 5,
     partTypeId: 0,
@@ -428,7 +411,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 17,
     name: "Body 6",
     bodyShapeId: 6,
     partTypeId: 0,
@@ -453,7 +435,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 18,
     name: "Body 7",
     bodyShapeId: 7,
     partTypeId: 0,
@@ -478,7 +459,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 19,
     name: "Body 8",
     bodyShapeId: 8,
     partTypeId: 0,
@@ -503,7 +483,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 20,
     name: "Body 9",
     bodyShapeId: 9,
     partTypeId: 0,
@@ -528,7 +507,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 21,
     name: "Body 10",
     bodyShapeId: 10,
     partTypeId: 0,
@@ -553,7 +531,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 22,
     name: "Body 11",
     bodyShapeId: 11,
     partTypeId: 0,
@@ -578,7 +555,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 23,
     name: "Body 12",
     bodyShapeId: 12,
     partTypeId: 0,
@@ -603,7 +579,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 24,
     name: "Body 1",
     bodyShapeId: 1,
     partTypeId: 0,
@@ -628,7 +603,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 25,
     name: "Body 2",
     bodyShapeId: 2,
     partTypeId: 0,
@@ -653,7 +627,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 26,
     name: "Body 3",
     bodyShapeId: 3,
     partTypeId: 0,
@@ -678,7 +651,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 27,
     name: "Body 4",
     bodyShapeId: 4,
     partTypeId: 0,
@@ -703,7 +675,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 28,
     name: "Body 5",
     bodyShapeId: 5,
     partTypeId: 0,
@@ -728,7 +699,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 29,
     name: "Body 6",
     bodyShapeId: 6,
     partTypeId: 0,
@@ -753,7 +723,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 30,
     name: "Body 7",
     bodyShapeId: 7,
     partTypeId: 0,
@@ -778,7 +747,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 31,
     name: "Body 8",
     bodyShapeId: 8,
     partTypeId: 0,
@@ -803,7 +771,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 32,
     name: "Body 9",
     bodyShapeId: 9,
     partTypeId: 0,
@@ -828,7 +795,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 33,
     name: "Body 10",
     bodyShapeId: 10,
     partTypeId: 0,
@@ -853,7 +819,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 34,
     name: "Body 11",
     bodyShapeId: 11,
     partTypeId: 0,
@@ -878,7 +843,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 35,
     name: "Body 12",
     bodyShapeId: 12,
     partTypeId: 0,
@@ -903,7 +867,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 36,
     name: "Body 1",
     bodyShapeId: 1,
     partTypeId: 0,
@@ -928,7 +891,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 37,
     name: "Body 2",
     bodyShapeId: 2,
     partTypeId: 0,
@@ -953,7 +915,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 38,
     name: "Body 3",
     bodyShapeId: 3,
     partTypeId: 0,
@@ -978,7 +939,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 39,
     name: "Body 4",
     bodyShapeId: 4,
     partTypeId: 0,
@@ -1003,7 +963,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 40,
     name: "Body 5",
     bodyShapeId: 5,
     partTypeId: 0,
@@ -1028,7 +987,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 41,
     name: "Body 6",
     bodyShapeId: 6,
     partTypeId: 0,
@@ -1053,7 +1011,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 42,
     name: "Body 7",
     bodyShapeId: 7,
     partTypeId: 0,
@@ -1078,7 +1035,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 43,
     name: "Body 8",
     bodyShapeId: 8,
     partTypeId: 0,
@@ -1103,7 +1059,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 44,
     name: "Body 9",
     bodyShapeId: 9,
     partTypeId: 0,
@@ -1128,7 +1083,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 45,
     name: "Body 10",
     bodyShapeId: 10,
     partTypeId: 0,
@@ -1153,7 +1107,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 46,
     name: "Body 11",
     bodyShapeId: 11,
     partTypeId: 0,
@@ -1178,7 +1131,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 47,
     name: "Body 12",
     bodyShapeId: 12,
     partTypeId: 0,
@@ -1203,7 +1155,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 48,
     name: "Body 1",
     bodyShapeId: 1,
     partTypeId: 0,
@@ -1228,7 +1179,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 49,
     name: "Body 2",
     bodyShapeId: 2,
     partTypeId: 0,
@@ -1253,7 +1203,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 51,
     name: "Body 3",
     bodyShapeId: 3,
     partTypeId: 0,
@@ -1278,7 +1227,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 52,
     name: "Body 4",
     bodyShapeId: 4,
     partTypeId: 0,
@@ -1303,7 +1251,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 53,
     name: "Body 5",
     bodyShapeId: 5,
     partTypeId: 0,
@@ -1328,7 +1275,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 54,
     name: "Body 6",
     bodyShapeId: 6,
     partTypeId: 0,
@@ -1353,7 +1299,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 55,
     name: "Body 7",
     bodyShapeId: 7,
     partTypeId: 0,
@@ -1378,7 +1323,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 56,
     name: "Body 8",
     bodyShapeId: 8,
     partTypeId: 0,
@@ -1403,7 +1347,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 57,
     name: "Body 9",
     bodyShapeId: 9,
     partTypeId: 0,
@@ -1428,7 +1371,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 58,
     name: "Body 10",
     bodyShapeId: 10,
     partTypeId: 0,
@@ -1453,7 +1395,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 59,
     name: "Body 11",
     bodyShapeId: 11,
     partTypeId: 0,
@@ -1478,7 +1419,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 60,
     name: "Body 12",
     bodyShapeId: 12,
     partTypeId: 0,
@@ -1503,7 +1443,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 61,
     name: "Face 1",
     partTypeId: 1,
     colorId: 0,
@@ -1515,7 +1454,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 62,
     name: "Face 2",
     partTypeId: 1,
     colorId: 0,
@@ -1527,7 +1465,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 63,
     name: "Face 3",
     partTypeId: 1,
     colorId: 0,
@@ -1539,7 +1476,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 64,
     name: "Face 4",
     partTypeId: 1,
     colorId: 0,
@@ -1551,7 +1487,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 65,
     name: "Face 5",
     partTypeId: 1,
     colorId: 0,
@@ -1563,7 +1498,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 66,
     name: "Face 6",
     partTypeId: 1,
     colorId: 0,
@@ -1575,7 +1509,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 67,
     name: "Face 7",
     partTypeId: 1,
     colorId: 0,
@@ -1587,7 +1520,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 68,
     name: "Face 1",
     partTypeId: 1,
     colorId: 1,
@@ -1599,7 +1531,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 69,
     name: "Face 2",
     partTypeId: 1,
     colorId: 1,
@@ -1611,7 +1542,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 70,
     name: "Face 3",
     partTypeId: 1,
     colorId: 1,
@@ -1623,7 +1553,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 71,
     name: "Face 4",
     partTypeId: 1,
     colorId: 1,
@@ -1635,7 +1564,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 72,
     name: "Face 5",
     partTypeId: 1,
     colorId: 1,
@@ -1647,7 +1575,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 73,
     name: "Face 6",
     partTypeId: 1,
     colorId: 1,
@@ -1659,7 +1586,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 74,
     name: "Face 7",
     partTypeId: 1,
     colorId: 1,
@@ -1671,7 +1597,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 75,
     name: "Face 1",
     partTypeId: 1,
     colorId: 2,
@@ -1683,7 +1608,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 76,
     name: "Face 2",
     partTypeId: 1,
     colorId: 2,
@@ -1695,7 +1619,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 77,
     name: "Face 3",
     partTypeId: 1,
     colorId: 2,
@@ -1707,7 +1630,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 78,
     name: "Face 4",
     partTypeId: 1,
     colorId: 2,
@@ -1719,7 +1641,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 79,
     name: "Face 5",
     partTypeId: 1,
     colorId: 2,
@@ -1731,7 +1652,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 80,
     name: "Face 6",
     partTypeId: 1,
     colorId: 2,
@@ -1743,7 +1663,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 81,
     name: "Face 7",
     partTypeId: 1,
     colorId: 2,
@@ -1755,7 +1674,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 82,
     name: "Face 1",
     partTypeId: 1,
     colorId: 3,
@@ -1767,7 +1685,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 83,
     name: "Face 2",
     partTypeId: 1,
     colorId: 3,
@@ -1779,7 +1696,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 84,
     name: "Face 3",
     partTypeId: 1,
     colorId: 3,
@@ -1791,7 +1707,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 85,
     name: "Face 4",
     partTypeId: 1,
     colorId: 3,
@@ -1803,7 +1718,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 86,
     name: "Face 5",
     partTypeId: 1,
     colorId: 3,
@@ -1815,7 +1729,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 87,
     name: "Face 6",
     partTypeId: 1,
     colorId: 3,
@@ -1827,7 +1740,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 88,
     name: "Face 7",
     partTypeId: 1,
     colorId: 3,
@@ -1839,7 +1751,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 89,
     name: "Face 1",
     partTypeId: 1,
     colorId: 4,
@@ -1851,7 +1762,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 90,
     name: "Face 2",
     partTypeId: 1,
     colorId: 4,
@@ -1863,7 +1773,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 91,
     name: "Face 3",
     partTypeId: 1,
     colorId: 4,
@@ -1875,7 +1784,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 92,
     name: "Face 4",
     partTypeId: 1,
     colorId: 4,
@@ -1887,7 +1795,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 93,
     name: "Face 5",
     partTypeId: 1,
     colorId: 4,
@@ -1899,7 +1806,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 94,
     name: "Face 6",
     partTypeId: 1,
     colorId: 4,
@@ -1911,7 +1817,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 95,
     name: "Face 7",
     partTypeId: 1,
     colorId: 4,
@@ -1923,7 +1828,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 96,
     name: "Eyes 1",
     partTypeId: 7,
     colorId: 25,
@@ -1935,7 +1839,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 97,
     name: "Eyes 1",
     partTypeId: 7,
     colorId: 26,
@@ -1947,7 +1850,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 98,
     name: "Eyes 1",
     partTypeId: 7,
     colorId: 27,
@@ -1959,7 +1861,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 99,
     name: "Eyes 1",
     partTypeId: 7,
     colorId: 28,
@@ -1971,7 +1872,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 100,
     name: "Eyes 1",
     partTypeId: 7,
     colorId: 29,
@@ -1983,7 +1883,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 101,
     name: "Eyes 1",
     partTypeId: 7,
     colorId: 30,
@@ -1995,7 +1894,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 102,
     name: "Eyes 1",
     partTypeId: 7,
     colorId: 31,
@@ -2007,7 +1905,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 103,
     name: "Eyes 1",
     partTypeId: 7,
     colorId: 32,
@@ -2019,7 +1916,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 104,
     name: "Eyes 2",
     partTypeId: 7,
     colorId: 25,
@@ -2031,7 +1927,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 105,
     name: "Eyes 2",
     partTypeId: 7,
     colorId: 26,
@@ -2043,7 +1938,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 106,
     name: "Eyes 2",
     partTypeId: 7,
     colorId: 27,
@@ -2055,7 +1949,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 107,
     name: "Eyes 2",
     partTypeId: 7,
     colorId: 28,
@@ -2067,7 +1960,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 108,
     name: "Eyes 2",
     partTypeId: 7,
     colorId: 29,
@@ -2079,7 +1971,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 109,
     name: "Eyes 2",
     partTypeId: 7,
     colorId: 30,
@@ -2091,7 +1982,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 110,
     name: "Eyes 2",
     partTypeId: 7,
     colorId: 31,
@@ -2103,7 +1993,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 111,
     name: "Eyes 2",
     partTypeId: 7,
     colorId: 31,
@@ -2115,7 +2004,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 112,
     name: "Eyes 3",
     partTypeId: 7,
     colorId: 25,
@@ -2127,7 +2015,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 113,
     name: "Eyes 3",
     partTypeId: 7,
     colorId: 26,
@@ -2139,7 +2026,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 114,
     name: "Eyes 3",
     partTypeId: 7,
     colorId: 27,
@@ -2151,7 +2037,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 115,
     name: "Eyes 3",
     partTypeId: 7,
     colorId: 28,
@@ -2163,7 +2048,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 116,
     name: "Eyes 3",
     partTypeId: 7,
     colorId: 29,
@@ -2175,7 +2059,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 117,
     name: "Eyes 3",
     partTypeId: 7,
     colorId: 30,
@@ -2187,7 +2070,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 118,
     name: "Eyes 3",
     partTypeId: 7,
     colorId: 31,
@@ -2199,7 +2081,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 119,
     name: "Eyes 3",
     partTypeId: 7,
     colorId: 32,
@@ -2211,7 +2092,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 120,
     name: "Eyes 4",
     partTypeId: 7,
     colorId: 25,
@@ -2223,7 +2103,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 121,
     name: "Eyes 4",
     partTypeId: 7,
     colorId: 26,
@@ -2235,7 +2114,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 122,
     name: "Eyes 4",
     partTypeId: 7,
     colorId: 27,
@@ -2247,7 +2125,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 123,
     name: "Eyes 4",
     partTypeId: 7,
     colorId: 28,
@@ -2259,7 +2136,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 124,
     name: "Eyes 4",
     partTypeId: 7,
     colorId: 29,
@@ -2271,7 +2147,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 125,
     name: "Eyes 4",
     partTypeId: 7,
     colorId: 30,
@@ -2283,7 +2158,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 126,
     name: "Eyes 4",
     partTypeId: 7,
     colorId: 31,
@@ -2295,7 +2169,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 127,
     name: "Eyes 4",
     partTypeId: 7,
     colorId: 31,
@@ -2307,7 +2180,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 128,
     name: "Eyes 5",
     partTypeId: 7,
     colorId: 25,
@@ -2319,7 +2191,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 129,
     name: "Eyes 5",
     partTypeId: 7,
     colorId: 26,
@@ -2331,7 +2202,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 130,
     name: "Eyes 5",
     partTypeId: 7,
     colorId: 27,
@@ -2343,7 +2213,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 131,
     name: "Eyes 5",
     partTypeId: 7,
     colorId: 28,
@@ -2355,7 +2224,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 132,
     name: "Eyes 5",
     partTypeId: 7,
     colorId: 29,
@@ -2367,7 +2235,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 133,
     name: "Eyes 5",
     partTypeId: 7,
     colorId: 30,
@@ -2379,7 +2246,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 134,
     name: "Eyes 5",
     partTypeId: 7,
     colorId: 31,
@@ -2391,7 +2257,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 135,
     name: "Eyes 5",
     partTypeId: 7,
     colorId: 32,
@@ -2403,7 +2268,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 136,
     name: "Eyes 6",
     partTypeId: 7,
     colorId: 25,
@@ -2415,7 +2279,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 137,
     name: "Eyes 6",
     partTypeId: 7,
     colorId: 26,
@@ -2427,7 +2290,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 138,
     name: "Eyes 6",
     partTypeId: 7,
     colorId: 27,
@@ -2439,7 +2301,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 139,
     name: "Eyes 6",
     partTypeId: 7,
     colorId: 28,
@@ -2451,7 +2312,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 140,
     name: "Eyes 6",
     partTypeId: 7,
     colorId: 29,
@@ -2463,7 +2323,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 141,
     name: "Eyes 6",
     partTypeId: 7,
     colorId: 30,
@@ -2475,7 +2334,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 142,
     name: "Eyes 6",
     partTypeId: 7,
     colorId: 31,
@@ -2487,7 +2345,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 143,
     name: "Eyes 6",
     partTypeId: 7,
     colorId: 31,
@@ -2499,7 +2356,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 144,
     name: "Eyes 7",
     partTypeId: 7,
     colorId: 25,
@@ -2511,7 +2367,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 145,
     name: "Eyes 7",
     partTypeId: 7,
     colorId: 26,
@@ -2523,7 +2378,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 146,
     name: "Eyes 7",
     partTypeId: 7,
     colorId: 27,
@@ -2535,7 +2389,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 147,
     name: "Eyes 7",
     partTypeId: 7,
     colorId: 28,
@@ -2547,7 +2400,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 148,
     name: "Eyes 7",
     partTypeId: 7,
     colorId: 29,
@@ -2559,7 +2411,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 149,
     name: "Eyes 7",
     partTypeId: 7,
     colorId: 30,
@@ -2571,7 +2422,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 150,
     name: "Eyes 7",
     partTypeId: 7,
     colorId: 31,
@@ -2583,7 +2433,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 151,
     name: "Eyes 7",
     partTypeId: 7,
     colorId: 32,
@@ -2595,7 +2444,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 152,
     name: "Eyes 8",
     partTypeId: 7,
     colorId: 25,
@@ -2607,7 +2455,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 153,
     name: "Eyes 8",
     partTypeId: 7,
     colorId: 26,
@@ -2619,7 +2466,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 154,
     name: "Eyes 8",
     partTypeId: 7,
     colorId: 27,
@@ -2631,7 +2477,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 155,
     name: "Eyes 8",
     partTypeId: 7,
     colorId: 28,
@@ -2643,7 +2488,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 156,
     name: "Eyes 8",
     partTypeId: 7,
     colorId: 29,
@@ -2655,7 +2499,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 157,
     name: "Eyes 8",
     partTypeId: 7,
     colorId: 30,
@@ -2667,7 +2510,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 158,
     name: "Eyes 8",
     partTypeId: 7,
     colorId: 31,
@@ -2679,7 +2521,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 159,
     name: "Eyes 8",
     partTypeId: 7,
     colorId: 31,
@@ -2691,7 +2532,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 160,
     name: "Eyes 9",
     partTypeId: 7,
     colorId: 25,
@@ -2703,7 +2543,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 161,
     name: "Eyes 9",
     partTypeId: 7,
     colorId: 26,
@@ -2715,7 +2554,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 162,
     name: "Eyes 9",
     partTypeId: 7,
     colorId: 27,
@@ -2727,7 +2565,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 163,
     name: "Eyes 9",
     partTypeId: 7,
     colorId: 28,
@@ -2739,7 +2576,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 164,
     name: "Eyes 9",
     partTypeId: 7,
     colorId: 29,
@@ -2751,7 +2587,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 165,
     name: "Eyes 9",
     partTypeId: 7,
     colorId: 30,
@@ -2763,7 +2598,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 166,
     name: "Eyes 9",
     partTypeId: 7,
     colorId: 31,
@@ -2775,7 +2609,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 167,
     name: "Eyes 9",
     partTypeId: 7,
     colorId: 32,
@@ -2787,7 +2620,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 168,
     name: "Eyes 10",
     partTypeId: 7,
     colorId: 25,
@@ -2799,7 +2631,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 169,
     name: "Eyes 10",
     partTypeId: 7,
     colorId: 26,
@@ -2811,7 +2642,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 170,
     name: "Eyes 10",
     partTypeId: 7,
     colorId: 27,
@@ -2823,7 +2653,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 171,
     name: "Eyes 10",
     partTypeId: 7,
     colorId: 28,
@@ -2835,7 +2664,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 172,
     name: "Eyes 10",
     partTypeId: 7,
     colorId: 29,
@@ -2847,7 +2675,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 173,
     name: "Eyes 10",
     partTypeId: 7,
     colorId: 30,
@@ -2859,7 +2686,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 174,
     name: "Eyes 10",
     partTypeId: 7,
     colorId: 31,
@@ -2871,7 +2697,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 175,
     name: "Eyes 10",
     partTypeId: 7,
     colorId: 31,
@@ -2883,7 +2708,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 176,
     name: "Eyes 11",
     partTypeId: 7,
     colorId: 25,
@@ -2895,7 +2719,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 177,
     name: "Eyes 11",
     partTypeId: 7,
     colorId: 26,
@@ -2907,7 +2730,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 178,
     name: "Eyes 11",
     partTypeId: 7,
     colorId: 27,
@@ -2919,7 +2741,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 179,
     name: "Eyes 11",
     partTypeId: 7,
     colorId: 28,
@@ -2931,7 +2752,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 180,
     name: "Eyes 11",
     partTypeId: 7,
     colorId: 29,
@@ -2943,7 +2763,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 181,
     name: "Eyes 11",
     partTypeId: 7,
     colorId: 30,
@@ -2955,7 +2774,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 182,
     name: "Eyes 11",
     partTypeId: 7,
     colorId: 31,
@@ -2967,7 +2785,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 183,
     name: "Eyes 11",
     partTypeId: 7,
     colorId: 32,
@@ -2979,7 +2796,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 184,
     name: "Eyes 12",
     partTypeId: 7,
     colorId: 25,
@@ -2991,7 +2807,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 185,
     name: "Eyes 12",
     partTypeId: 7,
     colorId: 26,
@@ -3003,7 +2818,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 186,
     name: "Eyes 12",
     partTypeId: 7,
     colorId: 27,
@@ -3015,7 +2829,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 187,
     name: "Eyes 12",
     partTypeId: 7,
     colorId: 28,
@@ -3027,7 +2840,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 188,
     name: "Eyes 12",
     partTypeId: 7,
     colorId: 29,
@@ -3039,7 +2851,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 189,
     name: "Eyes 12",
     partTypeId: 7,
     colorId: 30,
@@ -3051,7 +2862,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 190,
     name: "Eyes 12",
     partTypeId: 7,
     colorId: 31,
@@ -3063,7 +2873,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 191,
     name: "Eyes 12",
     partTypeId: 7,
     colorId: 31,
@@ -3075,7 +2884,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 192,
     name: "Nose 1",
     partTypeId: 8,
     colorId: 0,
@@ -3087,7 +2895,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 193,
     name: "Nose 1",
     partTypeId: 8,
     colorId: 1,
@@ -3099,7 +2906,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 194,
     name: "Nose 1",
     partTypeId: 8,
     colorId: 2,
@@ -3111,7 +2917,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 195,
     name: "Nose 1",
     partTypeId: 8,
     colorId: 3,
@@ -3123,7 +2928,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 196,
     name: "Nose 1",
     partTypeId: 8,
     colorId: 4,
@@ -3135,7 +2939,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 197,
     name: "Nose 2",
     partTypeId: 8,
     colorId: 0,
@@ -3147,7 +2950,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 198,
     name: "Nose 2",
     partTypeId: 8,
     colorId: 1,
@@ -3159,7 +2961,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 199,
     name: "Nose 2",
     partTypeId: 8,
     colorId: 2,
@@ -3171,7 +2972,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 200,
     name: "Nose 2",
     partTypeId: 8,
     colorId: 3,
@@ -3183,7 +2983,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 201,
     name: "Nose 2",
     partTypeId: 8,
     colorId: 4,
@@ -3195,7 +2994,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 202,
     name: "Nose 3",
     partTypeId: 8,
     colorId: 0,
@@ -3207,7 +3005,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 203,
     name: "Nose 3",
     partTypeId: 8,
     colorId: 1,
@@ -3219,7 +3016,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 204,
     name: "Nose 3",
     partTypeId: 8,
     colorId: 2,
@@ -3231,7 +3027,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 205,
     name: "Nose 3",
     partTypeId: 8,
     colorId: 3,
@@ -3243,7 +3038,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 206,
     name: "Nose 3",
     partTypeId: 8,
     colorId: 4,
@@ -3255,7 +3049,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 207,
     name: "Nose 4",
     partTypeId: 8,
     colorId: 0,
@@ -3267,7 +3060,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 208,
     name: "Nose 4",
     partTypeId: 8,
     colorId: 1,
@@ -3279,7 +3071,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 209,
     name: "Nose 4",
     partTypeId: 8,
     colorId: 2,
@@ -3291,7 +3082,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 210,
     name: "Nose 4",
     partTypeId: 8,
     colorId: 3,
@@ -3303,7 +3093,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 211,
     name: "Nose 4",
     partTypeId: 8,
     colorId: 4,
@@ -3315,7 +3104,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 212,
     name: "Nose 5",
     partTypeId: 8,
     colorId: 0,
@@ -3327,7 +3115,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 213,
     name: "Nose 5",
     partTypeId: 8,
     colorId: 1,
@@ -3339,7 +3126,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 214,
     name: "Nose 5",
     partTypeId: 8,
     colorId: 2,
@@ -3351,7 +3137,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 215,
     name: "Nose 5",
     partTypeId: 8,
     colorId: 3,
@@ -3363,7 +3148,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 216,
     name: "Nose 5",
     partTypeId: 8,
     colorId: 4,
@@ -3375,7 +3159,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 217,
     name: "Nose 6",
     partTypeId: 8,
     colorId: 0,
@@ -3387,7 +3170,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 218,
     name: "Nose 6",
     partTypeId: 8,
     colorId: 1,
@@ -3399,7 +3181,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 219,
     name: "Nose 6",
     partTypeId: 8,
     colorId: 2,
@@ -3411,7 +3192,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 220,
     name: "Nose 6",
     partTypeId: 8,
     colorId: 3,
@@ -3423,7 +3203,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 221,
     name: "Nose 6",
     partTypeId: 8,
     colorId: 4,
@@ -3435,7 +3214,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 222,
     name: "Nose 7",
     partTypeId: 8,
     colorId: 0,
@@ -3447,7 +3225,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 223,
     name: "Nose 7",
     partTypeId: 8,
     colorId: 1,
@@ -3459,7 +3236,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 224,
     name: "Nose 7",
     partTypeId: 8,
     colorId: 2,
@@ -3471,7 +3247,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 225,
     name: "Nose 7",
     partTypeId: 8,
     colorId: 3,
@@ -3483,7 +3258,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 226,
     name: "Nose 7",
     partTypeId: 8,
     colorId: 4,
@@ -3495,7 +3269,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 227,
     name: "Nose 8",
     partTypeId: 8,
     colorId: 0,
@@ -3507,7 +3280,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 228,
     name: "Nose 8",
     partTypeId: 8,
     colorId: 1,
@@ -3519,7 +3291,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 229,
     name: "Nose 8",
     partTypeId: 8,
     colorId: 2,
@@ -3531,7 +3302,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 230,
     name: "Nose 8",
     partTypeId: 8,
     colorId: 3,
@@ -3543,7 +3313,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 221,
     name: "Nose 8",
     partTypeId: 8,
     colorId: 4,
@@ -3555,7 +3324,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 222,
     name: "Nose 9",
     partTypeId: 8,
     colorId: 0,
@@ -3567,7 +3335,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 223,
     name: "Nose 9",
     partTypeId: 8,
     colorId: 1,
@@ -3579,7 +3346,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 224,
     name: "Nose 9",
     partTypeId: 8,
     colorId: 2,
@@ -3591,7 +3357,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 225,
     name: "Nose 9",
     partTypeId: 8,
     colorId: 3,
@@ -3603,7 +3368,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 226,
     name: "Nose 9",
     partTypeId: 8,
     colorId: 4,
@@ -3615,7 +3379,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 227,
     name: "Nose 10",
     partTypeId: 8,
     colorId: 0,
@@ -3627,7 +3390,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 228,
     name: "Nose 10",
     partTypeId: 8,
     colorId: 1,
@@ -3639,7 +3401,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 229,
     name: "Nose 10",
     partTypeId: 8,
     colorId: 2,
@@ -3651,7 +3412,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 230,
     name: "Nose 10",
     partTypeId: 8,
     colorId: 3,
@@ -3663,7 +3423,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 231,
     name: "Nose 10",
     partTypeId: 8,
     colorId: 4,
@@ -3675,7 +3434,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 232,
     name: "Lips 1",
     partTypeId: 9,
     colorId: 25,
@@ -3687,7 +3445,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 233,
     name: "Lips 2",
     partTypeId: 9,
     colorId: 25,
@@ -3699,7 +3456,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 234,
     name: "Lips 3",
     partTypeId: 9,
     colorId: 25,
@@ -3711,7 +3467,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 235,
     name: "Lips 4",
     partTypeId: 9,
     colorId: 25,
@@ -3723,7 +3478,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 236,
     name: "Lips 5",
     partTypeId: 9,
     colorId: 25,
@@ -3735,7 +3489,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 237,
     name: "Lips 6",
     partTypeId: 9,
     colorId: 33,
@@ -3747,7 +3500,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 238,
     name: "Lips 6",
     partTypeId: 9,
     colorId: 34,
@@ -3759,7 +3511,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 239,
     name: "Lips 6",
     partTypeId: 9,
     colorId: 35,
@@ -3771,7 +3522,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 240,
     name: "Lips 6",
     partTypeId: 9,
     colorId: 36,
@@ -3783,7 +3533,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 241,
     name: "Lips 6",
     partTypeId: 9,
     colorId: 37,
@@ -3795,7 +3544,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 242,
     name: "Lips 6",
     partTypeId: 9,
     colorId: 38,
@@ -3807,7 +3555,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 243,
     name: "Lips 7",
     partTypeId: 9,
     colorId: 33,
@@ -3819,7 +3566,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 244,
     name: "Lips 7",
     partTypeId: 9,
     colorId: 34,
@@ -3831,7 +3577,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 245,
     name: "Lips 7",
     partTypeId: 9,
     colorId: 35,
@@ -3843,7 +3588,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 246,
     name: "Lips 7",
     partTypeId: 9,
     colorId: 36,
@@ -3855,7 +3599,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 247,
     name: "Lips 7",
     partTypeId: 9,
     colorId: 37,
@@ -3867,7 +3610,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 248,
     name: "Lips 7",
     partTypeId: 9,
     colorId: 38,
@@ -3879,7 +3621,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 249,
     name: "Lips 8",
     partTypeId: 9,
     colorId: 33,
@@ -3891,7 +3632,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 250,
     name: "Lips 8",
     partTypeId: 9,
     colorId: 34,
@@ -3903,7 +3643,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 251,
     name: "Lips 8",
     partTypeId: 9,
     colorId: 35,
@@ -3915,7 +3654,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 252,
     name: "Lips 8",
     partTypeId: 9,
     colorId: 36,
@@ -3927,7 +3665,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 253,
     name: "Lips 8",
     partTypeId: 9,
     colorId: 37,
@@ -3939,7 +3676,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 254,
     name: "Lips 8",
     partTypeId: 9,
     colorId: 38,
@@ -3951,7 +3687,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 255,
     name: "Lips 9",
     partTypeId: 9,
     colorId: 33,
@@ -3963,7 +3698,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 256,
     name: "Lips 9",
     partTypeId: 9,
     colorId: 34,
@@ -3975,7 +3709,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 257,
     name: "Lips 9",
     partTypeId: 9,
     colorId: 35,
@@ -3987,7 +3720,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 258,
     name: "Lips 9",
     partTypeId: 9,
     colorId: 36,
@@ -3999,7 +3731,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 259,
     name: "Lips 9",
     partTypeId: 9,
     colorId: 37,
@@ -4011,7 +3742,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 260,
     name: "Lips 9",
     partTypeId: 9,
     colorId: 38,
@@ -4023,7 +3753,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 261,
     name: "Lips 10",
     partTypeId: 9,
     colorId: 25,
@@ -4035,7 +3764,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 262,
     name: "Lips 11",
     partTypeId: 9,
     colorId: 33,
@@ -4047,7 +3775,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 263,
     name: "Lips 11",
     partTypeId: 9,
     colorId: 34,
@@ -4059,7 +3786,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 264,
     name: "Lips 11",
     partTypeId: 9,
     colorId: 35,
@@ -4071,7 +3797,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 265,
     name: "Lips 11",
     partTypeId: 9,
     colorId: 36,
@@ -4083,7 +3808,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 266,
     name: "Lips 11",
     partTypeId: 9,
     colorId: 37,
@@ -4095,7 +3819,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 267,
     name: "Lips 11",
     partTypeId: 9,
     colorId: 38,
@@ -4107,7 +3830,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 268,
     name: "Eyebrows 1",
     partTypeId: 14,
     colorId: 13,
@@ -4119,7 +3841,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 269,
     name: "Eyebrows 1",
     partTypeId: 14,
     colorId: 14,
@@ -4131,7 +3852,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 270,
     name: "Eyebrows 1",
     partTypeId: 14,
     colorId: 15,
@@ -4143,7 +3863,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 271,
     name: "Eyebrows 1",
     partTypeId: 14,
     colorId: 16,
@@ -4155,7 +3874,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 272,
     name: "Eyebrows 1",
     partTypeId: 14,
     colorId: 17,
@@ -4167,7 +3885,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 273,
     name: "Eyebrows 1",
     partTypeId: 14,
     colorId: 18,
@@ -4179,7 +3896,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 274,
     name: "Eyebrows 1",
     partTypeId: 14,
     colorId: 19,
@@ -4191,7 +3907,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 275,
     name: "Eyebrows 1",
     partTypeId: 14,
     colorId: 20,
@@ -4203,7 +3918,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 276,
     name: "Eyebrows 1",
     partTypeId: 14,
     colorId: 21,
@@ -4215,7 +3929,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 277,
     name: "Eyebrows 1",
     partTypeId: 14,
     colorId: 22,
@@ -4227,7 +3940,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 278,
     name: "Eyebrows 1",
     partTypeId: 14,
     colorId: 23,
@@ -4239,7 +3951,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 279,
     name: "Eyebrows 1",
     partTypeId: 14,
     colorId: 24,
@@ -4251,7 +3962,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 280,
     name: "Eyebrows 2",
     partTypeId: 14,
     colorId: 13,
@@ -4263,7 +3973,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 281,
     name: "Eyebrows 2",
     partTypeId: 14,
     colorId: 14,
@@ -4275,7 +3984,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 282,
     name: "Eyebrows 2",
     partTypeId: 14,
     colorId: 15,
@@ -4287,7 +3995,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 283,
     name: "Eyebrows 2",
     partTypeId: 14,
     colorId: 16,
@@ -4299,7 +4006,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 284,
     name: "Eyebrows 2",
     partTypeId: 14,
     colorId: 17,
@@ -4311,7 +4017,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 285,
     name: "Eyebrows 2",
     partTypeId: 14,
     colorId: 18,
@@ -4323,7 +4028,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 286,
     name: "Eyebrows 2",
     partTypeId: 14,
     colorId: 19,
@@ -4335,7 +4039,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 287,
     name: "Eyebrows 2",
     partTypeId: 14,
     colorId: 20,
@@ -4347,7 +4050,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 288,
     name: "Eyebrows 2",
     partTypeId: 14,
     colorId: 21,
@@ -4359,7 +4061,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 289,
     name: "Eyebrows 2",
     partTypeId: 14,
     colorId: 22,
@@ -4371,7 +4072,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 290,
     name: "Eyebrows 2",
     partTypeId: 14,
     colorId: 23,
@@ -4383,7 +4083,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 291,
     name: "Eyebrows 2",
     partTypeId: 14,
     colorId: 24,
@@ -4395,7 +4094,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 292,
     name: "Eyebrows 3",
     partTypeId: 14,
     colorId: 13,
@@ -4407,7 +4105,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 293,
     name: "Eyebrows 3",
     partTypeId: 14,
     colorId: 14,
@@ -4419,7 +4116,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 294,
     name: "Eyebrows 3",
     partTypeId: 14,
     colorId: 15,
@@ -4431,7 +4127,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 295,
     name: "Eyebrows 3",
     partTypeId: 14,
     colorId: 16,
@@ -4443,7 +4138,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 296,
     name: "Eyebrows 3",
     partTypeId: 14,
     colorId: 17,
@@ -4455,7 +4149,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 297,
     name: "Eyebrows 3",
     partTypeId: 14,
     colorId: 18,
@@ -4467,7 +4160,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 298,
     name: "Eyebrows 3",
     partTypeId: 14,
     colorId: 19,
@@ -4479,7 +4171,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 299,
     name: "Eyebrows 3",
     partTypeId: 14,
     colorId: 20,
@@ -4491,7 +4182,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 300,
     name: "Eyebrows 3",
     partTypeId: 14,
     colorId: 21,
@@ -4503,7 +4193,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 301,
     name: "Eyebrows 3",
     partTypeId: 14,
     colorId: 22,
@@ -4515,7 +4204,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 302,
     name: "Eyebrows 3",
     partTypeId: 14,
     colorId: 23,
@@ -4527,7 +4215,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 303,
     name: "Eyebrows 3",
     partTypeId: 14,
     colorId: 24,
@@ -4539,7 +4226,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 304,
     name: "Eyebrows 4",
     partTypeId: 14,
     colorId: 13,
@@ -4551,7 +4237,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 305,
     name: "Eyebrows 4",
     partTypeId: 14,
     colorId: 14,
@@ -4563,7 +4248,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 306,
     name: "Eyebrows 4",
     partTypeId: 14,
     colorId: 15,
@@ -4575,7 +4259,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 307,
     name: "Eyebrows 4",
     partTypeId: 14,
     colorId: 16,
@@ -4587,7 +4270,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 308,
     name: "Eyebrows 4",
     partTypeId: 14,
     colorId: 17,
@@ -4599,7 +4281,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 309,
     name: "Eyebrows 4",
     partTypeId: 14,
     colorId: 18,
@@ -4611,7 +4292,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 310,
     name: "Eyebrows 4",
     partTypeId: 14,
     colorId: 19,
@@ -4623,7 +4303,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 311,
     name: "Eyebrows 4",
     partTypeId: 14,
     colorId: 20,
@@ -4635,7 +4314,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 312,
     name: "Eyebrows 4",
     partTypeId: 14,
     colorId: 21,
@@ -4647,7 +4325,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 313,
     name: "Eyebrows 4",
     partTypeId: 14,
     colorId: 22,
@@ -4659,7 +4336,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 314,
     name: "Eyebrows 4",
     partTypeId: 14,
     colorId: 23,
@@ -4671,7 +4347,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 315,
     name: "Eyebrows 4",
     partTypeId: 14,
     colorId: 24,
@@ -4683,7 +4358,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 316,
     name: "Eyebrows 5",
     partTypeId: 14,
     colorId: 13,
@@ -4695,7 +4369,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 317,
     name: "Eyebrows 5",
     partTypeId: 14,
     colorId: 14,
@@ -4707,7 +4380,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 318,
     name: "Eyebrows 5",
     partTypeId: 14,
     colorId: 15,
@@ -4719,7 +4391,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 319,
     name: "Eyebrows 5",
     partTypeId: 14,
     colorId: 16,
@@ -4731,7 +4402,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 320,
     name: "Eyebrows 5",
     partTypeId: 14,
     colorId: 17,
@@ -4743,7 +4413,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 321,
     name: "Eyebrows 5",
     partTypeId: 14,
     colorId: 18,
@@ -4755,7 +4424,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 322,
     name: "Eyebrows 5",
     partTypeId: 14,
     colorId: 19,
@@ -4767,7 +4435,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 323,
     name: "Eyebrows 5",
     partTypeId: 14,
     colorId: 20,
@@ -4779,7 +4446,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 324,
     name: "Eyebrows 5",
     partTypeId: 14,
     colorId: 21,
@@ -4791,7 +4457,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 325,
     name: "Eyebrows 5",
     partTypeId: 14,
     colorId: 22,
@@ -4803,7 +4468,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 326,
     name: "Eyebrows 5",
     partTypeId: 14,
     colorId: 23,
@@ -4815,7 +4479,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 327,
     name: "Eyebrows 5",
     partTypeId: 14,
     colorId: 24,
@@ -4827,7 +4490,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 328,
     name: "Eyebrows 6",
     partTypeId: 14,
     colorId: 25,
@@ -4839,7 +4501,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 329,
     name: "Eyebrows 7",
     partTypeId: 14,
     colorId: 25,
@@ -4851,7 +4512,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 330,
     name: "eyebrows8",
     partTypeId: 14,
     colorId: 13,
@@ -4863,7 +4523,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 331,
     name: "eyebrows8",
     partTypeId: 14,
     colorId: 14,
@@ -4875,7 +4534,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 332,
     name: "eyebrows8",
     partTypeId: 14,
     colorId: 15,
@@ -4887,7 +4545,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 333,
     name: "Eyebrows 8",
     partTypeId: 14,
     colorId: 16,
@@ -4899,7 +4556,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 334,
     name: "Eyebrows 8",
     partTypeId: 14,
     colorId: 17,
@@ -4911,7 +4567,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 335,
     name: "Eyebrows 8",
     partTypeId: 14,
     colorId: 18,
@@ -4923,7 +4578,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 336,
     name: "Eyebrows 8",
     partTypeId: 14,
     colorId: 19,
@@ -4935,7 +4589,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 337,
     name: "Eyebrows 8",
     partTypeId: 14,
     colorId: 20,
@@ -4947,7 +4600,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 338,
     name: "Eyebrows 8",
     partTypeId: 14,
     colorId: 21,
@@ -4959,7 +4611,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 339,
     name: "Eyebrows 8",
     partTypeId: 14,
     colorId: 22,
@@ -4971,7 +4622,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 340,
     name: "Eyebrows 8",
     partTypeId: 14,
     colorId: 23,
@@ -4983,7 +4633,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 341,
     name: "Eyebrows 8",
     partTypeId: 14,
     colorId: 24,
@@ -4995,7 +4644,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 342,
     name: "Eyebrows 9",
     partTypeId: 14,
     colorId: 25,
@@ -5007,7 +4655,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 343,
     name: "Marks Lines",
     partTypeId: 13,
     colorId: 25,
@@ -5019,7 +4666,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 344,
     name: "Marks Scar 1",
     partTypeId: 13,
     colorId: 25,
@@ -5031,7 +4677,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 345,
     name: "Marks Scar 2",
     partTypeId: 13,
     colorId: 25,
@@ -5043,7 +4688,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 346,
     name: "Marks Scar 3",
     partTypeId: 13,
     colorId: 25,
@@ -5055,7 +4699,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 347,
     name: "Marks Dark Eyes",
     partTypeId: 13,
     colorId: 25,
@@ -5067,7 +4710,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 348,
     name: "Hair 1",
     partTypeId: 5,
     colorId: 13,
@@ -5079,7 +4721,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 349,
     name: "Hair 1",
     partTypeId: 5,
     colorId: 14,
@@ -5091,7 +4732,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 350,
     name: "Hair 1",
     partTypeId: 5,
     colorId: 15,
@@ -5103,7 +4743,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 351,
     name: "Hair 1",
     partTypeId: 5,
     colorId: 16,
@@ -5115,7 +4754,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 352,
     name: "Hair 1",
     partTypeId: 5,
     colorId: 17,
@@ -5127,7 +4765,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 353,
     name: "Hair 1",
     partTypeId: 5,
     colorId: 18,
@@ -5139,7 +4776,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 354,
     name: "Hair 1",
     partTypeId: 5,
     colorId: 19,
@@ -5151,7 +4787,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 355,
     name: "Hair 1",
     partTypeId: 5,
     colorId: 20,
@@ -5163,7 +4798,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 356,
     name: "Hair 1",
     partTypeId: 5,
     colorId: 21,
@@ -5175,7 +4809,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 357,
     name: "Hair 1",
     partTypeId: 5,
     colorId: 22,
@@ -5187,7 +4820,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 358,
     name: "Hair 1",
     partTypeId: 5,
     colorId: 23,
@@ -5199,7 +4831,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 359,
     name: "Hair 1",
     partTypeId: 5,
     colorId: 24,
@@ -5211,7 +4842,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 360,
     name: "Hair 2",
     partTypeId: 5,
     colorId: 13,
@@ -5223,7 +4853,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 361,
     name: "Hair 2",
     partTypeId: 5,
     colorId: 14,
@@ -5235,7 +4864,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 362,
     name: "Hair 2",
     partTypeId: 5,
     colorId: 15,
@@ -5247,7 +4875,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 363,
     name: "Hair 2",
     partTypeId: 5,
     colorId: 16,
@@ -5259,7 +4886,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 364,
     name: "Hair 2",
     partTypeId: 5,
     colorId: 17,
@@ -5271,7 +4897,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 365,
     name: "Hair 2",
     partTypeId: 5,
     colorId: 18,
@@ -5283,7 +4908,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 366,
     name: "Hair 2",
     partTypeId: 5,
     colorId: 19,
@@ -5295,7 +4919,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 367,
     name: "Hair 2",
     partTypeId: 5,
     colorId: 20,
@@ -5307,7 +4930,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 368,
     name: "Hair 2",
     partTypeId: 5,
     colorId: 21,
@@ -5319,7 +4941,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 369,
     name: "Hair 2",
     partTypeId: 5,
     colorId: 22,
@@ -5331,7 +4952,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 370,
     name: "Hair 2",
     partTypeId: 5,
     colorId: 23,
@@ -5343,7 +4963,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 371,
     name: "Hair 2",
     partTypeId: 5,
     colorId: 24,
@@ -5355,7 +4974,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 372,
     name: "Hair 3",
     partTypeId: 5,
     colorId: 13,
@@ -5367,7 +4985,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 373,
     name: "Hair 3",
     partTypeId: 5,
     colorId: 14,
@@ -5379,7 +4996,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 374,
     name: "Hair 3",
     partTypeId: 5,
     colorId: 15,
@@ -5391,7 +5007,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 375,
     name: "Hair 3",
     partTypeId: 5,
     colorId: 16,
@@ -5403,7 +5018,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 376,
     name: "Hair 3",
     partTypeId: 5,
     colorId: 17,
@@ -5415,7 +5029,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 377,
     name: "Hair 3",
     partTypeId: 5,
     colorId: 18,
@@ -5427,7 +5040,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 378,
     name: "Hair 3",
     partTypeId: 5,
     colorId: 19,
@@ -5439,7 +5051,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 379,
     name: "Hair 3",
     partTypeId: 5,
     colorId: 20,
@@ -5451,7 +5062,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 380,
     name: "Hair 3",
     partTypeId: 5,
     colorId: 21,
@@ -5463,7 +5073,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 381,
     name: "Hair 3",
     partTypeId: 5,
     colorId: 22,
@@ -5475,7 +5084,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 382,
     name: "Hair 3",
     partTypeId: 5,
     colorId: 23,
@@ -5487,7 +5095,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 383,
     name: "Hair 3",
     partTypeId: 5,
     colorId: 24,
@@ -5499,7 +5106,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 384,
     name: "Hair 4",
     partTypeId: 5,
     colorId: 13,
@@ -5511,7 +5117,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 385,
     name: "Hair 4",
     partTypeId: 5,
     colorId: 14,
@@ -5523,7 +5128,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 386,
     name: "Hair 4",
     partTypeId: 5,
     colorId: 15,
@@ -5535,7 +5139,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 387,
     name: "Hair 4",
     partTypeId: 5,
     colorId: 16,
@@ -5547,7 +5150,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 388,
     name: "Hair 4",
     partTypeId: 5,
     colorId: 17,
@@ -5559,7 +5161,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 389,
     name: "Hair 4",
     partTypeId: 5,
     colorId: 18,
@@ -5571,7 +5172,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 390,
     name: "Hair 4",
     partTypeId: 5,
     colorId: 19,
@@ -5583,7 +5183,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 391,
     name: "Hair 4",
     partTypeId: 5,
     colorId: 20,
@@ -5595,7 +5194,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 392,
     name: "Hair 4",
     partTypeId: 5,
     colorId: 21,
@@ -5607,7 +5205,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 393,
     name: "Hair 4",
     partTypeId: 5,
     colorId: 22,
@@ -5619,7 +5216,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 394,
     name: "Hair 4",
     partTypeId: 5,
     colorId: 23,
@@ -5631,7 +5227,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 395,
     name: "Hair 4",
     partTypeId: 5,
     colorId: 24,
@@ -5643,7 +5238,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 396,
     name: "Hair 5",
     partTypeId: 5,
     colorId: 13,
@@ -5655,7 +5249,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 397,
     name: "Hair 5",
     partTypeId: 5,
     colorId: 14,
@@ -5667,7 +5260,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 398,
     name: "Hair 5",
     partTypeId: 5,
     colorId: 15,
@@ -5679,7 +5271,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 399,
     name: "Hair 5",
     partTypeId: 5,
     colorId: 16,
@@ -5691,7 +5282,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 400,
     name: "Hair 5",
     partTypeId: 5,
     colorId: 17,
@@ -5703,7 +5293,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 401,
     name: "Hair 5",
     partTypeId: 5,
     colorId: 18,
@@ -5715,7 +5304,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 402,
     name: "Hair 5",
     partTypeId: 5,
     colorId: 19,
@@ -5727,7 +5315,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 403,
     name: "Hair 5",
     partTypeId: 5,
     colorId: 20,
@@ -5739,7 +5326,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 404,
     name: "Hair 5",
     partTypeId: 5,
     colorId: 21,
@@ -5751,7 +5337,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 405,
     name: "Hair 5",
     partTypeId: 5,
     colorId: 22,
@@ -5763,7 +5348,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 406,
     name: "Hair 5",
     partTypeId: 5,
     colorId: 23,
@@ -5775,7 +5359,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 407,
     name: "Hair 5",
     partTypeId: 5,
     colorId: 24,
@@ -5787,7 +5370,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 408,
     name: "Hair 6",
     partTypeId: 5,
     colorId: 13,
@@ -5799,7 +5381,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 409,
     name: "Hair 6",
     partTypeId: 5,
     colorId: 14,
@@ -5811,7 +5392,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 410,
     name: "Hair 6",
     partTypeId: 5,
     colorId: 15,
@@ -5823,7 +5403,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 411,
     name: "Hair 6",
     partTypeId: 5,
     colorId: 16,
@@ -5835,7 +5414,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 412,
     name: "Hair 6",
     partTypeId: 5,
     colorId: 17,
@@ -5847,7 +5425,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 413,
     name: "Hair 6",
     partTypeId: 5,
     colorId: 18,
@@ -5859,7 +5436,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 414,
     name: "Hair 6",
     partTypeId: 5,
     colorId: 19,
@@ -5871,7 +5447,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 415,
     name: "Hair 6",
     partTypeId: 5,
     colorId: 20,
@@ -5883,7 +5458,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 416,
     name: "Hair 6",
     partTypeId: 5,
     colorId: 21,
@@ -5895,7 +5469,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 417,
     name: "Hair 6",
     partTypeId: 5,
     colorId: 22,
@@ -5907,7 +5480,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 418,
     name: "Hair 6",
     partTypeId: 5,
     colorId: 23,
@@ -5919,7 +5491,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 419,
     name: "Hair 6",
     partTypeId: 5,
     colorId: 24,
@@ -5931,7 +5502,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 420,
     name: "Hair 7",
     partTypeId: 5,
     colorId: 13,
@@ -5943,7 +5513,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 421,
     name: "Hair 7",
     partTypeId: 5,
     colorId: 14,
@@ -5955,7 +5524,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 422,
     name: "Hair 7",
     partTypeId: 5,
     colorId: 15,
@@ -5967,7 +5535,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 423,
     name: "Hair 7",
     partTypeId: 5,
     colorId: 16,
@@ -5979,7 +5546,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 424,
     name: "Hair 7",
     partTypeId: 5,
     colorId: 17,
@@ -5991,7 +5557,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 425,
     name: "Hair 7",
     partTypeId: 5,
     colorId: 18,
@@ -6003,7 +5568,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 426,
     name: "Hair 7",
     partTypeId: 5,
     colorId: 19,
@@ -6015,7 +5579,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 427,
     name: "Hair 7",
     partTypeId: 5,
     colorId: 20,
@@ -6027,7 +5590,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 428,
     name: "Hair 7",
     partTypeId: 5,
     colorId: 21,
@@ -6039,7 +5601,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 429,
     name: "Hair 7",
     partTypeId: 5,
     colorId: 22,
@@ -6051,7 +5612,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 430,
     name: "Hair 7",
     partTypeId: 5,
     colorId: 23,
@@ -6063,7 +5623,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 431,
     name: "Hair 7",
     partTypeId: 5,
     colorId: 24,
@@ -6075,7 +5634,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 432,
     name: "Hair 8",
     partTypeId: 5,
     colorId: 13,
@@ -6087,7 +5645,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 433,
     name: "Hair 8",
     partTypeId: 5,
     colorId: 14,
@@ -6099,7 +5656,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 434,
     name: "Hair 8",
     partTypeId: 5,
     colorId: 15,
@@ -6111,7 +5667,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 435,
     name: "Hair 8",
     partTypeId: 5,
     colorId: 16,
@@ -6123,7 +5678,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 436,
     name: "Hair 8",
     partTypeId: 5,
     colorId: 17,
@@ -6135,7 +5689,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 437,
     name: "Hair 8",
     partTypeId: 5,
     colorId: 18,
@@ -6147,7 +5700,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 438,
     name: "Hair 8",
     partTypeId: 5,
     colorId: 19,
@@ -6159,7 +5711,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 439,
     name: "Hair 8",
     partTypeId: 5,
     colorId: 20,
@@ -6171,7 +5722,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 440,
     name: "Hair 8",
     partTypeId: 5,
     colorId: 21,
@@ -6183,7 +5733,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 441,
     name: "Hair 8",
     partTypeId: 5,
     colorId: 22,
@@ -6195,7 +5744,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 442,
     name: "Hair 8",
     partTypeId: 5,
     colorId: 23,
@@ -6207,7 +5755,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 443,
     name: "Hair 8",
     partTypeId: 5,
     colorId: 24,
@@ -6219,7 +5766,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 444,
     name: "Hair 9",
     partTypeId: 5,
     colorId: 13,
@@ -6231,7 +5777,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 445,
     name: "Hair 9",
     partTypeId: 5,
     colorId: 14,
@@ -6243,7 +5788,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 446,
     name: "Hair 9",
     partTypeId: 5,
     colorId: 15,
@@ -6255,7 +5799,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 447,
     name: "Hair 9",
     partTypeId: 5,
     colorId: 16,
@@ -6267,7 +5810,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 448,
     name: "Hair 9",
     partTypeId: 5,
     colorId: 17,
@@ -6279,7 +5821,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 449,
     name: "Hair 9",
     partTypeId: 5,
     colorId: 18,
@@ -6291,7 +5832,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 450,
     name: "Hair 9",
     partTypeId: 5,
     colorId: 19,
@@ -6303,7 +5843,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 451,
     name: "Hair 9",
     partTypeId: 5,
     colorId: 20,
@@ -6315,7 +5854,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 452,
     name: "Hair 9",
     partTypeId: 5,
     colorId: 21,
@@ -6327,7 +5865,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 453,
     name: "Hair 9",
     partTypeId: 5,
     colorId: 22,
@@ -6339,7 +5876,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 454,
     name: "Hair 9",
     partTypeId: 5,
     colorId: 23,
@@ -6351,7 +5887,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 455,
     name: "Hair 9",
     partTypeId: 5,
     colorId: 24,
@@ -6363,7 +5898,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 456,
     name: "Hair 10",
     partTypeId: 5,
     colorId: 13,
@@ -6375,7 +5909,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 457,
     name: "Hair 10",
     partTypeId: 5,
     colorId: 14,
@@ -6387,7 +5920,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 458,
     name: "Hair 10",
     partTypeId: 5,
     colorId: 15,
@@ -6399,7 +5931,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 459,
     name: "Hair 10",
     partTypeId: 5,
     colorId: 16,
@@ -6411,7 +5942,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 460,
     name: "Hair 10",
     partTypeId: 5,
     colorId: 17,
@@ -6423,7 +5953,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 461,
     name: "Hair 10",
     partTypeId: 5,
     colorId: 18,
@@ -6435,7 +5964,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 462,
     name: "Hair 10",
     partTypeId: 5,
     colorId: 19,
@@ -6447,7 +5975,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 463,
     name: "Hair 10",
     partTypeId: 5,
     colorId: 20,
@@ -6459,7 +5986,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 464,
     name: "Hair 10",
     partTypeId: 5,
     colorId: 21,
@@ -6471,7 +5997,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 465,
     name: "Hair 10",
     partTypeId: 5,
     colorId: 22,
@@ -6483,7 +6008,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 466,
     name: "Hair 10",
     partTypeId: 5,
     colorId: 23,
@@ -6495,7 +6019,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 467,
     name: "Hair 10",
     partTypeId: 5,
     colorId: 24,
@@ -6507,7 +6030,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 468,
     name: "Hair 11",
     partTypeId: 5,
     colorId: 13,
@@ -6519,7 +6041,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 469,
     name: "Hair 11",
     partTypeId: 5,
     colorId: 14,
@@ -6531,7 +6052,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 470,
     name: "Hair 11",
     partTypeId: 5,
     colorId: 15,
@@ -6543,7 +6063,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 471,
     name: "Hair 11",
     partTypeId: 5,
     colorId: 16,
@@ -6555,7 +6074,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 472,
     name: "Hair 11",
     partTypeId: 5,
     colorId: 17,
@@ -6567,7 +6085,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 473,
     name: "Hair 11",
     partTypeId: 5,
     colorId: 18,
@@ -6579,7 +6096,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 474,
     name: "Hair 11",
     partTypeId: 5,
     colorId: 19,
@@ -6591,7 +6107,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 475,
     name: "Hair 11",
     partTypeId: 5,
     colorId: 20,
@@ -6603,7 +6118,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 476,
     name: "Hair 11",
     partTypeId: 5,
     colorId: 21,
@@ -6615,7 +6129,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 477,
     name: "Hair 11",
     partTypeId: 5,
     colorId: 22,
@@ -6627,7 +6140,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 478,
     name: "Hair 11",
     partTypeId: 5,
     colorId: 23,
@@ -6639,7 +6151,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 479,
     name: "Hair 11",
     partTypeId: 5,
     colorId: 24,
@@ -6651,7 +6162,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 480,
     name: "Hair 12",
     partTypeId: 5,
     colorId: 13,
@@ -6663,7 +6173,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 481,
     name: "Hair 12",
     partTypeId: 5,
     colorId: 14,
@@ -6675,7 +6184,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 482,
     name: "Hair 12",
     partTypeId: 5,
     colorId: 15,
@@ -6687,7 +6195,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 483,
     name: "Hair 12",
     partTypeId: 5,
     colorId: 16,
@@ -6699,7 +6206,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 484,
     name: "Hair 12",
     partTypeId: 5,
     colorId: 17,
@@ -6711,7 +6217,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 485,
     name: "Hair 12",
     partTypeId: 5,
     colorId: 18,
@@ -6723,7 +6228,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 486,
     name: "Hair 12",
     partTypeId: 5,
     colorId: 19,
@@ -6735,7 +6239,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 487,
     name: "Hair 12",
     partTypeId: 5,
     colorId: 20,
@@ -6747,7 +6250,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 488,
     name: "Hair 12",
     partTypeId: 5,
     colorId: 21,
@@ -6759,7 +6261,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 489,
     name: "Hair 12",
     partTypeId: 5,
     colorId: 22,
@@ -6771,7 +6272,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 490,
     name: "Hair 12",
     partTypeId: 5,
     colorId: 23,
@@ -6783,7 +6283,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 491,
     name: "Hair 12",
     partTypeId: 5,
     colorId: 24,
@@ -6795,7 +6294,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 492,
     name: "Hair 13",
     partTypeId: 5,
     colorId: 13,
@@ -6807,7 +6305,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 493,
     name: "Hair 13",
     partTypeId: 5,
     colorId: 14,
@@ -6819,7 +6316,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 494,
     name: "Hair 13",
     partTypeId: 5,
     colorId: 15,
@@ -6831,7 +6327,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 495,
     name: "Hair 13",
     partTypeId: 5,
     colorId: 16,
@@ -6843,7 +6338,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 496,
     name: "Hair 13",
     partTypeId: 5,
     colorId: 17,
@@ -6855,7 +6349,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 497,
     name: "Hair 13",
     partTypeId: 5,
     colorId: 18,
@@ -6867,7 +6360,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 498,
     name: "Hair 13",
     partTypeId: 5,
     colorId: 19,
@@ -6879,7 +6371,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 499,
     name: "Hair 13",
     partTypeId: 5,
     colorId: 20,
@@ -6891,7 +6382,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 500,
     name: "Hair 13",
     partTypeId: 5,
     colorId: 21,
@@ -6903,7 +6393,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 501,
     name: "Hair 13",
     partTypeId: 5,
     colorId: 22,
@@ -6915,7 +6404,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 502,
     name: "Hair 13",
     partTypeId: 5,
     colorId: 23,
@@ -6927,7 +6415,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 503,
     name: "Hair 13",
     partTypeId: 5,
     colorId: 24,
@@ -6939,7 +6426,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 504,
     name: "Hair 14",
     partTypeId: 5,
     colorId: 13,
@@ -6951,7 +6437,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 505,
     name: "Hair 14",
     partTypeId: 5,
     colorId: 14,
@@ -6963,7 +6448,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 506,
     name: "Hair 14",
     partTypeId: 5,
     colorId: 15,
@@ -6975,7 +6459,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 507,
     name: "Hair 14",
     partTypeId: 5,
     colorId: 16,
@@ -6987,7 +6470,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 508,
     name: "Hair 14",
     partTypeId: 5,
     colorId: 17,
@@ -6999,7 +6481,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 509,
     name: "Hair 14",
     partTypeId: 5,
     colorId: 18,
@@ -7011,7 +6492,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 510,
     name: "Hair 14",
     partTypeId: 5,
     colorId: 19,
@@ -7023,7 +6503,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 511,
     name: "Hair 14",
     partTypeId: 5,
     colorId: 20,
@@ -7035,7 +6514,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 512,
     name: "Hair 14",
     partTypeId: 5,
     colorId: 21,
@@ -7047,7 +6525,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 513,
     name: "Hair 14",
     partTypeId: 5,
     colorId: 22,
@@ -7059,7 +6536,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 514,
     name: "Hair 14",
     partTypeId: 5,
     colorId: 23,
@@ -7071,7 +6547,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 515,
     name: "Hair 14",
     partTypeId: 5,
     colorId: 24,
@@ -7083,7 +6558,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 516,
     name: "Hair 15",
     partTypeId: 5,
     colorId: 13,
@@ -7095,7 +6569,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 517,
     name: "Hair 15",
     partTypeId: 5,
     colorId: 14,
@@ -7107,7 +6580,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 518,
     name: "Hair 15",
     partTypeId: 5,
     colorId: 15,
@@ -7119,7 +6591,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 519,
     name: "Hair 15",
     partTypeId: 5,
     colorId: 16,
@@ -7131,7 +6602,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 520,
     name: "Hair 15",
     partTypeId: 5,
     colorId: 17,
@@ -7143,7 +6613,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 521,
     name: "Hair 15",
     partTypeId: 5,
     colorId: 18,
@@ -7155,7 +6624,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 522,
     name: "Hair 15",
     partTypeId: 5,
     colorId: 19,
@@ -7167,7 +6635,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 523,
     name: "Hair 15",
     partTypeId: 5,
     colorId: 20,
@@ -7179,7 +6646,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 524,
     name: "Hair 15",
     partTypeId: 5,
     colorId: 21,
@@ -7191,7 +6657,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 525,
     name: "Hair 15",
     partTypeId: 5,
     colorId: 22,
@@ -7203,7 +6668,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 526,
     name: "Hair 15",
     partTypeId: 5,
     colorId: 23,
@@ -7215,7 +6679,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 527,
     name: "Hair 15",
     partTypeId: 5,
     colorId: 24,
@@ -7227,7 +6690,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 528,
     name: "Hair 16",
     partTypeId: 5,
     colorId: 13,
@@ -7239,7 +6701,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 529,
     name: "Hair 16",
     partTypeId: 5,
     colorId: 14,
@@ -7251,7 +6712,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 530,
     name: "Hair 16",
     partTypeId: 5,
     colorId: 15,
@@ -7263,7 +6723,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 531,
     name: "Hair 16",
     partTypeId: 5,
     colorId: 16,
@@ -7275,7 +6734,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 532,
     name: "Hair 16",
     partTypeId: 5,
     colorId: 17,
@@ -7287,7 +6745,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 533,
     name: "Hair 16",
     partTypeId: 5,
     colorId: 18,
@@ -7299,7 +6756,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 534,
     name: "Hair 16",
     partTypeId: 5,
     colorId: 19,
@@ -7311,7 +6767,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 535,
     name: "Hair 16",
     partTypeId: 5,
     colorId: 20,
@@ -7323,7 +6778,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 536,
     name: "Hair 16",
     partTypeId: 5,
     colorId: 21,
@@ -7335,7 +6789,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 537,
     name: "Hair 16",
     partTypeId: 5,
     colorId: 22,
@@ -7347,7 +6800,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 538,
     name: "Hair 16",
     partTypeId: 5,
     colorId: 23,
@@ -7359,7 +6811,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 539,
     name: "Hair 16",
     partTypeId: 5,
     colorId: 24,
@@ -7371,7 +6822,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 540,
     name: "Hair 17",
     partTypeId: 5,
     colorId: 13,
@@ -7383,7 +6833,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 541,
     name: "Hair 17",
     partTypeId: 5,
     colorId: 14,
@@ -7395,7 +6844,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 542,
     name: "Hair 17",
     partTypeId: 5,
     colorId: 15,
@@ -7407,7 +6855,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 543,
     name: "Hair 17",
     partTypeId: 5,
     colorId: 16,
@@ -7419,7 +6866,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 544,
     name: "Hair 17",
     partTypeId: 5,
     colorId: 17,
@@ -7431,7 +6877,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 545,
     name: "Hair 17",
     partTypeId: 5,
     colorId: 18,
@@ -7443,7 +6888,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 546,
     name: "Hair 17",
     partTypeId: 5,
     colorId: 19,
@@ -7455,7 +6899,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 547,
     name: "Hair 17",
     partTypeId: 5,
     colorId: 20,
@@ -7467,7 +6910,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 548,
     name: "Hair 17",
     partTypeId: 5,
     colorId: 21,
@@ -7479,7 +6921,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 549,
     name: "Hair 17",
     partTypeId: 5,
     colorId: 22,
@@ -7491,7 +6932,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 550,
     name: "Hair 17",
     partTypeId: 5,
     colorId: 23,
@@ -7503,7 +6943,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 551,
     name: "Hair 17",
     partTypeId: 5,
     colorId: 24,
@@ -7515,7 +6954,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 552,
     name: "Hair 18",
     partTypeId: 5,
     colorId: 13,
@@ -7531,7 +6969,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 553,
     name: "Hair 18",
     partTypeId: 5,
     colorId: 14,
@@ -7547,7 +6984,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 554,
     name: "Hair 18",
     partTypeId: 5,
     colorId: 15,
@@ -7563,7 +6999,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 555,
     name: "Hair 18",
     partTypeId: 5,
     colorId: 16,
@@ -7579,7 +7014,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 556,
     name: "Hair 18",
     partTypeId: 5,
     colorId: 17,
@@ -7595,7 +7029,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 557,
     name: "Hair 18",
     partTypeId: 5,
     colorId: 18,
@@ -7611,7 +7044,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 558,
     name: "Hair 18",
     partTypeId: 5,
     colorId: 19,
@@ -7627,7 +7059,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 559,
     name: "Hair 18",
     partTypeId: 5,
     colorId: 20,
@@ -7643,7 +7074,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 560,
     name: "Hair 18",
     partTypeId: 5,
     colorId: 21,
@@ -7659,7 +7089,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 561,
     name: "Hair 18",
     partTypeId: 5,
     colorId: 22,
@@ -7675,7 +7104,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 562,
     name: "Hair 18",
     partTypeId: 5,
     colorId: 23,
@@ -7691,7 +7119,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 563,
     name: "Hair 18",
     partTypeId: 5,
     colorId: 24,
@@ -7707,7 +7134,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 564,
     name: "Hair 19",
     partTypeId: 5,
     colorId: 13,
@@ -7719,7 +7145,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 565,
     name: "Hair 19",
     partTypeId: 5,
     colorId: 14,
@@ -7731,7 +7156,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 566,
     name: "Hair 19",
     partTypeId: 5,
     colorId: 15,
@@ -7743,7 +7167,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 567,
     name: "Hair 19",
     partTypeId: 5,
     colorId: 16,
@@ -7755,7 +7178,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 568,
     name: "Hair 19",
     partTypeId: 5,
     colorId: 17,
@@ -7767,7 +7189,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 569,
     name: "Hair 19",
     partTypeId: 5,
     colorId: 18,
@@ -7779,7 +7200,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 570,
     name: "Hair 19",
     partTypeId: 5,
     colorId: 19,
@@ -7791,7 +7211,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 571,
     name: "Hair 19",
     partTypeId: 5,
     colorId: 20,
@@ -7803,7 +7222,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 572,
     name: "Hair 19",
     partTypeId: 5,
     colorId: 21,
@@ -7815,7 +7233,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 573,
     name: "Hair 19",
     partTypeId: 5,
     colorId: 22,
@@ -7827,7 +7244,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 574,
     name: "Hair 19",
     partTypeId: 5,
     colorId: 23,
@@ -7839,7 +7255,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 575,
     name: "Hair 19",
     partTypeId: 5,
     colorId: 24,
@@ -7851,7 +7266,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 576,
     name: "Back Hair 1",
     partTypeId: 12,
     colorId: 13,
@@ -7863,7 +7277,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 577,
     name: "Back Hair 1",
     partTypeId: 12,
     colorId: 14,
@@ -7875,7 +7288,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 578,
     name: "Back Hair 1",
     partTypeId: 12,
     colorId: 15,
@@ -7887,7 +7299,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 579,
     name: "Back Hair 1",
     partTypeId: 12,
     colorId: 16,
@@ -7899,7 +7310,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 580,
     name: "Back Hair 1",
     partTypeId: 12,
     colorId: 17,
@@ -7911,7 +7321,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 581,
     name: "Back Hair 1",
     partTypeId: 12,
     colorId: 18,
@@ -7923,7 +7332,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 582,
     name: "Back Hair 1",
     partTypeId: 12,
     colorId: 19,
@@ -7935,7 +7343,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 583,
     name: "Back Hair 1",
     partTypeId: 12,
     colorId: 20,
@@ -7947,7 +7354,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 584,
     name: "Back Hair 1",
     partTypeId: 12,
     colorId: 21,
@@ -7959,7 +7365,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 585,
     name: "Back Hair 1",
     partTypeId: 12,
     colorId: 22,
@@ -7971,7 +7376,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 586,
     name: "Back Hair 1",
     partTypeId: 12,
     colorId: 23,
@@ -7983,7 +7387,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 587,
     name: "Back Hair 1",
     partTypeId: 12,
     colorId: 24,
@@ -7995,7 +7398,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 588,
     name: "Back Hair 2",
     partTypeId: 12,
     colorId: 13,
@@ -8007,7 +7409,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 589,
     name: "Back Hair 2",
     partTypeId: 12,
     colorId: 14,
@@ -8019,7 +7420,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 590,
     name: "Back Hair 2",
     partTypeId: 12,
     colorId: 15,
@@ -8031,7 +7431,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 591,
     name: "Back Hair 2",
     partTypeId: 12,
     colorId: 16,
@@ -8043,7 +7442,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 592,
     name: "Back Hair 2",
     partTypeId: 12,
     colorId: 17,
@@ -8055,7 +7453,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 593,
     name: "Back Hair 2",
     partTypeId: 12,
     colorId: 18,
@@ -8067,7 +7464,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 594,
     name: "Back Hair 2",
     partTypeId: 12,
     colorId: 19,
@@ -8079,7 +7475,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 595,
     name: "Back Hair 2",
     partTypeId: 12,
     colorId: 20,
@@ -8091,7 +7486,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 596,
     name: "Back Hair 2",
     partTypeId: 12,
     colorId: 21,
@@ -8103,7 +7497,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 597,
     name: "Back Hair 2",
     partTypeId: 12,
     colorId: 22,
@@ -8115,7 +7508,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 598,
     name: "Back Hair 2",
     partTypeId: 12,
     colorId: 23,
@@ -8127,7 +7519,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 599,
     name: "Back Hair 2",
     partTypeId: 12,
     colorId: 24,
@@ -8139,7 +7530,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 600,
     name: "Back Hair 3",
     partTypeId: 12,
     colorId: 13,
@@ -8151,7 +7541,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 601,
     name: "Back Hair 3",
     partTypeId: 12,
     colorId: 14,
@@ -8163,7 +7552,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 602,
     name: "Back Hair 3",
     partTypeId: 12,
     colorId: 15,
@@ -8175,7 +7563,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 603,
     name: "Back Hair 3",
     partTypeId: 12,
     colorId: 16,
@@ -8187,7 +7574,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 604,
     name: "Back Hair 3",
     partTypeId: 12,
     colorId: 17,
@@ -8199,7 +7585,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 605,
     name: "Back Hair 3",
     partTypeId: 12,
     colorId: 18,
@@ -8211,7 +7596,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 606,
     name: "Back Hair 3",
     partTypeId: 12,
     colorId: 19,
@@ -8223,7 +7607,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 607,
     name: "Back Hair 3",
     partTypeId: 12,
     colorId: 20,
@@ -8235,7 +7618,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 608,
     name: "Back Hair 3",
     partTypeId: 12,
     colorId: 21,
@@ -8247,7 +7629,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 609,
     name: "Back Hair 3",
     partTypeId: 12,
     colorId: 22,
@@ -8259,7 +7640,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 610,
     name: "Back Hair 3",
     partTypeId: 12,
     colorId: 23,
@@ -8271,7 +7651,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 611,
     name: "Back Hair 3",
     partTypeId: 12,
     colorId: 24,
@@ -8283,7 +7662,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 612,
     name: "Back Hair 4",
     partTypeId: 12,
     colorId: 13,
@@ -8295,7 +7673,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 613,
     name: "Back Hair 4",
     partTypeId: 12,
     colorId: 14,
@@ -8307,7 +7684,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 614,
     name: "Back Hair 4",
     partTypeId: 12,
     colorId: 15,
@@ -8319,7 +7695,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 615,
     name: "Back Hair 4",
     partTypeId: 12,
     colorId: 16,
@@ -8331,7 +7706,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 616,
     name: "Back Hair 4",
     partTypeId: 12,
     colorId: 17,
@@ -8343,7 +7717,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 617,
     name: "Back Hair 4",
     partTypeId: 12,
     colorId: 18,
@@ -8355,7 +7728,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 618,
     name: "Back Hair 4",
     partTypeId: 12,
     colorId: 19,
@@ -8367,7 +7739,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 619,
     name: "Back Hair 4",
     partTypeId: 12,
     colorId: 20,
@@ -8379,7 +7750,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 620,
     name: "Back Hair 4",
     partTypeId: 12,
     colorId: 21,
@@ -8391,7 +7761,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 621,
     name: "Back Hair 4",
     partTypeId: 12,
     colorId: 22,
@@ -8403,7 +7772,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 622,
     name: "Back Hair 4",
     partTypeId: 12,
     colorId: 23,
@@ -8415,7 +7783,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 623,
     name: "Back Hair 4",
     partTypeId: 12,
     colorId: 24,
@@ -8427,7 +7794,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 624,
     name: "Back Hair 5",
     partTypeId: 12,
     colorId: 13,
@@ -8439,7 +7805,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 625,
     name: "Back Hair 5",
     partTypeId: 12,
     colorId: 14,
@@ -8451,7 +7816,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 626,
     name: "Back Hair 5",
     partTypeId: 12,
     colorId: 15,
@@ -8463,7 +7827,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 627,
     name: "Back Hair 5",
     partTypeId: 12,
     colorId: 16,
@@ -8475,7 +7838,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 628,
     name: "Back Hair 5",
     partTypeId: 12,
     colorId: 17,
@@ -8487,7 +7849,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 629,
     name: "Back Hair 5",
     partTypeId: 12,
     colorId: 18,
@@ -8499,7 +7860,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 630,
     name: "Back Hair 5",
     partTypeId: 12,
     colorId: 19,
@@ -8511,7 +7871,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 631,
     name: "Back Hair 5",
     partTypeId: 12,
     colorId: 20,
@@ -8523,7 +7882,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 632,
     name: "Back Hair 5",
     partTypeId: 12,
     colorId: 21,
@@ -8535,7 +7893,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 633,
     name: "Back Hair 5",
     partTypeId: 12,
     colorId: 22,
@@ -8547,7 +7904,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 634,
     name: "Back Hair 5",
     partTypeId: 12,
     colorId: 23,
@@ -8559,7 +7915,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 635,
     name: "Back Hair 5",
     partTypeId: 12,
     colorId: 24,
@@ -8571,7 +7926,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 636,
     name: "Back Hair 6",
     partTypeId: 12,
     colorId: 13,
@@ -8583,7 +7937,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 637,
     name: "Back Hair 6",
     partTypeId: 12,
     colorId: 14,
@@ -8595,7 +7948,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 638,
     name: "Back Hair 6",
     partTypeId: 12,
     colorId: 15,
@@ -8607,7 +7959,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 639,
     name: "Back Hair 6",
     partTypeId: 12,
     colorId: 16,
@@ -8619,7 +7970,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 640,
     name: "Back Hair 6",
     partTypeId: 12,
     colorId: 17,
@@ -8631,7 +7981,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 641,
     name: "Back Hair 6",
     partTypeId: 12,
     colorId: 18,
@@ -8643,7 +7992,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 642,
     name: "Back Hair 6",
     partTypeId: 12,
     colorId: 19,
@@ -8655,7 +8003,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 643,
     name: "Back Hair 6",
     partTypeId: 12,
     colorId: 20,
@@ -8667,7 +8014,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 644,
     name: "Back Hair 6",
     partTypeId: 12,
     colorId: 21,
@@ -8679,7 +8025,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 645,
     name: "Back Hair 6",
     partTypeId: 12,
     colorId: 22,
@@ -8691,7 +8036,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 646,
     name: "Back Hair 6",
     partTypeId: 12,
     colorId: 23,
@@ -8703,7 +8047,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 647,
     name: "Back Hair 6",
     partTypeId: 12,
     colorId: 24,
@@ -8715,7 +8058,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 648,
     name: "Back Hair 7",
     partTypeId: 12,
     colorId: 13,
@@ -8727,7 +8069,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 649,
     name: "Back Hair 7",
     partTypeId: 12,
     colorId: 14,
@@ -8739,7 +8080,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 650,
     name: "Back Hair 7",
     partTypeId: 12,
     colorId: 15,
@@ -8751,7 +8091,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 651,
     name: "Back Hair 7",
     partTypeId: 12,
     colorId: 16,
@@ -8763,7 +8102,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 652,
     name: "Back Hair 7",
     partTypeId: 12,
     colorId: 17,
@@ -8775,7 +8113,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 653,
     name: "Back Hair 7",
     partTypeId: 12,
     colorId: 18,
@@ -8787,7 +8124,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 654,
     name: "Back Hair 7",
     partTypeId: 12,
     colorId: 19,
@@ -8799,7 +8135,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 655,
     name: "Back Hair 7",
     partTypeId: 12,
     colorId: 20,
@@ -8811,7 +8146,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 656,
     name: "Back Hair 7",
     partTypeId: 12,
     colorId: 21,
@@ -8823,7 +8157,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 657,
     name: "Back Hair 7",
     partTypeId: 12,
     colorId: 22,
@@ -8835,7 +8168,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 658,
     name: "Back Hair 7",
     partTypeId: 12,
     colorId: 23,
@@ -8847,7 +8179,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 659,
     name: "Back Hair 7",
     partTypeId: 12,
     colorId: 24,
@@ -8859,7 +8190,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 660,
     name: "Back Hair 8",
     partTypeId: 12,
     colorId: 13,
@@ -8871,7 +8201,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 661,
     name: "Back Hair 8",
     partTypeId: 12,
     colorId: 14,
@@ -8883,7 +8212,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 662,
     name: "Back Hair 8",
     partTypeId: 12,
     colorId: 15,
@@ -8895,7 +8223,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 663,
     name: "Back Hair 8",
     partTypeId: 12,
     colorId: 16,
@@ -8907,7 +8234,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 664,
     name: "Back Hair 8",
     partTypeId: 12,
     colorId: 17,
@@ -8919,7 +8245,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 665,
     name: "Back Hair 8",
     partTypeId: 12,
     colorId: 18,
@@ -8931,7 +8256,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 666,
     name: "Back Hair 8",
     partTypeId: 12,
     colorId: 19,
@@ -8943,7 +8267,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 667,
     name: "Back Hair 8",
     partTypeId: 12,
     colorId: 20,
@@ -8955,7 +8278,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 668,
     name: "Back Hair 8",
     partTypeId: 12,
     colorId: 21,
@@ -8967,7 +8289,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 669,
     name: "Back Hair 8",
     partTypeId: 12,
     colorId: 22,
@@ -8979,7 +8300,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 670,
     name: "Back Hair 8",
     partTypeId: 12,
     colorId: 23,
@@ -8991,7 +8311,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 671,
     name: "Back Hair 8",
     partTypeId: 12,
     colorId: 24,
@@ -9003,7 +8322,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 672,
     name: "Back Hair 9",
     partTypeId: 12,
     colorId: 13,
@@ -9015,7 +8333,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 673,
     name: "Back Hair 9",
     partTypeId: 12,
     colorId: 14,
@@ -9027,7 +8344,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 674,
     name: "Back Hair 9",
     partTypeId: 12,
     colorId: 15,
@@ -9039,7 +8355,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 675,
     name: "Back Hair 9",
     partTypeId: 12,
     colorId: 16,
@@ -9051,7 +8366,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 676,
     name: "Back Hair 9",
     partTypeId: 12,
     colorId: 17,
@@ -9063,7 +8377,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 677,
     name: "Back Hair 9",
     partTypeId: 12,
     colorId: 18,
@@ -9075,7 +8388,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 678,
     name: "Back Hair 9",
     partTypeId: 12,
     colorId: 19,
@@ -9087,7 +8399,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 679,
     name: "Back Hair 9",
     partTypeId: 12,
     colorId: 20,
@@ -9099,7 +8410,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 680,
     name: "Back Hair 9",
     partTypeId: 12,
     colorId: 21,
@@ -9111,7 +8421,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 681,
     name: "Back Hair 9",
     partTypeId: 12,
     colorId: 22,
@@ -9123,7 +8432,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 682,
     name: "Back Hair 9",
     partTypeId: 12,
     colorId: 23,
@@ -9135,7 +8443,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 683,
     name: "Back Hair 9",
     partTypeId: 12,
     colorId: 24,
@@ -9147,7 +8454,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 684,
     name: "Back Hair 10",
     partTypeId: 12,
     colorId: 13,
@@ -9159,7 +8465,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 685,
     name: "Back Hair 10",
     partTypeId: 12,
     colorId: 14,
@@ -9171,7 +8476,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 686,
     name: "Back Hair 10",
     partTypeId: 12,
     colorId: 15,
@@ -9183,7 +8487,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 687,
     name: "Back Hair 10",
     partTypeId: 12,
     colorId: 16,
@@ -9195,7 +8498,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 688,
     name: "Back Hair 10",
     partTypeId: 12,
     colorId: 17,
@@ -9207,7 +8509,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 689,
     name: "Back Hair 10",
     partTypeId: 12,
     colorId: 18,
@@ -9219,7 +8520,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 690,
     name: "Back Hair 10",
     partTypeId: 12,
     colorId: 19,
@@ -9231,7 +8531,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 691,
     name: "Back Hair 10",
     partTypeId: 12,
     colorId: 20,
@@ -9243,7 +8542,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 692,
     name: "Back Hair 10",
     partTypeId: 12,
     colorId: 21,
@@ -9255,7 +8553,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 693,
     name: "Back Hair 10",
     partTypeId: 12,
     colorId: 22,
@@ -9267,7 +8564,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 694,
     name: "Back Hair 10",
     partTypeId: 12,
     colorId: 23,
@@ -9279,7 +8575,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 695,
     name: "Back Hair 10",
     partTypeId: 12,
     colorId: 24,
@@ -9291,7 +8586,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 696,
     name: "Back Hair 11",
     partTypeId: 12,
     colorId: 13,
@@ -9303,7 +8597,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 697,
     name: "Back Hair 11",
     partTypeId: 12,
     colorId: 14,
@@ -9315,7 +8608,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 698,
     name: "Back Hair 11",
     partTypeId: 12,
     colorId: 15,
@@ -9327,7 +8619,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 699,
     name: "Back Hair 11",
     partTypeId: 12,
     colorId: 16,
@@ -9339,7 +8630,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 700,
     name: "Back Hair 11",
     partTypeId: 12,
     colorId: 17,
@@ -9351,7 +8641,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 701,
     name: "Back Hair 11",
     partTypeId: 12,
     colorId: 18,
@@ -9363,7 +8652,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 702,
     name: "Back Hair 11",
     partTypeId: 12,
     colorId: 19,
@@ -9375,7 +8663,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 703,
     name: "Back Hair 11",
     partTypeId: 12,
     colorId: 20,
@@ -9387,7 +8674,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 704,
     name: "Back Hair 11",
     partTypeId: 12,
     colorId: 21,
@@ -9399,7 +8685,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 705,
     name: "Back Hair 11",
     partTypeId: 12,
     colorId: 22,
@@ -9411,7 +8696,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 706,
     name: "Back Hair 11",
     partTypeId: 12,
     colorId: 23,
@@ -9423,7 +8707,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 707,
     name: "Back Hair 11",
     partTypeId: 12,
     colorId: 24,
@@ -9435,7 +8718,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 708,
     name: "Facial Hair 1",
     partTypeId: 6,
     colorId: 13,
@@ -9447,7 +8729,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 709,
     name: "Facial Hair 1",
     partTypeId: 6,
     colorId: 14,
@@ -9459,7 +8740,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 710,
     name: "Facial Hair 1",
     partTypeId: 6,
     colorId: 15,
@@ -9471,7 +8751,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 711,
     name: "Facial Hair 1",
     partTypeId: 6,
     colorId: 16,
@@ -9483,7 +8762,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 712,
     name: "Facial Hair 1",
     partTypeId: 6,
     colorId: 17,
@@ -9495,7 +8773,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 713,
     name: "Facial Hair 1",
     partTypeId: 6,
     colorId: 18,
@@ -9507,7 +8784,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 714,
     name: "Facial Hair 1",
     partTypeId: 6,
     colorId: 19,
@@ -9519,7 +8795,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 715,
     name: "Facial Hair 1",
     partTypeId: 6,
     colorId: 20,
@@ -9531,7 +8806,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 716,
     name: "Facial Hair 1",
     partTypeId: 6,
     colorId: 21,
@@ -9543,7 +8817,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 717,
     name: "Facial Hair 1",
     partTypeId: 6,
     colorId: 22,
@@ -9555,7 +8828,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 718,
     name: "Facial Hair 1",
     partTypeId: 6,
     colorId: 23,
@@ -9567,7 +8839,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 719,
     name: "Facial Hair 1",
     partTypeId: 6,
     colorId: 24,
@@ -9579,7 +8850,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 720,
     name: "Facial Hair 2",
     partTypeId: 6,
     colorId: 13,
@@ -9591,7 +8861,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 721,
     name: "Facial Hair 2",
     partTypeId: 6,
     colorId: 14,
@@ -9603,7 +8872,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 722,
     name: "Facial Hair 2",
     partTypeId: 6,
     colorId: 15,
@@ -9615,7 +8883,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 723,
     name: "Facial Hair 2",
     partTypeId: 6,
     colorId: 16,
@@ -9627,7 +8894,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 724,
     name: "Facial Hair 2",
     partTypeId: 6,
     colorId: 17,
@@ -9639,7 +8905,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 725,
     name: "Facial Hair 2",
     partTypeId: 6,
     colorId: 18,
@@ -9651,7 +8916,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 726,
     name: "Facial Hair 2",
     partTypeId: 6,
     colorId: 19,
@@ -9663,7 +8927,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 727,
     name: "Facial Hair 2",
     partTypeId: 6,
     colorId: 20,
@@ -9675,7 +8938,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 728,
     name: "Facial Hair 2",
     partTypeId: 6,
     colorId: 21,
@@ -9687,7 +8949,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 729,
     name: "Facial Hair 2",
     partTypeId: 6,
     colorId: 22,
@@ -9699,7 +8960,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 730,
     name: "Facial Hair 2",
     partTypeId: 6,
     colorId: 23,
@@ -9711,7 +8971,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 731,
     name: "Facial Hair 2",
     partTypeId: 6,
     colorId: 24,
@@ -9723,7 +8982,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 732,
     name: "Facial Hair 3",
     partTypeId: 6,
     colorId: 13,
@@ -9735,7 +8993,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 733,
     name: "Facial Hair 3",
     partTypeId: 6,
     colorId: 14,
@@ -9747,7 +9004,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 734,
     name: "Facial Hair 3",
     partTypeId: 6,
     colorId: 15,
@@ -9759,7 +9015,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 735,
     name: "Facial Hair 3",
     partTypeId: 6,
     colorId: 16,
@@ -9771,7 +9026,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 736,
     name: "Facial Hair 3",
     partTypeId: 6,
     colorId: 17,
@@ -9783,7 +9037,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 737,
     name: "Facial Hair 3",
     partTypeId: 6,
     colorId: 18,
@@ -9795,7 +9048,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 738,
     name: "Facial Hair 3",
     partTypeId: 6,
     colorId: 19,
@@ -9807,7 +9059,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 739,
     name: "Facial Hair 3",
     partTypeId: 6,
     colorId: 20,
@@ -9819,7 +9070,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 740,
     name: "Facial Hair 3",
     partTypeId: 6,
     colorId: 21,
@@ -9831,7 +9081,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 741,
     name: "Facial Hair 3",
     partTypeId: 6,
     colorId: 22,
@@ -9843,7 +9092,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 742,
     name: "Facial Hair 3",
     partTypeId: 6,
     colorId: 23,
@@ -9855,7 +9103,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 743,
     name: "Facial Hair 3",
     partTypeId: 6,
     colorId: 24,
@@ -9867,7 +9114,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 744,
     name: "Facial Hair 4",
     partTypeId: 6,
     colorId: 13,
@@ -9879,7 +9125,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 745,
     name: "Facial Hair 4",
     partTypeId: 6,
     colorId: 14,
@@ -9891,7 +9136,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 746,
     name: "Facial Hair 4",
     partTypeId: 6,
     colorId: 15,
@@ -9903,7 +9147,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 747,
     name: "Facial Hair 4",
     partTypeId: 6,
     colorId: 16,
@@ -9915,7 +9158,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 748,
     name: "Facial Hair 4",
     partTypeId: 6,
     colorId: 17,
@@ -9927,7 +9169,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 749,
     name: "Facial Hair 4",
     partTypeId: 6,
     colorId: 18,
@@ -9939,7 +9180,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 750,
     name: "Facial Hair 4",
     partTypeId: 6,
     colorId: 19,
@@ -9951,7 +9191,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 751,
     name: "Facial Hair 4",
     partTypeId: 6,
     colorId: 20,
@@ -9963,7 +9202,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 752,
     name: "Facial Hair 4",
     partTypeId: 6,
     colorId: 21,
@@ -9975,7 +9213,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 753,
     name: "Facial Hair 4",
     partTypeId: 6,
     colorId: 22,
@@ -9987,7 +9224,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 754,
     name: "Facial Hair 4",
     partTypeId: 6,
     colorId: 23,
@@ -9999,7 +9235,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 755,
     name: "Facial Hair 4",
     partTypeId: 6,
     colorId: 24,
@@ -10011,7 +9246,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 756,
     name: "Facial Hair 5",
     partTypeId: 6,
     colorId: 13,
@@ -10023,7 +9257,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 757,
     name: "Facial Hair 5",
     partTypeId: 6,
     colorId: 14,
@@ -10035,7 +9268,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 758,
     name: "Facial Hair 5",
     partTypeId: 6,
     colorId: 15,
@@ -10047,7 +9279,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 759,
     name: "Facial Hair 5",
     partTypeId: 6,
     colorId: 16,
@@ -10059,7 +9290,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 760,
     name: "Facial Hair 5",
     partTypeId: 6,
     colorId: 17,
@@ -10071,7 +9301,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 761,
     name: "Facial Hair 5",
     partTypeId: 6,
     colorId: 18,
@@ -10083,7 +9312,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 762,
     name: "Facial Hair 5",
     partTypeId: 6,
     colorId: 19,
@@ -10095,7 +9323,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 763,
     name: "Facial Hair 5",
     partTypeId: 6,
     colorId: 20,
@@ -10107,7 +9334,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 764,
     name: "Facial Hair 5",
     partTypeId: 6,
     colorId: 21,
@@ -10119,7 +9345,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 765,
     name: "Facial Hair 5",
     partTypeId: 6,
     colorId: 22,
@@ -10131,7 +9356,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 766,
     name: "Facial Hair 5",
     partTypeId: 6,
     colorId: 23,
@@ -10143,7 +9367,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 767,
     name: "Facial Hair 5",
     partTypeId: 6,
     colorId: 24,
@@ -10155,7 +9378,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 768,
     name: "Inner Shirt 1",
     bodyShapeId: 1,
     partTypeId: 2,
@@ -10168,7 +9390,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 769,
     name: "Inner Shirt 1",
     bodyShapeId: 1,
     partTypeId: 2,
@@ -10181,7 +9402,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 770,
     name: "Inner Shirt 1",
     bodyShapeId: 1,
     partTypeId: 2,
@@ -10194,7 +9414,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 771,
     name: "Inner Shirt 1",
     bodyShapeId: 1,
     partTypeId: 2,
@@ -10207,7 +9426,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 772,
     name: "Inner Shirt 1",
     bodyShapeId: 1,
     partTypeId: 2,
@@ -10220,7 +9438,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 773,
     name: "Inner Shirt 1",
     bodyShapeId: 1,
     partTypeId: 2,
@@ -10233,7 +9450,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 774,
     name: "Inner Shirt 1",
     bodyShapeId: 1,
     partTypeId: 2,
@@ -10246,7 +9462,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 775,
     name: "Inner Shirt 1",
     bodyShapeId: 1,
     partTypeId: 2,
@@ -10259,7 +9474,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 776,
     name: "Inner Shirt 2",
     bodyShapeId: 2,
     partTypeId: 2,
@@ -10272,7 +9486,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 777,
     name: "Inner Shirt 2",
     bodyShapeId: 2,
     partTypeId: 2,
@@ -10285,7 +9498,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 778,
     name: "Inner Shirt 2",
     bodyShapeId: 2,
     partTypeId: 2,
@@ -10298,7 +9510,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 779,
     name: "Inner Shirt 2",
     bodyShapeId: 2,
     partTypeId: 2,
@@ -10311,7 +9522,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 780,
     name: "Inner Shirt 2",
     bodyShapeId: 2,
     partTypeId: 2,
@@ -10324,7 +9534,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 781,
     name: "Inner Shirt 2",
     bodyShapeId: 2,
     partTypeId: 2,
@@ -10337,7 +9546,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 782,
     name: "Inner Shirt 2",
     bodyShapeId: 2,
     partTypeId: 2,
@@ -10350,7 +9558,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 783,
     name: "Inner Shirt 2",
     bodyShapeId: 2,
     partTypeId: 2,
@@ -10363,7 +9570,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 784,
     name: "Inner Shirt 3",
     bodyShapeId: 3,
     partTypeId: 2,
@@ -10376,7 +9582,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 785,
     name: "Inner Shirt 3",
     bodyShapeId: 3,
     partTypeId: 2,
@@ -10389,7 +9594,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 786,
     name: "Inner Shirt 3",
     bodyShapeId: 3,
     partTypeId: 2,
@@ -10402,7 +9606,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 787,
     name: "Inner Shirt 3",
     bodyShapeId: 3,
     partTypeId: 2,
@@ -10415,7 +9618,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 788,
     name: "Inner Shirt 3",
     bodyShapeId: 3,
     partTypeId: 2,
@@ -10428,7 +9630,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 789,
     name: "Inner Shirt 3",
     bodyShapeId: 3,
     partTypeId: 2,
@@ -10441,7 +9642,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 790,
     name: "Inner Shirt 3",
     bodyShapeId: 3,
     partTypeId: 2,
@@ -10454,7 +9654,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 791,
     name: "Inner Shirt 3",
     bodyShapeId: 3,
     partTypeId: 2,
@@ -10467,7 +9666,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 792,
     name: "Inner Shirt 4",
     bodyShapeId: 4,
     partTypeId: 2,
@@ -10480,7 +9678,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 793,
     name: "Inner Shirt 4",
     bodyShapeId: 4,
     partTypeId: 2,
@@ -10493,7 +9690,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 794,
     name: "Inner Shirt 4",
     bodyShapeId: 4,
     partTypeId: 2,
@@ -10506,7 +9702,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 795,
     name: "Inner Shirt 4",
     bodyShapeId: 4,
     partTypeId: 2,
@@ -10519,7 +9714,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 796,
     name: "Inner Shirt 4",
     bodyShapeId: 4,
     partTypeId: 2,
@@ -10532,7 +9726,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 797,
     name: "Inner Shirt 4",
     bodyShapeId: 4,
     partTypeId: 2,
@@ -10545,7 +9738,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 798,
     name: "Inner Shirt 4",
     bodyShapeId: 4,
     partTypeId: 2,
@@ -10558,7 +9750,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 799,
     name: "Inner Shirt 4",
     bodyShapeId: 4,
     partTypeId: 2,
@@ -10571,7 +9762,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 800,
     name: "Inner Shirt 5",
     bodyShapeId: 5,
     partTypeId: 2,
@@ -10584,7 +9774,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 801,
     name: "Inner Shirt 5",
     bodyShapeId: 5,
     partTypeId: 2,
@@ -10597,7 +9786,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 802,
     name: "Inner Shirt 5",
     bodyShapeId: 5,
     partTypeId: 2,
@@ -10610,7 +9798,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 803,
     name: "Inner Shirt 5",
     bodyShapeId: 5,
     partTypeId: 2,
@@ -10623,7 +9810,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 804,
     name: "Inner Shirt 5",
     bodyShapeId: 5,
     partTypeId: 2,
@@ -10636,7 +9822,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 805,
     name: "Inner Shirt 5",
     bodyShapeId: 5,
     partTypeId: 2,
@@ -10649,7 +9834,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 806,
     name: "Inner Shirt 5",
     bodyShapeId: 5,
     partTypeId: 2,
@@ -10662,7 +9846,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 807,
     name: "Inner Shirt 5",
     bodyShapeId: 5,
     partTypeId: 2,
@@ -10675,7 +9858,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 808,
     name: "Inner Shirt 6",
     bodyShapeId: 6,
     partTypeId: 2,
@@ -10688,7 +9870,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 809,
     name: "Inner Shirt 6",
     bodyShapeId: 6,
     partTypeId: 2,
@@ -10701,7 +9882,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 810,
     name: "Inner Shirt 6",
     bodyShapeId: 6,
     partTypeId: 2,
@@ -10714,7 +9894,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 811,
     name: "Inner Shirt 6",
     bodyShapeId: 6,
     partTypeId: 2,
@@ -10727,7 +9906,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 812,
     name: "Inner Shirt 6",
     bodyShapeId: 6,
     partTypeId: 2,
@@ -10740,7 +9918,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 813,
     name: "Inner Shirt 6",
     bodyShapeId: 6,
     partTypeId: 2,
@@ -10753,7 +9930,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 814,
     name: "Inner Shirt 6",
     bodyShapeId: 6,
     partTypeId: 2,
@@ -10766,7 +9942,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 815,
     name: "Inner Shirt 6",
     bodyShapeId: 6,
     partTypeId: 2,
@@ -10779,7 +9954,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 816,
     name: "Inner Shirt 7",
     bodyShapeId: 7,
     partTypeId: 2,
@@ -10792,7 +9966,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 817,
     name: "Inner Shirt 7",
     bodyShapeId: 7,
     partTypeId: 2,
@@ -10805,7 +9978,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 818,
     name: "Inner Shirt 7",
     bodyShapeId: 7,
     partTypeId: 2,
@@ -10818,7 +9990,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 819,
     name: "Inner Shirt 7",
     bodyShapeId: 7,
     partTypeId: 2,
@@ -10831,7 +10002,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 820,
     name: "Inner Shirt 7",
     bodyShapeId: 7,
     partTypeId: 2,
@@ -10844,7 +10014,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 821,
     name: "Inner Shirt 7",
     bodyShapeId: 7,
     partTypeId: 2,
@@ -10857,7 +10026,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 822,
     name: "Inner Shirt 7",
     bodyShapeId: 7,
     partTypeId: 2,
@@ -10870,7 +10038,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 823,
     name: "Inner Shirt 7",
     bodyShapeId: 7,
     partTypeId: 2,
@@ -10883,7 +10050,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 824,
     name: "Inner Shirt 8",
     bodyShapeId: 8,
     partTypeId: 2,
@@ -10896,7 +10062,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 825,
     name: "Inner Shirt 8",
     bodyShapeId: 8,
     partTypeId: 2,
@@ -10909,7 +10074,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 826,
     name: "Inner Shirt 8",
     bodyShapeId: 8,
     partTypeId: 2,
@@ -10922,7 +10086,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 827,
     name: "Inner Shirt 8",
     bodyShapeId: 8,
     partTypeId: 2,
@@ -10935,7 +10098,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 828,
     name: "Inner Shirt 8",
     bodyShapeId: 8,
     partTypeId: 2,
@@ -10948,7 +10110,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 829,
     name: "Inner Shirt 8",
     bodyShapeId: 8,
     partTypeId: 2,
@@ -10961,7 +10122,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 830,
     name: "Inner Shirt 8",
     bodyShapeId: 8,
     partTypeId: 2,
@@ -10974,7 +10134,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 831,
     name: "Inner Shirt 8",
     bodyShapeId: 8,
     partTypeId: 2,
@@ -10987,7 +10146,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 832,
     name: "Inner Shirt 9",
     bodyShapeId: 9,
     partTypeId: 2,
@@ -11000,7 +10158,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 833,
     name: "Inner Shirt 9",
     bodyShapeId: 9,
     partTypeId: 2,
@@ -11013,7 +10170,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 834,
     name: "Inner Shirt 9",
     bodyShapeId: 9,
     partTypeId: 2,
@@ -11026,7 +10182,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 835,
     name: "Inner Shirt 9",
     bodyShapeId: 9,
     partTypeId: 2,
@@ -11039,7 +10194,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 836,
     name: "Inner Shirt 9",
     bodyShapeId: 9,
     partTypeId: 2,
@@ -11052,7 +10206,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 837,
     name: "Inner Shirt 9",
     bodyShapeId: 9,
     partTypeId: 2,
@@ -11065,7 +10218,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 838,
     name: "Inner Shirt 9",
     bodyShapeId: 9,
     partTypeId: 2,
@@ -11078,7 +10230,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 839,
     name: "Inner Shirt 9",
     bodyShapeId: 9,
     partTypeId: 2,
@@ -11091,7 +10242,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 840,
     name: "Inner Shirt 10",
     bodyShapeId: 10,
     partTypeId: 2,
@@ -11104,7 +10254,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 841,
     name: "Inner Shirt 10",
     bodyShapeId: 10,
     partTypeId: 2,
@@ -11117,7 +10266,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 842,
     name: "Inner Shirt 10",
     bodyShapeId: 10,
     partTypeId: 2,
@@ -11130,7 +10278,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 843,
     name: "Inner Shirt 10",
     bodyShapeId: 10,
     partTypeId: 2,
@@ -11143,7 +10290,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 844,
     name: "Inner Shirt 10",
     bodyShapeId: 10,
     partTypeId: 2,
@@ -11156,7 +10302,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 845,
     name: "Inner Shirt 10",
     bodyShapeId: 10,
     partTypeId: 2,
@@ -11169,7 +10314,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 846,
     name: "Inner Shirt 10",
     bodyShapeId: 10,
     partTypeId: 2,
@@ -11182,7 +10326,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 847,
     name: "Inner Shirt 10",
     bodyShapeId: 10,
     partTypeId: 2,
@@ -11195,7 +10338,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 848,
     name: "Inner Shirt 11",
     bodyShapeId: 11,
     partTypeId: 2,
@@ -11208,7 +10350,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 849,
     name: "Inner Shirt 11",
     bodyShapeId: 11,
     partTypeId: 2,
@@ -11221,7 +10362,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 850,
     name: "Inner Shirt 11",
     bodyShapeId: 11,
     partTypeId: 2,
@@ -11234,7 +10374,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 851,
     name: "Inner Shirt 11",
     bodyShapeId: 11,
     partTypeId: 2,
@@ -11247,7 +10386,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 852,
     name: "Inner Shirt 11",
     bodyShapeId: 11,
     partTypeId: 2,
@@ -11260,7 +10398,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 853,
     name: "Inner Shirt 11",
     bodyShapeId: 11,
     partTypeId: 2,
@@ -11273,7 +10410,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 854,
     name: "Inner Shirt 11",
     bodyShapeId: 11,
     partTypeId: 2,
@@ -11286,7 +10422,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 855,
     name: "Inner Shirt 11",
     bodyShapeId: 11,
     partTypeId: 2,
@@ -11299,7 +10434,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 856,
     name: "Inner Shirt 12",
     bodyShapeId: 12,
     partTypeId: 2,
@@ -11312,7 +10446,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 857,
     name: "Inner Shirt 12",
     bodyShapeId: 12,
     partTypeId: 2,
@@ -11325,7 +10458,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 858,
     name: "Inner Shirt 12",
     bodyShapeId: 12,
     partTypeId: 2,
@@ -11338,7 +10470,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 859,
     name: "Inner Shirt 12",
     bodyShapeId: 12,
     partTypeId: 2,
@@ -11351,7 +10482,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 860,
     name: "Inner Shirt 12",
     bodyShapeId: 12,
     partTypeId: 2,
@@ -11364,7 +10494,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 861,
     name: "Inner Shirt 12",
     bodyShapeId: 12,
     partTypeId: 2,
@@ -11377,7 +10506,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 862,
     name: "Inner Shirt 12",
     bodyShapeId: 12,
     partTypeId: 2,
@@ -11390,7 +10518,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 863,
     name: "Inner Shirt 12",
     bodyShapeId: 12,
     partTypeId: 2,
@@ -11403,7 +10530,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 864,
     name: "Shirt Buttoned 1",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -11424,7 +10550,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 865,
     name: "Shirt Buttoned 1",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -11445,7 +10570,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 866,
     name: "Shirt Buttoned 1",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -11466,7 +10590,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 867,
     name: "Shirt Buttoned 1",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -11487,7 +10610,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 868,
     name: "Shirt Buttoned 1",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -11508,7 +10630,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 869,
     name: "Shirt Buttoned 1",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -11529,7 +10650,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 870,
     name: "Shirt Buttoned 1",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -11550,7 +10670,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 871,
     name: "Shirt Buttoned 1",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -11571,7 +10690,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 872,
     name: "Shirt buttoned 1",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -11592,7 +10710,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 873,
     name: "Shirt buttoned 1",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -11613,7 +10730,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 874,
     name: "Shirt buttoned 1",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -11634,7 +10750,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 875,
     name: "Shirt buttoned 1",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -11655,7 +10770,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 876,
     name: "Shirt buttoned 1",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -11676,7 +10790,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 877,
     name: "Shirt buttoned 1",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -11697,7 +10810,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 878,
     name: "Shirt Buttoned 1",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -11718,7 +10830,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 879,
     name: "Shirt Buttoned 1",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -11739,7 +10850,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 880,
     name: "Shirt Buttoned 1",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -11760,7 +10870,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 881,
     name: "Shirt Buttoned 1",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -11781,7 +10890,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 882,
     name: "Shirt Buttoned 1",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -11802,7 +10910,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 883,
     name: "Shirt Buttoned 1",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -11823,7 +10930,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 884,
     name: "Shirt Buttoned 1",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -11844,7 +10950,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 885,
     name: "Shirt Buttoned 1",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -11865,7 +10970,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 886,
     name: "Shirt Buttoned 1",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -11886,7 +10990,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 887,
     name: "Shirt Buttoned 1",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -11907,7 +11010,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 888,
     name: "Shirt Buttoned 1",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -11928,7 +11030,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 889,
     name: "Shirt Buttoned 1",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -11949,7 +11050,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 890,
     name: "Shirt Buttoned 1",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -11970,7 +11070,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 891,
     name: "Shirt Buttoned 1",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -11991,7 +11090,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 892,
     name: "Shirt Buttoned 1",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -12012,7 +11110,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 893,
     name: "Shirt Buttoned 1",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -12033,7 +11130,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 894,
     name: "Shirt Buttoned 1",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -12054,7 +11150,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 895,
     name: "Shirt Buttoned 1",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -12075,7 +11170,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 896,
     name: "Shirt Buttoned 1",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -12096,7 +11190,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 897,
     name: "Shirt Buttoned 1",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -12117,7 +11210,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 898,
     name: "Shirt Buttoned 1",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -12138,7 +11230,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 899,
     name: "Shirt Buttoned 1",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -12159,7 +11250,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 900,
     name: "Shirt Buttoned 1",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -12180,7 +11270,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 901,
     name: "Shirt Buttoned 1",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -12201,7 +11290,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 902,
     name: "Shirt Buttoned 1",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -12222,7 +11310,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 903,
     name: "Shirt Buttoned 1",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -12243,7 +11330,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 904,
     name: "Shirt Buttoned 1",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -12264,7 +11350,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 905,
     name: "Shirt Buttoned 1",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -12285,7 +11370,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 906,
     name: "Shirt Buttoned 1",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -12306,7 +11390,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 907,
     name: "Shirt Buttoned 1",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -12327,7 +11410,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 908,
     name: "Shirt Buttoned 1",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -12348,7 +11430,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 909,
     name: "Shirt Buttoned 1",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -12369,7 +11450,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 910,
     name: "Shirt Buttoned 1",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -12390,7 +11470,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 911,
     name: "Shirt Buttoned 1",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -12411,7 +11490,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 912,
     name: "Shirt Buttoned 1",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -12432,7 +11510,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 913,
     name: "Shirt Buttoned 1",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -12453,7 +11530,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 914,
     name: "Shirt Buttoned 1",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -12474,7 +11550,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 915,
     name: "Shirt Buttoned 1",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -12495,7 +11570,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 916,
     name: "Shirt Buttoned 1",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -12516,7 +11590,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 917,
     name: "Shirt Buttoned 1",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -12537,7 +11610,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 918,
     name: "Shirt Buttoned 1",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -12558,7 +11630,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 919,
     name: "Shirt Buttoned 1",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -12579,7 +11650,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 920,
     name: "Shirt Buttoned 1",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -12600,7 +11670,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 921,
     name: "Shirt Buttoned 1",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -12621,7 +11690,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 922,
     name: "Shirt Buttoned 1",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -12642,7 +11710,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 923,
     name: "Shirt Buttoned 1",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -12663,7 +11730,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 924,
     name: "Shirt Buttoned 1",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -12684,7 +11750,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 925,
     name: "Shirt Buttoned 1",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -12705,7 +11770,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 926,
     name: "Shirt Buttoned 1",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -12726,7 +11790,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 927,
     name: "Shirt Buttoned 1",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -12747,7 +11810,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 928,
     name: "Shirt Buttoned 1",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -12768,7 +11830,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 929,
     name: "Shirt Buttoned 1",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -12789,7 +11850,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 930,
     name: "Shirt Buttoned 1",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -12810,7 +11870,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 931,
     name: "Shirt Buttoned 1",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -12831,7 +11890,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 932,
     name: "Shirt Buttoned 1",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -12852,7 +11910,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 933,
     name: "Shirt Buttoned 1",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -12873,7 +11930,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 934,
     name: "Shirt Buttoned 1",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -12894,7 +11950,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 935,
     name: "Shirt Buttoned 1",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -12915,7 +11970,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 936,
     name: "Shirt Buttoned 1",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -12936,7 +11990,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 937,
     name: "Shirt Buttoned 1",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -12957,7 +12010,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 938,
     name: "Shirt Buttoned 1",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -12978,7 +12030,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 939,
     name: "Shirt Buttoned 1",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -12999,7 +12050,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 940,
     name: "Shirt Buttoned 1",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -13020,7 +12070,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 941,
     name: "Shirt Buttoned 1",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -13041,7 +12090,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 942,
     name: "Shirt Buttoned 1",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -13062,7 +12110,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 943,
     name: "Shirt Buttoned 1",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -13083,7 +12130,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 944,
     name: "Shirt Buttoned 1",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -13104,7 +12150,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 945,
     name: "Shirt Buttoned 1",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -13125,7 +12170,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 946,
     name: "Shirt Buttoned 1",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -13146,7 +12190,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 947,
     name: "Shirt Buttoned 1",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -13167,7 +12210,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 948,
     name: "Shirt Buttoned 1",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -13188,7 +12230,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 949,
     name: "Shirt Buttoned 1",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -13209,7 +12250,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 950,
     name: "Shirt Buttoned 1",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -13230,7 +12270,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 951,
     name: "Shirt Buttoned 1",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -13251,7 +12290,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 952,
     name: "Shirt Buttoned 1",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -13272,7 +12310,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 953,
     name: "Shirt Buttoned 1",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -13293,7 +12330,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 954,
     name: "Shirt Buttoned 1",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -13314,7 +12350,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 955,
     name: "Shirt Buttoned 1",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -13335,7 +12370,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 956,
     name: "Shirt Buttoned 1",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -13356,7 +12390,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 957,
     name: "Shirt Buttoned 1",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -13377,7 +12410,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 958,
     name: "Shirt Buttoned 1",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -13398,7 +12430,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 959,
     name: "Shirt Buttoned 1",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -13419,7 +12450,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 960,
     name: "Shirt Buttoned 2",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -13440,7 +12470,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 961,
     name: "Shirt Buttoned 2",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -13461,7 +12490,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 962,
     name: "Shirt Buttoned 2",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -13482,7 +12510,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 963,
     name: "Shirt Buttoned 2",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -13503,7 +12530,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 964,
     name: "Shirt Buttoned 2",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -13524,7 +12550,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 965,
     name: "Shirt Buttoned 2",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -13545,7 +12570,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 966,
     name: "Shirt Buttoned 2",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -13566,7 +12590,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 967,
     name: "Shirt Buttoned 2",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -13587,7 +12610,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 968,
     name: "Shirt Buttoned 2",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -13608,7 +12630,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 969,
     name: "Shirt Buttoned 2",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -13629,7 +12650,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 970,
     name: "Shirt Buttoned 2",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -13650,7 +12670,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 971,
     name: "Shirt Buttoned 2",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -13671,7 +12690,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 972,
     name: "Shirt Buttoned 2",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -13692,7 +12710,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 973,
     name: "Shirt Buttoned 2",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -13713,7 +12730,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 974,
     name: "Shirt Buttoned 2",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -13734,7 +12750,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 975,
     name: "Shirt Buttoned 2",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -13755,7 +12770,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 976,
     name: "Shirt Buttoned 2",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -13776,7 +12790,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 977,
     name: "Shirt Buttoned 2",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -13797,7 +12810,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 978,
     name: "Shirt Buttoned 2",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -13818,7 +12830,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 979,
     name: "Shirt Buttoned 2",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -13839,7 +12850,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 980,
     name: "Shirt Buttoned 2",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -13860,7 +12870,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 981,
     name: "Shirt Buttoned 2",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -13881,7 +12890,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 982,
     name: "Shirt Buttoned 2",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -13902,7 +12910,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 983,
     name: "Shirt Buttoned 2",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -13923,7 +12930,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 984,
     name: "Shirt Buttoned 2",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -13944,7 +12950,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 985,
     name: "Shirt Buttoned 2",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -13965,7 +12970,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 986,
     name: "Shirt Buttoned 2",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -13986,7 +12990,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 987,
     name: "Shirt Buttoned 2",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -14007,7 +13010,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 988,
     name: "Shirt Buttoned 2",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -14028,7 +13030,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 989,
     name: "Shirt Buttoned 2",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -14049,7 +13050,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 990,
     name: "Shirt Buttoned 2",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -14070,7 +13070,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 991,
     name: "Shirt Buttoned 2",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -14091,7 +13090,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 992,
     name: "Shirt Buttoned 2",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -14112,7 +13110,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 993,
     name: "Shirt Buttoned 2",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -14133,7 +13130,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 994,
     name: "Shirt Buttoned 2",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -14154,7 +13150,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 995,
     name: "Shirt Buttoned 2",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -14175,7 +13170,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 996,
     name: "Shirt Buttoned 2",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -14196,7 +13190,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 997,
     name: "Shirt Buttoned 2",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -14217,7 +13210,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 998,
     name: "Shirt Buttoned 2",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -14238,7 +13230,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 999,
     name: "Shirt Buttoned 2",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -14259,7 +13250,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1000,
     name: "Shirt Buttoned 2",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -14280,7 +13270,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1001,
     name: "Shirt Buttoned 2",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -14301,7 +13290,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1002,
     name: "Shirt Buttoned 2",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -14322,7 +13310,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1003,
     name: "Shirt Buttoned 2",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -14343,7 +13330,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1004,
     name: "Shirt Buttoned 2",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -14364,7 +13350,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1005,
     name: "Shirt Buttoned 2",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -14385,7 +13370,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1006,
     name: "Shirt Buttoned 2",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -14406,7 +13390,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1007,
     name: "Shirt Buttoned 2",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -14427,7 +13410,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1008,
     name: "Shirt Buttoned 2",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -14448,7 +13430,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1009,
     name: "Shirt Buttoned 2",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -14469,7 +13450,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1010,
     name: "Shirt Buttoned 2",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -14490,7 +13470,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1011,
     name: "Shirt Buttoned 2",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -14511,7 +13490,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1012,
     name: "Shirt Buttoned 2",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -14532,7 +13510,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1013,
     name: "Shirt Buttoned 2",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -14553,7 +13530,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1014,
     name: "Shirt Buttoned 2",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -14574,7 +13550,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1015,
     name: "Shirt Buttoned 2",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -14595,7 +13570,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1016,
     name: "Shirt Buttoned 2",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -14616,7 +13590,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1017,
     name: "Shirt Buttoned 2",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -14637,7 +13610,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1018,
     name: "Shirt Buttoned 2",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -14658,7 +13630,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1019,
     name: "Shirt Buttoned 2",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -14679,7 +13650,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1020,
     name: "Shirt Buttoned 2",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -14700,7 +13670,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1021,
     name: "Shirt Buttoned 2",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -14721,7 +13690,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1022,
     name: "Shirt Buttoned 2",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -14742,7 +13710,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1023,
     name: "Shirt Buttoned 2",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -14763,7 +13730,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1024,
     name: "Shirt Buttoned 2",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -14784,7 +13750,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1025,
     name: "Shirt Buttoned 2",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -14805,7 +13770,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1026,
     name: "Shirt Buttoned 2",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -14826,7 +13790,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1027,
     name: "Shirt Buttoned 2",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -14847,7 +13810,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1028,
     name: "Shirt Buttoned 2",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -14868,7 +13830,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1029,
     name: "Shirt Buttoned 2",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -14889,7 +13850,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1030,
     name: "Shirt Buttoned 2",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -14910,7 +13870,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1031,
     name: "Shirt Buttoned 2",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -14931,7 +13890,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1032,
     name: "Shirt Buttoned 2",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -14952,7 +13910,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1033,
     name: "Shirt Buttoned 2",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -14973,7 +13930,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1034,
     name: "Shirt Buttoned 2",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -14994,7 +13950,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1035,
     name: "Shirt Buttoned 2",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -15015,7 +13970,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1036,
     name: "Shirt Buttoned 2",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -15036,7 +13990,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1037,
     name: "Shirt Buttoned 2",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -15057,7 +14010,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1038,
     name: "Shirt Buttoned 2",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -15078,7 +14030,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1039,
     name: "Shirt Buttoned 2",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -15099,7 +14050,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1040,
     name: "Shirt Buttoned 2",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -15120,7 +14070,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1041,
     name: "Shirt Buttoned 2",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -15141,7 +14090,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1042,
     name: "Shirt Buttoned 2",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -15162,7 +14110,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1043,
     name: "Shirt Buttoned 2",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -15183,7 +14130,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1044,
     name: "Shirt Buttoned 2",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -15204,7 +14150,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1045,
     name: "Shirt Buttoned 2",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -15225,7 +14170,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1046,
     name: "Shirt Buttoned 2",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -15246,7 +14190,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1047,
     name: "Shirt Buttoned 2",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -15267,7 +14210,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1048,
     name: "Shirt Buttoned 2",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -15288,7 +14230,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1049,
     name: "Shirt Buttoned 2",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -15309,7 +14250,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1050,
     name: "Shirt Buttoned 2",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -15330,7 +14270,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1051,
     name: "Shirt Buttoned 2",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -15351,7 +14290,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1052,
     name: "Shirt Buttoned 2",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -15372,7 +14310,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1053,
     name: "Shirt Buttoned 2",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -15393,7 +14330,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1054,
     name: "Shirt Buttoned 2",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -15414,7 +14350,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1055,
     name: "Shirt Buttoned 2",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -15435,7 +14370,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1056,
     name: "Shirt Buttoned 3",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -15456,7 +14390,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1057,
     name: "Shirt Buttoned 3",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -15477,7 +14410,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1058,
     name: "Shirt Buttoned 3",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -15498,7 +14430,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1059,
     name: "Shirt Buttoned 3",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -15519,7 +14450,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1060,
     name: "Shirt Buttoned 3",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -15540,7 +14470,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1061,
     name: "Shirt Buttoned 3",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -15561,7 +14490,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1062,
     name: "Shirt Buttoned 3",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -15582,7 +14510,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1063,
     name: "Shirt Buttoned 3",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -15603,7 +14530,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1064,
     name: "Shirt Buttoned 3",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -15624,7 +14550,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1065,
     name: "Shirt Buttoned 3",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -15645,7 +14570,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1066,
     name: "Shirt Buttoned 3",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -15666,7 +14590,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1067,
     name: "Shirt Buttoned 3",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -15687,7 +14610,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1068,
     name: "Shirt Buttoned 3",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -15708,7 +14630,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1069,
     name: "Shirt Buttoned 3",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -15729,7 +14650,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1070,
     name: "Shirt Buttoned 3",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -15750,7 +14670,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1071,
     name: "Shirt Buttoned 3",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -15771,7 +14690,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1072,
     name: "Shirt Buttoned 3",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -15792,7 +14710,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1073,
     name: "Shirt Buttoned 3",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -15813,7 +14730,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1074,
     name: "Shirt Buttoned 3",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -15834,7 +14750,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1075,
     name: "Shirt Buttoned 3",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -15855,7 +14770,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1076,
     name: "Shirt Buttoned 3",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -15876,7 +14790,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1077,
     name: "Shirt Buttoned 3",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -15897,7 +14810,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1078,
     name: "Shirt Buttoned 3",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -15918,7 +14830,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1079,
     name: "Shirt Buttoned 3",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -15939,7 +14850,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1080,
     name: "Shirt Buttoned 3",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -15960,7 +14870,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1081,
     name: "Shirt Buttoned 3",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -15981,7 +14890,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1082,
     name: "Shirt Buttoned 3",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -16002,7 +14910,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1083,
     name: "Shirt Buttoned 3",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -16023,7 +14930,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1084,
     name: "Shirt Buttoned 3",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -16044,7 +14950,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1085,
     name: "Shirt Buttoned 3",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -16065,7 +14970,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1086,
     name: "Shirt Buttoned 3",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -16086,7 +14990,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1087,
     name: "Shirt Buttoned 3",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -16107,7 +15010,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1088,
     name: "Shirt Buttoned 3",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -16128,7 +15030,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1089,
     name: "Shirt Buttoned 3",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -16149,7 +15050,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1090,
     name: "Shirt Buttoned 3",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -16170,7 +15070,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1091,
     name: "Shirt Buttoned 3",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -16191,7 +15090,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1092,
     name: "Shirt Buttoned 3",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -16212,7 +15110,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1093,
     name: "Shirt Buttoned 3",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -16233,7 +15130,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1094,
     name: "Shirt Buttoned 3",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -16254,7 +15150,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1095,
     name: "Shirt Buttoned 3",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -16275,7 +15170,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1096,
     name: "Shirt Buttoned 3",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -16296,7 +15190,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1097,
     name: "Shirt Buttoned 3",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -16317,7 +15210,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1098,
     name: "Shirt Buttoned 3",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -16338,7 +15230,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1099,
     name: "Shirt Buttoned 3",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -16359,7 +15250,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1100,
     name: "Shirt Buttoned 3",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -16380,7 +15270,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1101,
     name: "Shirt Buttoned 3",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -16401,7 +15290,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1102,
     name: "Shirt Buttoned 3",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -16422,7 +15310,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1103,
     name: "Shirt Buttoned 3",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -16443,7 +15330,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1104,
     name: "Shirt Buttoned 3",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -16464,7 +15350,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1105,
     name: "Shirt Buttoned 3",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -16485,7 +15370,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1106,
     name: "Shirt Buttoned 3",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -16506,7 +15390,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1107,
     name: "Shirt Buttoned 3",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -16527,7 +15410,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1108,
     name: "Shirt Buttoned 3",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -16548,7 +15430,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1109,
     name: "Shirt Buttoned 3",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -16569,7 +15450,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1110,
     name: "Shirt Buttoned 3",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -16590,7 +15470,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1111,
     name: "Shirt Buttoned 3",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -16611,7 +15490,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1112,
     name: "Shirt Buttoned 3",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -16632,7 +15510,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1113,
     name: "Shirt Buttoned 3",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -16653,7 +15530,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1114,
     name: "Shirt Buttoned 3",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -16674,7 +15550,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1115,
     name: "Shirt Buttoned 3",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -16695,7 +15570,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1116,
     name: "Shirt Buttoned 3",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -16716,7 +15590,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1117,
     name: "Shirt Buttoned 3",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -16737,7 +15610,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1118,
     name: "Shirt Buttoned 3",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -16758,7 +15630,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1119,
     name: "Shirt Buttoned 3",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -16779,7 +15650,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1120,
     name: "Shirt Buttoned 3",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -16800,7 +15670,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1121,
     name: "Shirt Buttoned 3",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -16821,7 +15690,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1122,
     name: "Shirt Buttoned 3",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -16842,7 +15710,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1123,
     name: "Shirt Buttoned 3",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -16863,7 +15730,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1124,
     name: "Shirt Buttoned 3",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -16884,7 +15750,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1125,
     name: "Shirt Buttoned 3",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -16905,7 +15770,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1126,
     name: "Shirt Buttoned 3",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -16926,7 +15790,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1127,
     name: "Shirt Buttoned 3",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -16947,7 +15810,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1128,
     name: "Shirt Buttoned 3",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -16968,7 +15830,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1129,
     name: "Shirt Buttoned 3",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -16989,7 +15850,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1130,
     name: "Shirt Buttoned 3",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -17010,7 +15870,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1131,
     name: "Shirt Buttoned 3",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -17031,7 +15890,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1132,
     name: "Shirt Buttoned 3",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -17052,7 +15910,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1133,
     name: "Shirt Buttoned 3",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -17073,7 +15930,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1134,
     name: "Shirt Buttoned 3",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -17094,7 +15950,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1135,
     name: "Shirt Buttoned 3",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -17115,7 +15970,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1136,
     name: "Shirt Buttoned 3",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -17136,7 +15990,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1137,
     name: "Shirt Buttoned 3",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -17157,7 +16010,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1138,
     name: "Shirt Buttoned 3",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -17178,7 +16030,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1139,
     name: "Shirt Buttoned 3",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -17199,7 +16050,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1140,
     name: "Shirt Buttoned 3",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -17220,7 +16070,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1141,
     name: "Shirt Buttoned 3",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -17241,7 +16090,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1142,
     name: "Shirt Buttoned 3",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -17262,7 +16110,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1143,
     name: "Shirt Buttoned 3",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -17283,7 +16130,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1144,
     name: "Shirt Buttoned 3",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -17304,7 +16150,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1145,
     name: "Shirt Buttoned 3",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -17325,7 +16170,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1146,
     name: "Shirt Buttoned 3",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -17346,7 +16190,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1147,
     name: "Shirt Buttoned 3",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -17367,7 +16210,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1148,
     name: "Shirt Buttoned 3",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -17388,7 +16230,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1149,
     name: "Shirt Buttoned 3",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -17409,7 +16250,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1150,
     name: "Shirt Buttoned 3",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -17430,7 +16270,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1151,
     name: "Shirt Buttoned 3",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -17451,7 +16290,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1152,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -17472,7 +16310,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1153,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -17493,7 +16330,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1154,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -17514,7 +16350,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1155,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -17535,7 +16370,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1156,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -17556,7 +16390,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1157,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -17577,7 +16410,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1158,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -17598,7 +16430,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1159,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -17619,7 +16450,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1160,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -17640,7 +16470,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1161,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -17661,7 +16490,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1162,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -17682,7 +16510,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1163,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -17703,7 +16530,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1164,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -17724,7 +16550,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1165,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -17745,7 +16570,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1166,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -17766,7 +16590,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1167,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -17787,7 +16610,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1168,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -17808,7 +16630,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1169,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -17829,7 +16650,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1170,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -17850,7 +16670,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1171,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -17871,7 +16690,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1172,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -17892,7 +16710,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1173,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -17913,7 +16730,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1174,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -17934,7 +16750,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1175,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -17955,7 +16770,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1176,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -17976,7 +16790,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1177,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -17997,7 +16810,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1178,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -18018,7 +16830,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1179,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -18039,7 +16850,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1180,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -18060,7 +16870,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1181,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -18081,7 +16890,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1182,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -18102,7 +16910,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1183,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -18123,7 +16930,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1184,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -18144,7 +16950,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1185,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -18165,7 +16970,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1186,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -18186,7 +16990,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1187,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -18207,7 +17010,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1188,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -18228,7 +17030,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1189,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -18249,7 +17050,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1190,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -18270,7 +17070,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1191,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -18291,7 +17090,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1192,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -18312,7 +17110,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1193,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -18333,7 +17130,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1194,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -18354,7 +17150,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1195,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -18375,7 +17170,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1196,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -18396,7 +17190,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1197,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -18417,7 +17210,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1198,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -18438,7 +17230,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1199,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -18459,7 +17250,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1200,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -18480,7 +17270,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1201,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -18501,7 +17290,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1202,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -18522,7 +17310,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1203,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -18543,7 +17330,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1204,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -18564,7 +17350,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1205,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -18585,7 +17370,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1206,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -18606,7 +17390,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1207,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -18627,7 +17410,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1208,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -18648,7 +17430,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1209,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -18669,7 +17450,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1210,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -18690,7 +17470,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1211,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -18711,7 +17490,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1212,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -18732,7 +17510,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1213,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -18753,7 +17530,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1214,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -18774,7 +17550,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1215,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -18795,7 +17570,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1216,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -18816,7 +17590,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1217,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -18837,7 +17610,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1218,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -18858,7 +17630,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1219,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -18879,7 +17650,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1220,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -18900,7 +17670,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1221,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -18921,7 +17690,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1222,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -18942,7 +17710,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1223,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -18963,7 +17730,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1224,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -18984,7 +17750,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1225,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -19005,7 +17770,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1226,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -19026,7 +17790,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1227,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -19047,7 +17810,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1228,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -19068,7 +17830,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1229,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -19089,7 +17850,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1230,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -19110,7 +17870,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1231,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -19131,7 +17890,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1232,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -19152,7 +17910,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1233,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -19173,7 +17930,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1234,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -19194,7 +17950,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1235,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -19215,7 +17970,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1236,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -19236,7 +17990,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1237,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -19257,7 +18010,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1238,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -19278,7 +18030,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1239,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -19299,7 +18050,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1240,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -19320,7 +18070,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1241,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -19341,7 +18090,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1242,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -19362,7 +18110,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1243,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -19383,7 +18130,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1244,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -19404,7 +18150,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1245,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -19425,7 +18170,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1246,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -19446,7 +18190,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1247,
     name: "Shirt Unbuttoned 1",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -19467,7 +18210,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1248,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -19488,7 +18230,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1249,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -19509,7 +18250,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1250,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -19530,7 +18270,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1251,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -19551,7 +18290,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1252,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -19572,7 +18310,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1253,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -19593,7 +18330,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1254,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -19614,7 +18350,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1255,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -19635,7 +18370,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1256,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -19656,7 +18390,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1257,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -19677,7 +18410,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1258,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -19698,7 +18430,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1259,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -19719,7 +18450,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1260,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -19740,7 +18470,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1261,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -19761,7 +18490,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1262,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -19782,7 +18510,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1263,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -19803,7 +18530,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1264,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -19824,7 +18550,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1265,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -19845,7 +18570,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1266,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -19866,7 +18590,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1267,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -19887,7 +18610,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1268,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -19908,7 +18630,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1269,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -19929,7 +18650,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1270,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -19950,7 +18670,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1271,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -19971,7 +18690,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1272,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -19992,7 +18710,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1273,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -20013,7 +18730,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1274,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -20034,7 +18750,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1275,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -20055,7 +18770,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1276,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -20076,7 +18790,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1277,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -20097,7 +18810,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1278,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -20118,7 +18830,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1279,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -20139,7 +18850,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1280,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -20160,7 +18870,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1281,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -20181,7 +18890,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1282,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -20202,7 +18910,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1283,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -20223,7 +18930,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1284,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -20244,7 +18950,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1285,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -20265,7 +18970,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1286,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -20286,7 +18990,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1287,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -20307,7 +19010,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1288,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -20328,7 +19030,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1289,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -20349,7 +19050,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1290,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -20370,7 +19070,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1291,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -20391,7 +19090,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1292,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -20412,7 +19110,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1293,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -20433,7 +19130,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1294,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -20454,7 +19150,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1295,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -20475,7 +19170,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1296,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -20496,7 +19190,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1297,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -20517,7 +19210,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1298,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -20538,7 +19230,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1299,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -20559,7 +19250,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1300,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -20580,7 +19270,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1301,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -20601,7 +19290,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1302,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -20622,7 +19310,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1303,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -20643,7 +19330,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1304,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -20664,7 +19350,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1305,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -20685,7 +19370,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1306,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -20706,7 +19390,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1307,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -20727,7 +19410,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1308,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -20748,7 +19430,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1309,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -20769,7 +19450,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1310,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -20790,7 +19470,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1311,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -20811,7 +19490,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1312,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -20832,7 +19510,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1313,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -20853,7 +19530,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1314,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -20874,7 +19550,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1315,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -20895,7 +19570,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1316,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -20916,7 +19590,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1317,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -20937,7 +19610,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1318,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -20958,7 +19630,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1319,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -20979,7 +19650,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1320,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -21000,7 +19670,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1321,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -21021,7 +19690,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1322,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -21042,7 +19710,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1323,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -21063,7 +19730,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1324,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -21084,7 +19750,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1325,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -21105,7 +19770,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1326,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -21126,7 +19790,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1327,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -21147,7 +19810,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1328,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -21168,7 +19830,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1329,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -21189,7 +19850,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1330,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -21210,7 +19870,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1331,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -21231,7 +19890,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1332,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -21252,7 +19910,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1333,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -21273,7 +19930,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1334,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -21294,7 +19950,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1335,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -21315,7 +19970,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1336,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -21336,7 +19990,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1337,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -21357,7 +20010,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1338,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -21378,7 +20030,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1339,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -21399,7 +20050,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1340,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -21420,7 +20070,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1341,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -21441,7 +20090,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1342,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -21462,7 +20110,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1343,
     name: "Shirt Unbuttoned 2",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -21483,7 +20130,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1344,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -21504,7 +20150,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1345,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -21525,7 +20170,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1346,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -21546,7 +20190,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1347,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -21567,7 +20210,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1348,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -21588,7 +20230,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1349,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -21609,7 +20250,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1350,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -21630,7 +20270,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1351,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 1,
     partTypeId: 3,
@@ -21651,7 +20290,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1352,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -21672,7 +20310,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1353,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -21693,7 +20330,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1354,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -21714,7 +20350,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1355,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -21735,7 +20370,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1356,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -21756,7 +20390,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1357,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -21777,7 +20410,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1358,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -21798,7 +20430,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1359,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 2,
     partTypeId: 3,
@@ -21819,7 +20450,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1360,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -21840,7 +20470,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1361,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -21861,7 +20490,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1362,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -21882,7 +20510,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1363,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -21903,7 +20530,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1364,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -21924,7 +20550,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1365,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -21945,7 +20570,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1366,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -21966,7 +20590,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1367,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 3,
     partTypeId: 3,
@@ -21987,7 +20610,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1368,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -22008,7 +20630,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1369,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -22029,7 +20650,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1370,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -22050,7 +20670,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1371,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -22071,7 +20690,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1372,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -22092,7 +20710,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1373,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -22113,7 +20730,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1374,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -22134,7 +20750,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1375,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 4,
     partTypeId: 3,
@@ -22155,7 +20770,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1376,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -22176,7 +20790,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1377,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -22197,7 +20810,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1378,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -22218,7 +20830,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1379,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -22239,7 +20850,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1380,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -22260,7 +20870,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1381,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -22281,7 +20890,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1382,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -22302,7 +20910,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1383,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 5,
     partTypeId: 3,
@@ -22323,7 +20930,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1384,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -22344,7 +20950,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1385,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -22365,7 +20970,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1386,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -22386,7 +20990,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1387,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -22407,7 +21010,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1388,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -22428,7 +21030,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1389,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -22449,7 +21050,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1390,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -22470,7 +21070,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1391,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 6,
     partTypeId: 3,
@@ -22491,7 +21090,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1392,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -22512,7 +21110,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1393,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -22533,7 +21130,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1394,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -22554,7 +21150,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1395,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -22575,7 +21170,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1396,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -22596,7 +21190,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1397,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -22617,7 +21210,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1398,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -22638,7 +21230,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1399,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 7,
     partTypeId: 3,
@@ -22659,7 +21250,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1400,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -22680,7 +21270,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1401,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -22701,7 +21290,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1402,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -22722,7 +21310,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1403,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -22743,7 +21330,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1404,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -22764,7 +21350,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1405,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -22785,7 +21370,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1406,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -22806,7 +21390,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1407,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 8,
     partTypeId: 3,
@@ -22827,7 +21410,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1408,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -22848,7 +21430,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1409,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -22869,7 +21450,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1410,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -22890,7 +21470,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1411,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -22911,7 +21490,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1412,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -22932,7 +21510,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1413,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -22953,7 +21530,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1414,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -22974,7 +21550,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1415,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 9,
     partTypeId: 3,
@@ -22995,7 +21570,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1416,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -23016,7 +21590,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1417,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -23037,7 +21610,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1418,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -23058,7 +21630,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1419,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -23079,7 +21650,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1420,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -23100,7 +21670,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1421,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -23121,7 +21690,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1422,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -23142,7 +21710,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1423,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 10,
     partTypeId: 3,
@@ -23163,7 +21730,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1424,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -23184,7 +21750,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1425,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -23205,7 +21770,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1426,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -23226,7 +21790,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1427,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -23247,7 +21810,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1428,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -23268,7 +21830,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1429,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -23289,7 +21850,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1430,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -23310,7 +21870,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1431,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 11,
     partTypeId: 3,
@@ -23331,7 +21890,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1432,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -23352,7 +21910,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1433,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -23373,7 +21930,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1434,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -23394,7 +21950,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1435,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -23415,7 +21970,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1436,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -23436,7 +21990,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1437,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -23457,7 +22010,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1438,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -23478,7 +22030,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1439,
     name: "Shirt Unbuttoned 3",
     bodyShapeId: 12,
     partTypeId: 3,
@@ -23499,7 +22050,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1440,
     name: "Piercings 1",
     partTypeId: 15,
     colorId: 18,
@@ -23511,7 +22061,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1441,
     name: "Piercings 1",
     partTypeId: 15,
     colorId: 5,
@@ -23523,7 +22072,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1442,
     name: "Piercings 1",
     partTypeId: 15,
     colorId: 15,
@@ -23535,7 +22083,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1443,
     name: "Piercings 2",
     partTypeId: 15,
     colorId: 15,
@@ -23547,7 +22094,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1444,
     name: "Piercings 2",
     partTypeId: 15,
     colorId: 18,
@@ -23559,7 +22105,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1445,
     name: "Piercings 3",
     partTypeId: 15,
     colorId: 18,
@@ -23571,7 +22116,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1446,
     name: "Piercings 3",
     partTypeId: 15,
     colorId: 5,
@@ -23583,7 +22127,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1447,
     name: "Piercings 3",
     partTypeId: 15,
     colorId: 15,
@@ -23595,7 +22138,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1448,
     name: "Glasses 1",
     partTypeId: 11,
     colorId: 5,
@@ -23607,7 +22149,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1449,
     name: "Glasses 1",
     partTypeId: 11,
     colorId: 6,
@@ -23619,7 +22160,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1450,
     name: "Glasses 1",
     partTypeId: 11,
     colorId: 7,
@@ -23631,7 +22171,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1451,
     name: "Glasses 1",
     partTypeId: 11,
     colorId: 8,
@@ -23643,7 +22182,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1452,
     name: "Glasses 1",
     partTypeId: 11,
     colorId: 9,
@@ -23655,7 +22193,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1453,
     name: "Glasses 1",
     partTypeId: 11,
     colorId: 10,
@@ -23667,7 +22204,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1454,
     name: "Glasses 1",
     partTypeId: 11,
     colorId: 11,
@@ -23679,7 +22215,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1455,
     name: "Glasses 1",
     partTypeId: 11,
     colorId: 12,
@@ -23691,7 +22226,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1456,
     name: "Glasses 2",
     partTypeId: 11,
     colorId: 5,
@@ -23703,7 +22237,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1457,
     name: "Glasses 2",
     partTypeId: 11,
     colorId: 6,
@@ -23715,7 +22248,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1458,
     name: "Glasses 2",
     partTypeId: 11,
     colorId: 7,
@@ -23727,7 +22259,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1459,
     name: "Glasses 2",
     partTypeId: 11,
     colorId: 8,
@@ -23739,7 +22270,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1460,
     name: "Glasses 2",
     partTypeId: 11,
     colorId: 9,
@@ -23751,7 +22281,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1461,
     name: "Glasses 2",
     partTypeId: 11,
     colorId: 10,
@@ -23763,7 +22292,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1462,
     name: "Glasses 2",
     partTypeId: 11,
     colorId: 11,
@@ -23775,7 +22303,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1463,
     name: "Glasses 2",
     partTypeId: 11,
     colorId: 12,
@@ -23787,7 +22314,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1464,
     name: "Glasses 3",
     partTypeId: 11,
     colorId: 5,
@@ -23799,7 +22325,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1465,
     name: "Glasses 3",
     partTypeId: 11,
     colorId: 6,
@@ -23811,7 +22336,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1466,
     name: "Glasses 3",
     partTypeId: 11,
     colorId: 7,
@@ -23823,7 +22347,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1467,
     name: "Glasses 3",
     partTypeId: 11,
     colorId: 8,
@@ -23835,7 +22358,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1468,
     name: "Glasses 3",
     partTypeId: 11,
     colorId: 9,
@@ -23847,7 +22369,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1469,
     name: "Glasses 3",
     partTypeId: 11,
     colorId: 10,
@@ -23859,7 +22380,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1470,
     name: "Glasses 3",
     partTypeId: 11,
     colorId: 11,
@@ -23871,7 +22391,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1471,
     name: "Glasses 3",
     partTypeId: 11,
     colorId: 12,
@@ -23883,7 +22402,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1472,
     name: "Glasses 4",
     partTypeId: 11,
     colorId: 5,
@@ -23895,7 +22413,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1473,
     name: "Glasses 4",
     partTypeId: 11,
     colorId: 6,
@@ -23907,7 +22424,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1474,
     name: "Glasses 4",
     partTypeId: 11,
     colorId: 7,
@@ -23919,7 +22435,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1475,
     name: "Glasses 4",
     partTypeId: 11,
     colorId: 8,
@@ -23931,7 +22446,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1476,
     name: "Glasses 4",
     partTypeId: 11,
     colorId: 9,
@@ -23943,7 +22457,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1477,
     name: "Glasses 4",
     partTypeId: 11,
     colorId: 10,
@@ -23955,7 +22468,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1478,
     name: "Glasses 4",
     partTypeId: 11,
     colorId: 11,
@@ -23967,7 +22479,6 @@ const configParts: ConfigPart[] = [
     ]
   },
   {
-    id: 1479,
     name: "Glasses 4",
     partTypeId: 11,
     colorId: 12,

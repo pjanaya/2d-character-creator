@@ -20,7 +20,6 @@ export interface ConfigImage {
 }
 
 export interface ConfigPart {
-  id: number;
   name: string;
   partTypeId: number;
   images: ConfigImage[];
