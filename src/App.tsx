@@ -17,8 +17,33 @@ function App() {
     configUtils.part.getDefaultSelection(firstSkinToneId)
   );
   const [skinTone, setSkinTone] = React.useState<number>(firstSkinToneId);
+  const [changing, setChanging] = React.useState<boolean>(false);
+
+  React.useEffect(() => {
+    loadPartsFromUrl();
+  }, []);
+
+  const loadPartsFromUrl = () => {
+    const characterBase64 = window.location.hash.split("#")[1];
+    if (characterBase64) {
+      console.log(characterBase64);
+      const savedPartInfoArray: ConfigPart[] = JSON.parse(
+        atob(characterBase64)
+      );
+      setChanging(true);
+      setTimeout(() => setChanging(false), 500);
+      setPartInfoArray([...savedPartInfoArray]);
+
+      const newSkinTone = savedPartInfoArray.find(part =>
+        configUtils.partType.usesSkinTone(part.partTypeId)
+      )?.colorId;
+      if (newSkinTone) setSkinTone(newSkinTone);
+    }
+  };
 
   const removePart = (removedPart: ConfigPart) => {
+    cleanUrl();
+
     setPartInfoArray(prevState => {
       const newState = [...prevState];
 
@@ -34,6 +59,8 @@ function App() {
   };
 
   const addPart = (newPart: ConfigPart) => {
+    cleanUrl();
+
     setPartInfoArray(prevState => {
       const newState = [...prevState];
       let shouldAdd = true;
@@ -74,6 +101,7 @@ function App() {
   };
 
   const changeSkinTone = (newSkinTone: number) => {
+    cleanUrl();
     setSkinTone(newSkinTone);
 
     setPartInfoArray(prevState => {
@@ -101,6 +129,7 @@ function App() {
   };
 
   const randomize = () => {
+    cleanUrl();
     const randomSelection: ConfigPart[] = [];
 
     const randomSkinTone: ConfigColor = _.sample(
@@ -133,6 +162,8 @@ function App() {
     });
 
     setSkinTone(randomSkinTone.id);
+    setChanging(true);
+    setTimeout(() => setChanging(false), 500);
     setPartInfoArray([...randomSelection]);
   };
 
@@ -160,9 +191,27 @@ function App() {
     }
   };
 
+  const share = () => {
+    const partInfoArrayBase64 = btoa(JSON.stringify(partInfoArray));
+    window.location.href =
+      window.location.href.split("#")[0] + "#" + partInfoArrayBase64;
+  };
+
+  const refresh = () => {
+    cleanUrl();
+    const defaultParts = configUtils.part.getDefaultSelection(firstSkinToneId);
+    setChanging(true);
+    setTimeout(() => setChanging(false), 500);
+    setPartInfoArray([...defaultParts]);
+    setSkinTone(firstSkinToneId);
+  };
+
+  const cleanUrl = () =>
+    (window.location.href = window.location.href.split("#")[0] + "#");
+
   return (
     <div className={classes.App}>
-      <Character partsArray={partInfoArray}></Character>
+      <Character partsArray={partInfoArray} changing={changing}></Character>
       <Selector
         addPart={addPart}
         removePart={removePart}
@@ -171,6 +220,8 @@ function App() {
         partsArray={partInfoArray}
         randomize={randomize}
         save={save}
+        share={share}
+        refresh={refresh}
       ></Selector>
     </div>
   );

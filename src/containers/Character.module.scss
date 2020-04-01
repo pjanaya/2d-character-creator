@@ -3,4 +3,10 @@
   justify-self: end;
   width: 100%;
   height: 100%;
+  filter: blur(0px);
+  transition: 0.1s all linear;
+}
+
+.Changing {
+  filter: blur(2px);
 }

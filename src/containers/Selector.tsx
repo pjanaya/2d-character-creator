@@ -16,6 +16,8 @@ interface SelectorProps {
   partsArray: ConfigPart[];
   randomize: () => void;
   save: () => void;
+  share: () => void;
+  refresh: () => void;
 }
 
 const Selector = (props: SelectorProps) => {
@@ -29,6 +31,8 @@ const Selector = (props: SelectorProps) => {
         partType={partType}
         randomize={props.randomize}
         save={props.save}
+        share={props.share}
+        refresh={props.refresh}
       ></PartTypes>
       {partType !== undefined && (
         <React.Fragment>
