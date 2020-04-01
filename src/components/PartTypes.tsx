@@ -9,6 +9,8 @@ interface PartTypesProps {
   partType: number | undefined;
   randomize: () => void;
   save: () => void;
+  share: () => void;
+  refresh: () => void;
 }
 
 export const PartTypes = (props: PartTypesProps) => {
@@ -19,11 +21,19 @@ export const PartTypes = (props: PartTypesProps) => {
       <div className={classes.actions}>
         <div
           className={classes.action}
+          onClick={() => {
+            props.refresh();
+          }}
+        >
+          <img src={urlPrefix + "/refresh.png"} alt="refresh" />
+        </div>
+        <div
+          className={classes.action}
           onClick={e => {
             props.save();
           }}
         >
-          <img src={urlPrefix + "/save.png"} alt="random" />
+          <img src={urlPrefix + "/save.png"} alt="save" />
         </div>
         <div
           className={classes.action}
@@ -32,6 +42,14 @@ export const PartTypes = (props: PartTypesProps) => {
           }}
         >
           <img src={urlPrefix + "/random.png"} alt="random" />
+        </div>
+        <div
+          className={classes.action}
+          onClick={() => {
+            props.share();
+          }}
+        >
+          <img src={urlPrefix + "/share.png"} alt="share" />
         </div>
       </div>
 
