@@ -83,6 +83,7 @@ const configPartTypes: ConfigPartType[] = [
   {
     id: 10,
     name: "Accesories",
+    boundToBodyShape: true,
     iconFilename: "icon_accesories"
   },
   {
@@ -95,6 +96,12 @@ const configPartTypes: ConfigPartType[] = [
     name: "Back Hair",
     iconFilename: "icon_backhair",
     allowsMultipleSelection: true
+  },
+  {
+    id: 17,
+    name: "Shoes",
+    boundToBodyShape: true,
+    iconFilename: "icon_shoes"
   }
 ];
 
