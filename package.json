@@ -20,7 +20,7 @@
     "react-scripts": "3.4.0",
     "react-transition-group": "^1.2.1",
     "typescript": "^3.7.5",
-    "underscore": "1.9.2"
+    "underscore": "1.12.1"
   },
   "scripts": {
     "start": "react-scripts start",
