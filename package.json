@@ -13,7 +13,7 @@
     "@types/underscore": "1.9.4",
     "classnames": "^2.2.6",
     "html2canvas": "^1.0.0-rc.5",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.0",
     "react-animation": "^1.2.2",
     "react-dom": "^16.13.0",
